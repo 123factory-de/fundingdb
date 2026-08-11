@@ -1,0 +1,34 @@
+{{ define "main" }}
+{{ $programs := where site.RegularPages "Section" "programs" }}
+{{ $openCount := len (where $programs "Params.status" "in" (slice "open" "soon" "always")) }}
+<div class="container">
+  <section class="hero">
+    <h1>한국 기업을 위한 유럽 R&amp;D 지원사업</h1>
+    <p>Horizon Europe부터 한-독 공동기술개발까지, 한국 기업이 지금 지원할 수 있는 유럽·독일의 R&amp;D 그랜트만 모아 한국어로 정리했습니다.</p>
+    <div class="stats">
+      <span class="stat">등록 사업 <b>{{ len $programs }}건</b></span>
+      <span class="stat">모집·공고중 <b>{{ $openCount }}건</b></span>
+      <span class="stat">최근 업데이트 <b>{{ now.Format "2006. 1. 2." }}</b></span>
+    </div>
+  </section>
+
+  <div class="filters">
+    <button class="chip on" data-filter="all" type="button">전체</button>
+    <button class="chip" data-filter="eu" type="button">EU 공동</button>
+    <button class="chip" data-filter="de" type="button">독일</button>
+    <button class="chip" data-filter="bilateral" type="button">양자협력</button>
+    <label class="open-toggle"><input type="checkbox" id="open-only">모집중만 보기</label>
+  </div>
+
+  <div class="grid">
+    {{ range partial "sorted-programs.html" . }}
+      {{ partial "program-card.html" . }}
+    {{ end }}
+  </div>
+
+  <a class="teaser" href="{{ "compare/" | relURL }}">
+    <span><b>한눈에 비교</b> &nbsp;<span>지원규모·자격·마감을 표 하나로 정렬해서 보기</span></span>
+    <span class="go">비교표 열기 →</span>
+  </a>
+</div>
+{{ end }}

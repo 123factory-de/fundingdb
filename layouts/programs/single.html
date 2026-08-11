@@ -1,0 +1,48 @@
+{{ define "main" }}
+{{- $statusLabel := dict "open" "모집중" "soon" "마감임박" "always" "연중 공고" "planned" "공고 예정" "closed" "마감" -}}
+{{- $regionLabel := dict "eu" "EU 공동" "de" "독일" "bilateral" "양자협력" -}}
+<div class="container detail" data-status="{{ .Params.status }}">
+  <div class="detail-head">
+    <div class="card-top">
+      <span class="badge b-{{ .Params.status }}">{{ index $statusLabel .Params.status }}</span>
+      {{ if .Params.deadline }}
+        <span class="dday" data-deadline="{{ .Params.deadline }}"></span>
+      {{ else if .Params.deadline_note }}
+        <span class="dday">{{ .Params.deadline_note }}</span>
+      {{ end }}
+    </div>
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.subtitle }}<div class="sub">{{ . }}</div>{{ end }}
+    <div class="regions">
+      {{ range .Params.regions }}<span class="rchip r-{{ . }}">{{ index $regionLabel . }}</span>{{ end }}
+    </div>
+  </div>
+
+  <div class="facts">
+    {{ with .Params.amount }}<div class="fact"><div class="k">지원규모</div><div class="v">{{ . }}</div></div>{{ end }}
+    {{ with .Params.target }}<div class="fact"><div class="k">지원대상</div><div class="v">{{ . }}</div></div>{{ end }}
+    {{ with .Params.duration }}<div class="fact"><div class="k">사업기간</div><div class="v">{{ . }}</div></div>{{ end }}
+    <div class="fact"><div class="k">접수마감</div><div class="v">{{ with .Params.deadline }}{{ (time .).Format "2006. 1. 2." }}{{ else }}{{ .Params.deadline_note }}{{ end }}</div></div>
+    {{ with .Params.org_eu }}<div class="fact"><div class="k">유럽측 기관</div><div class="v">{{ . }}</div></div>{{ end }}
+    {{ with .Params.org_kr }}<div class="fact"><div class="k">한국측 기관</div><div class="v">{{ . }}</div></div>{{ end }}
+    {{ with .Params.apply_via }}<div class="fact"><div class="k">신청 경로</div><div class="v">{{ . }}</div></div>{{ end }}
+  </div>
+
+  <div class="prose">
+    {{ .Content }}
+  </div>
+
+  {{ with .Params.links }}
+  <div class="linkbox">
+    <h2>공식 링크 · 출처</h2>
+    <div class="links">
+      {{ range . }}<a href="{{ .url }}" target="_blank" rel="noopener">{{ .name }} ↗</a>{{ end }}
+    </div>
+  </div>
+  {{ end }}
+
+  {{ with .Params.verified }}
+  <p class="verified">최종 확인일 {{ (time .).Format "2006. 1. 2." }} — 본 내용은 위 공식 출처를 기준으로 작성한 요약이며, 지원 전 반드시 공식 공고를 확인하세요.</p>
+  {{ end }}
+</div>
+{{ end }}
