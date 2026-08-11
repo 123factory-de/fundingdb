@@ -1,7 +1,19 @@
 (function () {
-  // D-day: computed in the browser so the static site stays accurate between builds.
+  // D-day and status badges: computed in the browser so the static site stays
+  // accurate between builds (deadline passing, call opening, deadline approaching).
+  var LABEL = { open: "모집중", soon: "마감임박", closed: "마감" };
   var today = new Date();
   today.setHours(0, 0, 0, 0);
+
+  function setStatus(card, status) {
+    card.setAttribute("data-status", status);
+    var badge = card.querySelector(".badge");
+    if (badge) {
+      badge.textContent = LABEL[status];
+      badge.className = "badge b-" + status;
+    }
+  }
+
   document.querySelectorAll("[data-deadline]").forEach(function (el) {
     var d = new Date(el.getAttribute("data-deadline") + "T00:00:00");
     if (isNaN(d)) return;
@@ -10,17 +22,21 @@
     if (diff < 0) {
       el.textContent = "마감";
       el.classList.remove("hot");
-      if (card) {
-        card.setAttribute("data-status", "closed");
-        var badge = card.querySelector(".badge");
-        if (badge) {
-          badge.textContent = "마감";
-          badge.className = "badge b-closed";
-        }
+      if (card) setStatus(card, "closed");
+      return;
+    }
+    el.textContent = "D-" + diff;
+    if (diff <= 14) el.classList.add("hot");
+    if (!card) return;
+    var status = card.getAttribute("data-status");
+    var openAttr = card.getAttribute("data-open-date");
+    if (status === "planned") {
+      // Flip to open only when the announced opening date has arrived.
+      if (openAttr && !(today < new Date(openAttr + "T00:00:00"))) {
+        setStatus(card, diff <= 14 ? "soon" : "open");
       }
-    } else {
-      el.textContent = "D-" + diff;
-      if (diff <= 14) el.classList.add("hot");
+    } else if (status === "open" || status === "soon") {
+      setStatus(card, diff <= 14 ? "soon" : "open");
     }
   });
 
