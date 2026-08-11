@@ -1,0 +1,17 @@
+baseURL = "https://fundingdb.123factory.de/"
+title = "Funding DB — 한국 기업을 위한 유럽 R&D 지원사업"
+languageCode = "ko-kr"
+defaultContentLanguage = "ko"
+timeZone = "Europe/Berlin"
+enableRobotsTXT = true
+disableKinds = ["taxonomy", "term"]
+
+[params]
+description = "Horizon Europe, Eurostars, 한-독 공동기술개발 등 한국 기업이 지원할 수 있는 유럽·독일 R&D 지원사업을 한국어로 정리한 데이터베이스입니다."
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[outputs]
+home = ["HTML"]
+section = ["HTML"]

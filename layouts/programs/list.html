@@ -1,0 +1,20 @@
+{{ define "main" }}
+<div class="container">
+  <section class="hero">
+    <h1>{{ .Title }}</h1>
+    {{ with .Description }}<p>{{ . }}</p>{{ end }}
+  </section>
+  <div class="filters">
+    <button class="chip on" data-filter="all" type="button">전체</button>
+    <button class="chip" data-filter="eu" type="button">EU 공동</button>
+    <button class="chip" data-filter="de" type="button">독일</button>
+    <button class="chip" data-filter="bilateral" type="button">양자협력</button>
+    <label class="open-toggle"><input type="checkbox" id="open-only">모집중만 보기</label>
+  </div>
+  <div class="grid">
+    {{ range partial "sorted-programs.html" . }}
+      {{ partial "program-card.html" . }}
+    {{ end }}
+  </div>
+</div>
+{{ end }}

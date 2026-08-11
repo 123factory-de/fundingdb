@@ -1,0 +1,4 @@
+{{- $programs := where site.RegularPages "Section" "programs" -}}
+{{- $withDeadline := sort (where $programs "Params.deadline" "!=" nil) "Params.deadline" "asc" -}}
+{{- $noDeadline := sort (where $programs "Params.deadline" "==" nil) "Weight" "asc" -}}
+{{- return (append $noDeadline $withDeadline) -}}

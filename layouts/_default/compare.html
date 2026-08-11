@@ -1,0 +1,30 @@
+{{ define "main" }}
+{{- $statusLabel := dict "open" "모집중" "soon" "마감임박" "always" "연중 공고" "planned" "공고 예정" "closed" "마감" -}}
+{{- $regionLabel := dict "eu" "EU" "de" "독일" "bilateral" "양자" -}}
+<div class="container compare">
+  <h1>{{ .Title }}</h1>
+  <p class="sub">한국 기업이 지원 가능한 사업만 등록 · 마감일순 정렬 · {{ now.Format "2006. 1. 2." }} 업데이트</p>
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>프로그램</th><th>지역</th><th>한국측 지원규모</th><th>지원대상</th><th>접수마감</th><th>상태</th><th>링크</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{ range partial "sorted-programs.html" . }}
+        <tr>
+          <td class="name"><a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ with .Params.subtitle }}<small>{{ . }}</small>{{ end }}</td>
+          <td>{{ range .Params.regions }}<span class="rchip r-{{ . }}">{{ index $regionLabel . }}</span> {{ end }}</td>
+          <td>{{ .Params.amount_short | default .Params.amount }}</td>
+          <td>{{ .Params.target_short | default .Params.target }}</td>
+          <td>{{ with .Params.deadline }}{{ (time .).Format "2006. 1. 2." }}{{ else }}{{ .Params.deadline_note }}{{ end }}</td>
+          <td><span class="badge b-{{ .Params.status }}">{{ index $statusLabel .Params.status }}</span></td>
+          <td>{{ with index .Params.links 0 }}<a class="link" href="{{ .url }}" target="_blank" rel="noopener">{{ .name }} ↗</a>{{ end }}</td>
+        </tr>
+        {{ end }}
+      </tbody>
+    </table>
+  </div>
+</div>
+{{ end }}
