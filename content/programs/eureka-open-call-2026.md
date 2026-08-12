@@ -11,7 +11,7 @@ target: "기업 중심 컨소시엄"
 target_short: "기업 중심 컨소시엄"
 duration: "3년 이내"
 org_eu: "EUREKA 사무국 · 각국 펀딩기관"
-org_kr: "산업통상부 · KIAT"
+org_kr: "한국산업기술진흥원(KIAT)"
 apply_via: "유레카 플랫폼 + K-PASS"
 links:
   - name: "오픈콜 공고"
@@ -22,7 +22,7 @@ links:
     url: "https://www.k-pass.kr/notice/ancList.do"
   - name: "2026년 통합공고 원문 (K-PASS)"
     url: "https://www.k-pass.kr/notice/ancView.do?ancId=P2950&gubun=NEW"
-verified: "2026-08-11"
+verified: "2026-08-12"
 ---
 
 ## 개요

@@ -11,7 +11,7 @@ target: "한국 기업 + 독일 중소기업 컨소시엄"
 target_short: "기업 컨소시엄"
 duration: "3년 이내"
 org_eu: "BMWE · ZIM (AiF Projekt GmbH)"
-org_kr: "산업통상부 · KIAT"
+org_kr: "한국산업기술진흥원(KIAT)"
 apply_via: "공동제안서 + K-PASS / AiF"
 links:
   - name: "ZIM 공식 페이지"
@@ -20,12 +20,12 @@ links:
     url: "https://www.kiat.or.kr/front/board/boardContentsListPage.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e"
   - name: "K-PASS 접수"
     url: "https://www.k-pass.kr/notice/ancList.do"
-verified: "2026-08-11"
+verified: "2026-08-12"
 ---
 
 ## 개요
 
-한국 산업통상부(KIAT)와 독일 연방경제에너지부(BMWE)의 중소기업 혁신 프로그램 **ZIM**이 공동 운영하는 양자 공동 R&D 사업입니다. 한국과 독일 기업이 컨소시엄을 구성해 시장지향형 기술개발을 수행하면 양국 정부가 자국 기관을 각각 지원합니다.
+한국산업기술진흥원(KIAT)과 독일 ZIM 전담기관인 **AiF Projekt GmbH**가 운영하는 양자 공동 R&D 사업입니다. 한국과 독일 기업이 컨소시엄을 구성해 시장지향형 기술개발을 수행하면 양국 정부가 자국 기관을 각각 지원합니다.
 
 **제12차 공고는 2026년 6월 18일 접수 마감**되어 현재 평가 중입니다(결과 통보 2026년 11월경). 차기(13차) 공고는 관행상 연초에 나왔으므로 **2027년 초로 예상**되며, 확정 일정은 KIAT·ZIM 공고를 확인하세요. 로봇·반도체 분야의 독일 2+2형(DLR)은 별도 안내 예정입니다.
 

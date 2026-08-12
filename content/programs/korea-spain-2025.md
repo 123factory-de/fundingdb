@@ -11,7 +11,7 @@ target: "중소·중견기업 주관"
 target_short: "중소·중견기업"
 duration: "3년 이내"
 org_eu: "CDTI (스페인 산업기술개발센터)"
-org_kr: "산업통상부 · KIAT"
+org_kr: "한국산업기술진흥원(KIAT)"
 apply_via: "K-PASS"
 links:
   - name: "KIAT 사업공고"
@@ -20,7 +20,7 @@ links:
     url: "https://www.k-pass.kr/notice/ancList.do"
   - name: "CDTI 공식 사이트"
     url: "https://www.cdti.es/"
-verified: "2026-08-11"
+verified: "2026-08-12"
 ---
 
 ## 개요

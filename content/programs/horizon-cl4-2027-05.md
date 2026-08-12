@@ -25,18 +25,18 @@ links:
     url: "https://horizoneuropekorea.eu"
   - name: "한-EU 연구협력센터 (KERC)"
     url: "https://k-erc.eu"
-verified: "2026-08-11"
+verified: "2026-08-12"
 ---
 
 ## 개요
 
 Horizon Europe Pillar 2 **Cluster 4(디지털·산업·우주)**의 2027년 소규모 디지털 공고입니다(총 €25M). **2026년 11월 17일 개시, 마감은 2027년 3월 18일 17:00(브뤼셀)** 예정이며, 같은 일정의 디지털 본 공고 [HORIZON-CL4-2027-04](/programs/horizon-cl4-2027-04/)(€272M)와 함께 개시됩니다.
 
-한국 소재 법인(기업·대학·연구소)은 준회원국 자격으로 EU 기관과 **동등하게 참여**하고 EU 예산에서 연구비를 직접 수령할 수 있습니다. 개시일은 ±1개월, 마감일은 최대 2개월 조정될 수 있습니다. 개시 전에도 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf)에서 토픽을 미리 확인하고 컨소시엄을 준비할 수 있습니다.
+한국 소재 법인(기업·대학·연구소)은 Horizon Europe Pillar 2 준회원국 자격으로 원칙적으로 EU 회원국 기관과 거의 동등한 조건에서 참여하고 EU 예산을 직접 지원받을 수 있습니다. 다만 일부 보안·우주·전략기술 토픽은 참여국이나 기관에 별도 제한을 두므로 개별 공고의 자격조건을 확인해야 합니다. 개시일은 ±1개월, 마감일은 최대 2개월 조정될 수 있습니다. 개시 전에도 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf)에서 토픽을 미리 확인하고 컨소시엄을 준비할 수 있습니다.
 
 ## 지원자격 · 지원율 (Pillar 2 공통)
 
-- 한국에 설립된 법인이면 기업(중소기업 포함)·대학·연구기관 모두 참여 가능, **주관기관(코디네이터)**도 가능
+- 한국 소재 기업(중소기업 포함)·대학·연구기관은 원칙적으로 참여 및 **주관기관(코디네이터)** 역할 가능. 단, 보안·우주·전략기술 등 일부 토픽의 별도 참여 제한은 개별 공고에서 확인
 - 컨소시엄 최소 요건: 서로 독립적인 **3개 이상 법인**, 그중 EU 회원국 소재 1개 이상 + 서로 다른 회원국·준회원국 소재 2개 이상
 - 지원율: RIA(연구혁신과제) 직접비 **100%** · IA(혁신과제) 영리기업 **70%** · 간접비 직접비의 **25% 정률** 추가
 
