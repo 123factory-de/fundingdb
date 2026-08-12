@@ -2,7 +2,7 @@
 title: "Horizon Europe 2027 · 산업 FTRI"
 subtitle: "HORIZON-CL4-2027-06 · Cluster 4 Industry"
 weight: 128
-regions: ["eu"]
+tags: ["horizon"]
 status: "planned"
 open_date: "2026-09-22"
 deadline: "2027-02-02"

@@ -2,7 +2,7 @@
 title: "Xecs Call 6 · 전자부품·시스템"
 subtitle: "EUREKA 클러스터 · 전자부품·시스템 국제공동 R&D"
 weight: 28
-regions: ["eu"]
+tags: ["eureka"]
 status: "open"
 deadline: "2027-01-21"
 amount: "한국측 연 5억 원 이내 (KIAT)"

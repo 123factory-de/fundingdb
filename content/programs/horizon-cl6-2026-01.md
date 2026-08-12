@@ -2,7 +2,7 @@
 title: "Horizon Europe 2026 · 생물다양성·순환경제·환경"
 subtitle: "HORIZON-CL6-2026-01 · Cluster 6"
 weight: 112
-regions: ["eu"]
+tags: ["horizon"]
 status: "open"
 deadline: "2026-09-17"
 amount: "콜 총 €210M · 과제당 통상 100만~1,000만 유로"

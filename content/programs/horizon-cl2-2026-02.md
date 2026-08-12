@@ -2,7 +2,7 @@
 title: "Horizon Europe 2026 · 사회전환 파트너십"
 subtitle: "HORIZON-CL2-2026-02 · COFUND"
 weight: 107
-regions: ["eu"]
+tags: ["horizon"]
 status: "open"
 deadline: "2026-10-13"
 amount: "콜 총 €60M (COFUND)"

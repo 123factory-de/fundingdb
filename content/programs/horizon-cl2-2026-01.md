@@ -2,7 +2,7 @@
 title: "Horizon Europe 2026 · 문화·창의·포용사회"
 subtitle: "HORIZON-CL2-2026-01 · Cluster 2"
 weight: 106
-regions: ["eu"]
+tags: ["horizon"]
 status: "open"
 deadline: "2026-09-23"
 amount: "콜 총 €298.5M · 과제당 통상 100만~1,000만 유로"

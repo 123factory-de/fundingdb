@@ -2,7 +2,7 @@
 title: "Horizon Europe 2027 · 우주"
 subtitle: "HORIZON-CL4-2027-03 · Cluster 4 Space"
 weight: 62
-regions: ["eu"]
+tags: ["horizon"]
 status: "planned"
 open_date: "2027-03-09"
 deadline: "2027-09-02"

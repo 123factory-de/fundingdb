@@ -2,7 +2,7 @@
 title: "Horizon Europe 2027 · 기후"
 subtitle: "HORIZON-CL5-2027-01 · Cluster 5"
 weight: 119
-regions: ["eu"]
+tags: ["horizon"]
 status: "planned"
 open_date: "2026-11-17"
 deadline: "2027-03-04"

@@ -1,6 +1,6 @@
 {{- $statusLabel := dict "open" "모집중" "soon" "마감임박" "always" "연중 공고" "planned" "공고 예정" "closed" "마감" -}}
-{{- $regionLabel := dict "eu" "EU 공동" "bilateral" "양자협력" -}}
-<article class="card" data-regions="{{ delimit .Params.regions " " }}" data-status="{{ .Params.status }}"{{ with .Params.open_date }} data-open-date="{{ . }}"{{ end }}>
+{{- $tagLabel := dict "bilateral" "양자협력" "horizon" "Horizon Europe" "eureka" "Eureka" -}}
+<article class="card" data-tags="{{ delimit .Params.tags " " }}" data-status="{{ .Params.status }}"{{ with .Params.open_date }} data-open-date="{{ . }}"{{ end }}>
   <div class="card-top">
     <span class="badge b-{{ .Params.status }}">{{ index $statusLabel .Params.status }}</span>
     {{ if .Params.deadline }}
@@ -10,8 +10,8 @@
     {{ end }}
   </div>
   <h2>{{ .Title }}{{ with .Params.subtitle }}<span class="en">{{ . }}</span>{{ end }}</h2>
-  <div class="regions">
-    {{ range .Params.regions }}<span class="rchip r-{{ . }}">{{ index $regionLabel . }}</span>{{ end }}
+  <div class="tags">
+    {{ range .Params.tags }}<span class="rchip r-{{ . }}">{{ index $tagLabel . }}</span>{{ end }}
   </div>
   <div class="card-rows">
     <div class="card-row"><span class="k">지원규모</span><span class="v">{{ .Params.amount_short | default .Params.amount }}</span></div>

@@ -2,7 +2,7 @@
 title: "Horizon Europe 2026 · 청정산업"
 subtitle: "HORIZON-CID-2026-01 · Clean Industrial Deal"
 weight: 16
-regions: ["eu"]
+tags: ["horizon"]
 status: "open"
 deadline: "2026-09-15"
 amount: "콜 총 €275M · 과제당 EU 지원 1,500만~2,500만 유로"

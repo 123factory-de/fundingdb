@@ -2,7 +2,7 @@
 title: "Horizon Europe 2026 · 배터리·에너지 (상반기)"
 subtitle: "HORIZON-CL5-2026-03 · Cluster 5"
 weight: 87
-regions: ["eu"]
+tags: ["horizon"]
 status: "closed"
 deadline: "2026-03-31"
 amount: "콜 총 €176.7M · 과제당 통상 100만~1,000만 유로"

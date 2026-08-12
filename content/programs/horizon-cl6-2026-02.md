@@ -2,7 +2,7 @@
 title: "Horizon Europe 2026 · 식품 시스템"
 subtitle: "HORIZON-CL6-2026-02 · Cluster 6"
 weight: 80
-regions: ["eu"]
+tags: ["horizon"]
 status: "closed"
 deadline: "2026-04-14"
 amount: "콜 총 €166.4M · 과제당 통상 100만~1,000만 유로"

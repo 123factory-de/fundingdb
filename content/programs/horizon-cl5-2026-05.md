@@ -2,7 +2,7 @@
 title: "Horizon Europe 2026 · 청정 모빌리티 (상반기)"
 subtitle: "HORIZON-CL5-2026-05 · Cluster 5"
 weight: 89
-regions: ["eu"]
+tags: ["horizon"]
 status: "closed"
 deadline: "2026-04-14"
 amount: "콜 총 €138M · 과제당 통상 100만~1,000만 유로"

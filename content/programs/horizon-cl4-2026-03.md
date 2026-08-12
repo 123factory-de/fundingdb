@@ -2,7 +2,7 @@
 title: "Horizon Europe 2026 · 우주"
 subtitle: "HORIZON-CL4-2026-03 · Cluster 4 Space"
 weight: 13
-regions: ["eu"]
+tags: ["horizon"]
 status: "open"
 deadline: "2026-09-03"
 amount: "콜 총 €91M · 과제당 통상 100만~1,000만 유로"

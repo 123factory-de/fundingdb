@@ -2,7 +2,7 @@
 title: "Horizon Europe 2027 · 산업"
 subtitle: "HORIZON-CL4-2027-01 · Cluster 4 Industry"
 weight: 61
-regions: ["eu"]
+tags: ["horizon"]
 status: "planned"
 open_date: "2026-09-22"
 deadline: "2027-02-02"

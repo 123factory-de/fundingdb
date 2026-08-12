@@ -2,7 +2,7 @@
 title: "Horizon Europe 2026 · 기후과학"
 subtitle: "HORIZON-CL5-2026-08-Two-Stage · Cluster 5"
 weight: 92
-regions: ["eu"]
+tags: ["horizon"]
 status: "closed"
 deadline: "2026-04-15"
 amount: "콜 총 €45M · 과제당 통상 100만~1,000만 유로"

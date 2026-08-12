@@ -2,7 +2,7 @@
 title: "Horizon Europe 2026 · 디지털"
 subtitle: "HORIZON-CL4-2026-04 · Cluster 4 Digital"
 weight: 95
-regions: ["eu"]
+tags: ["horizon"]
 status: "closed"
 deadline: "2026-04-15"
 amount: "콜 총 €221.8M · 과제당 통상 100만~1,000만 유로"

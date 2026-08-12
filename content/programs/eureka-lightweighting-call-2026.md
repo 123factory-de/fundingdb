@@ -2,7 +2,7 @@
 title: "유레카 경량화 콜 2026"
 subtitle: "EUREKA Network Projects · 경량화 기술 주제별 콜"
 weight: 23
-regions: ["eu"]
+tags: ["eureka"]
 status: "open"
 deadline: "2026-10-12"
 amount: "한국측 연 5억 원 이내 (KIAT)"

@@ -2,7 +2,7 @@
 title: "Horizon Europe 2026 · 에너지"
 subtitle: "HORIZON-CL5-2026-11 · Cluster 5"
 weight: 118
-regions: ["eu"]
+tags: ["horizon"]
 status: "open"
 deadline: "2026-12-01"
 amount: "콜 총 €131.5M · 과제당 통상 100만~1,000만 유로"

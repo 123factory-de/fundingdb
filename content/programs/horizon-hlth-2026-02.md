@@ -2,7 +2,7 @@
 title: "Horizon Europe 2026 · 희귀질환 파트너십"
 subtitle: "HORIZON-HLTH-2026-02 · ERDERA COFUND"
 weight: 101
-regions: ["eu"]
+tags: ["horizon"]
 status: "open"
 deadline: "2026-09-15"
 amount: "콜 총 €91.3M (COFUND 파트너십)"

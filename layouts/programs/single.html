@@ -1,6 +1,6 @@
 {{ define "main" }}
 {{- $statusLabel := dict "open" "모집중" "soon" "마감임박" "always" "연중 공고" "planned" "공고 예정" "closed" "마감" -}}
-{{- $regionLabel := dict "eu" "EU 공동" "bilateral" "양자협력" -}}
+{{- $tagLabel := dict "bilateral" "양자협력" "horizon" "Horizon Europe" "eureka" "Eureka" -}}
 <div class="container detail" data-status="{{ .Params.status }}"{{ with .Params.open_date }} data-open-date="{{ . }}"{{ end }}>
   <div class="detail-head">
     <div class="card-top">
@@ -13,8 +13,8 @@
     </div>
     <h1>{{ .Title }}</h1>
     {{ with .Params.subtitle }}<div class="sub">{{ . }}</div>{{ end }}
-    <div class="regions">
-      {{ range .Params.regions }}<span class="rchip r-{{ . }}">{{ index $regionLabel . }}</span>{{ end }}
+    <div class="tags">
+      {{ range .Params.tags }}<span class="rchip r-{{ . }}">{{ index $tagLabel . }}</span>{{ end }}
     </div>
   </div>
 
