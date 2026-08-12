@@ -5,8 +5,8 @@ weight: 96
 tags: ["horizon"]
 status: "closed"
 deadline: "2026-04-15"
-amount: "콜 총 €85.5M · 과제당 통상 100만~1,000만 유로"
-amount_short: "과제당 수십억 원"
+amount: "콜 총 €85.5M · 과제당 750만~1,900만 유로"
+amount_short: "과제당 수백억 원"
 target: "기업·대학·연구소"
 target_short: "기업·대학·연구소"
 duration: "통상 3~4년"

@@ -32,7 +32,7 @@ verified: "2026-08-12"
 
 Horizon Europe Pillar 2 **Cluster 5(기후·에너지·모빌리티)**의 2027년 기후 분야 공고(총 €123M)입니다. **2026년 11월 17일 개시, 마감은 2027년 3월 4일 17:00(브뤼셀)** 예정입니다. 한국 소재 법인(기업·대학·연구소)은 Horizon Europe Pillar 2 준회원국 자격으로 원칙적으로 EU 회원국 기관과 거의 동등한 조건에서 참여하고 EU 예산을 직접 지원받을 수 있습니다. 다만 일부 보안·우주·전략기술 토픽은 참여국이나 기관에 별도 제한을 두므로 개별 공고의 자격조건을 확인해야 합니다.
 
-현재 접수 중인 기후과학 관련 공고는 없으며, 직전 공고는 [HORIZON-CL5-2026-07](/programs/horizon-cl5-2026-07/)(2026. 4. 15. 마감)입니다. 개시 전에도 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf)에서 토픽을 미리 확인하고 컨소시엄을 준비할 수 있습니다. 개시일은 ±1개월, 마감일은 최대 2개월 조정될 수 있습니다.
+현재 접수 중인 기후과학 관련 공고는 없으며, 직전 공고는 [HORIZON-CL5-2026-07](/programs/horizon-cl5-2026-07/)(2026. 4. 21. 마감)입니다. 개시 전에도 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf)에서 토픽을 미리 확인하고 컨소시엄을 준비할 수 있습니다. 개시일은 ±1개월, 마감일은 최대 2개월 조정될 수 있습니다.
 
 ## 지원자격 · 지원율 (Pillar 2 공통)
 

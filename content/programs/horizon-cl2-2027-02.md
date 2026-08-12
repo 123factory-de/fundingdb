@@ -1,6 +1,6 @@
 ---
 title: "Horizon Europe 2027 · 문화·창의"
-subtitle: "HORIZON-CL2-2027-02 · Cluster 2"
+subtitle: "HORIZON-CL2-2027-02-TWO-STAGE · Cluster 2"
 weight: 109
 tags: ["horizon"]
 status: "planned"
@@ -16,7 +16,7 @@ org_kr: "한국연구재단(NRF) · KERC"
 apply_via: "EU Funding & Tenders Portal"
 links:
   - name: "공고 페이지 (Funding & Tenders Portal)"
-    url: "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=HORIZON-CL2-2027-02&isExactMatch=true"
+    url: "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=HORIZON-CL2-2027-02-TWO-STAGE&isExactMatch=true"
   - name: "공식 사이트 (Cluster 2)"
     url: "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/cluster-2-culture-creativity-and-inclusive-society_en"
   - name: "Work Programme 2026–2027 (Part 5 · Culture)"
@@ -30,7 +30,7 @@ verified: "2026-08-12"
 
 ## 개요
 
-Horizon Europe Pillar 2 **Cluster 2(문화·창의·포용사회)**의 2027년 2단계(two-stage) 공고로, 오픈 토픽 3개에 총 **€58M**이 배정되어 있습니다. **2027년 3월 2일 개시, 1차 마감은 2027년 5월 4일, 1차 통과자의 2차 마감은 2027년 9월 30일 17:00(브뤼셀)** 예정입니다. 한국 소재 법인(기업·대학·연구소)은 Horizon Europe Pillar 2 준회원국 자격으로 원칙적으로 EU 회원국 기관과 거의 동등한 조건에서 참여하고 EU 예산을 직접 지원받을 수 있습니다. 다만 일부 보안·우주·전략기술 토픽은 참여국이나 기관에 별도 제한을 두므로 개별 공고의 자격조건을 확인해야 합니다.
+Horizon Europe Pillar 2 **Cluster 2(문화·창의·포용사회)**의 2027년 2단계(two-stage) 공고(공식 식별자 `HORIZON-CL2-2027-02-TWO-STAGE`)로, 토픽 3개(오픈 토픽 2개 포함)에 총 **€58M**이 배정되어 있습니다. **2027년 3월 2일 개시, 1차 마감은 2027년 5월 4일, 1차 통과자의 2차 마감은 2027년 9월 30일 17:00(브뤼셀)** 예정입니다. 한국 소재 법인(기업·대학·연구소)은 Horizon Europe Pillar 2 준회원국 자격으로 원칙적으로 EU 회원국 기관과 거의 동등한 조건에서 참여하고 EU 예산을 직접 지원받을 수 있습니다. 다만 일부 보안·우주·전략기술 토픽은 참여국이나 기관에 별도 제한을 두므로 개별 공고의 자격조건을 확인해야 합니다.
 
 현재 접수 중인 2026년 본 공고는 [HORIZON-CL2-2026-01](/programs/horizon-cl2-2026-01/)(마감 2026. 9. 23.)이며, 2027년 단일단계 본 공고는 [HORIZON-CL2-2027-01](/programs/horizon-cl2-2027-01/)입니다. 개시일은 ±1개월, 마감일은 최대 2개월 조정될 수 있습니다.
 
