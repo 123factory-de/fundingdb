@@ -14,7 +14,7 @@ org_eu: "CELTIC-NEXT 사무국 (Eurescom)"
 org_kr: "산업통상부 · KIAT"
 apply_via: "CELTIC 플랫폼 + K-PASS"
 links:
-  - name: "가을 콜 안내 (마감 2026. 10. 23.)"
+  - name: "가을 콜 안내"
     url: "https://www.celticnext.eu/call-information/"
   - name: "국가별 펀딩기관 안내 (KIAT 포함)"
     url: "https://www.celticnext.eu/national-public-contacts-funding-schemes/"

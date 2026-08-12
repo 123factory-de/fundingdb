@@ -134,7 +134,7 @@ a:focus-visible, button:focus-visible {
   .card:hover { box-shadow: 0 8px 24px rgba(25, 31, 40, 0.08); transform: translateY(-2px); }
 }
 .card-top { display: flex; align-items: center; gap: 6px; }
-.badge { font-size: 11.5px; font-weight: 700; border-radius: 6px; padding: 2.5px 8px; }
+.badge { display: inline-block; white-space: nowrap; font-size: 11.5px; font-weight: 700; border-radius: 6px; padding: 2.5px 8px; }
 .b-open { background: #E6F6EE; color: #067A4B; }
 .b-soon { background: #FDEBE7; color: #C8401F; }
 .b-always { background: #EEF1F5; color: #57606E; }
@@ -287,7 +287,9 @@ a:focus-visible, button:focus-visible {
 }
 .compare td { padding: 12px 14px; border-bottom: 1px solid var(--line); font-size: 13.5px; vertical-align: top; }
 .compare tr:last-child td { border-bottom: none; }
-.compare td.name { font-weight: 700; color: var(--ink); white-space: nowrap; }
+.compare td.name { font-weight: 700; color: var(--ink); width: 100%; }
+.compare td.amount, .compare td.target, .compare td.deadline { white-space: nowrap; }
+.compare td.deadline { min-width: 104px; }
 .compare td.name small { display: block; font-weight: 500; color: var(--faint); font-size: 11px; }
 .compare td.name a:hover { color: var(--accent); }
 .compare .link { color: var(--accent); font-weight: 600; white-space: nowrap; }
