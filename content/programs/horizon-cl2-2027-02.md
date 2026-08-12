@@ -2,7 +2,7 @@
 title: "Horizon Europe 2027 · 문화·창의"
 subtitle: "HORIZON-CL2-2027-02 · Cluster 2"
 weight: 109
-regions: ["eu"]
+tags: ["horizon"]
 status: "planned"
 open_date: "2027-03-02"
 deadline: "2027-05-04"

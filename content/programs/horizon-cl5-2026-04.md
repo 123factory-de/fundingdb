@@ -1,12 +1,11 @@
 ---
-title: "Horizon Europe 2027 · 배터리·모빌리티"
-subtitle: "HORIZON-CL5-2027-04-Two-Stage · Cluster 5"
-weight: 122
-regions: ["eu"]
-status: "planned"
-open_date: "2026-12-15"
-deadline: "2027-04-14"
-amount: "콜 총 €53M · 과제당 통상 100만~1,000만 유로"
+title: "Horizon Europe 2026 · 차세대 재생에너지"
+subtitle: "HORIZON-CL5-2026-04-Two-Stage · Cluster 5"
+weight: 88
+tags: ["horizon"]
+status: "closed"
+deadline: "2026-03-31"
+amount: "콜 총 €23.5M · 과제당 통상 100만~1,000만 유로"
 amount_short: "과제당 수십억 원"
 target: "기업·대학·연구소"
 target_short: "기업·대학·연구소"
@@ -16,7 +15,7 @@ org_kr: "한국연구재단(NRF) · KERC"
 apply_via: "EU Funding & Tenders Portal"
 links:
   - name: "공고 페이지 (Funding & Tenders Portal)"
-    url: "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=HORIZON-CL5-2027-04-Two-Stage&isExactMatch=true"
+    url: "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=HORIZON-CL5-2026-04-Two-Stage&isExactMatch=true"
   - name: "공식 사이트 (Cluster 5)"
     url: "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/cluster-5-climate-energy-and-mobility_en"
   - name: "Work Programme 2026–2027 (Part 8 · Climate, Energy and Mobility)"
@@ -30,9 +29,9 @@ verified: "2026-08-12"
 
 ## 개요
 
-Horizon Europe Pillar 2 **Cluster 5(기후·에너지·모빌리티)**의 2027년 2단계(two-stage) 공고로, 차세대 배터리 개념과 항공기 소음 저감을 다룹니다(총 €53M). **2026년 12월 15일 개시, 1차 마감은 2027년 4월 14일, 1차 통과자의 2차 마감은 2027년 10월 7일 17:00(브뤼셀)** 예정입니다. 한국 소재 법인(기업·대학·연구소)은 준회원국 자격으로 EU 기관과 **동등하게 참여**하고 EU 예산에서 연구비를 직접 수령할 수 있습니다.
+Horizon Europe Pillar 2 **Cluster 5(기후·에너지·모빌리티)**의 2026년 2단계(two-stage) 공고로, 차세대 재생에너지 기술을 다룹니다(총 €23.5M). **2025년 12월 18일 개시, 1차 접수는 2026년 3월 31일 17:00(브뤼셀)에 마감**되었고, 1차 통과자에 한해 **2차 제안서를 2026년 10월 20일**까지 제출합니다. 신규 지원은 불가합니다.
 
-같은 날 개시되는 단일단계 모빌리티 공고는 [HORIZON-CL5-2027-03](/programs/horizon-cl5-2027-03/)입니다. 개시 전에도 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf)에서 토픽을 미리 확인하고 컨소시엄을 준비할 수 있습니다. 개시일은 ±1개월, 마감일은 최대 2개월 조정될 수 있습니다.
+지금 접수 중인 에너지 공고는 [HORIZON-CL5-2026-09](/programs/horizon-cl5-2026-09/)(배터리·에너지, 마감 2026. 9. 15.)와 [HORIZON-CL5-2026-11](/programs/horizon-cl5-2026-11/)(에너지, 마감 2026. 12. 1.)입니다.
 
 ## 지원자격 · 지원율 (Pillar 2 공통)
 

@@ -2,7 +2,7 @@
 title: "유레카 첨단바이오 콜 2026"
 subtitle: "EUREKA Network Projects · 바이오 분야 주제별 콜"
 weight: 22
-regions: ["eu"]
+tags: ["eureka"]
 status: "open"
 deadline: "2026-09-28"
 amount: "한국측 연 5억 원 이내 (KIAT)"

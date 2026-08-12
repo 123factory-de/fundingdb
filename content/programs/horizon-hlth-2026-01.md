@@ -2,7 +2,7 @@
 title: "Horizon Europe 2026 · 보건"
 subtitle: "HORIZON-HLTH-2026-01 · Cluster 1 Health"
 weight: 85
-regions: ["eu"]
+tags: ["horizon"]
 status: "closed"
 deadline: "2026-04-16"
 amount: "콜 총 €471.6M · 과제당 통상 100만~1,000만 유로"

@@ -2,7 +2,7 @@
 title: "CELTIC-NEXT 2026 가을 콜 · 통신·ICT"
 subtitle: "EUREKA 클러스터 · 차세대 통신 국제공동 R&D"
 weight: 25
-regions: ["eu"]
+tags: ["eureka"]
 status: "open"
 deadline: "2026-10-23"
 amount: "한국측 연 5억 원 이내 (KIAT)"

@@ -1,11 +1,11 @@
 ---
-title: "Horizon Europe 2026 · 식품 시스템"
-subtitle: "HORIZON-CL6-2026-02-two-stage · Cluster 6"
-weight: 83
-regions: ["eu"]
+title: "Horizon Europe 2026 · 생물다양성·순환경제"
+subtitle: "HORIZON-CL6-2026-01-two-stage · Cluster 6"
+weight: 82
+tags: ["horizon"]
 status: "closed"
-deadline: "2026-04-14"
-amount: "콜 총 €25.5M · 과제당 통상 100만~1,000만 유로"
+deadline: "2026-04-16"
+amount: "콜 총 €105M · 과제당 통상 100만~1,000만 유로"
 amount_short: "과제당 수십억 원"
 target: "기업·대학·연구소"
 target_short: "기업·대학·연구소"
@@ -15,7 +15,7 @@ org_kr: "한국연구재단(NRF) · KERC"
 apply_via: "EU Funding & Tenders Portal"
 links:
   - name: "공고 페이지 (Funding & Tenders Portal)"
-    url: "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=HORIZON-CL6-2026-02-two-stage&isExactMatch=true"
+    url: "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=HORIZON-CL6-2026-01-two-stage&isExactMatch=true"
   - name: "공식 사이트 (Cluster 6)"
     url: "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment_en"
   - name: "Work Programme 2026–2027 (Part 9 · Food, Bioeconomy)"
@@ -29,9 +29,9 @@ verified: "2026-08-12"
 
 ## 개요
 
-Horizon Europe Pillar 2 **Cluster 6(식품·바이오경제·환경)**의 2026년 2단계(two-stage) 공고로, 공정하고 건강하며 환경친화적인 식품 시스템을 다룹니다(총 €25.5M). **2026년 2월 12일 개시, 1차 접수는 2026년 4월 14일 17:00(브뤼셀)에 마감**되었고, 1차 통과자에 한해 **2차 제안서를 2026년 9월 15일**까지 제출합니다. 신규 지원은 불가합니다.
+Horizon Europe Pillar 2 **Cluster 6(식품·바이오경제·환경)**의 2026년 2단계(two-stage) 공고로, 생물다양성·생태계 서비스, 순환경제·바이오경제, 청정 환경(오염 제로)을 다룹니다(총 €105M). **2026년 2월 12일 개시, 1차 접수는 2026년 4월 16일 17:00(브뤼셀)에 마감**되었고, 1차 통과자에 한해 **2차 제안서를 2026년 9월 23일**까지 제출합니다. 신규 지원은 불가합니다.
 
-지금 지원 가능한 Cluster 6 공고는 [HORIZON-CL6-2026-01](/programs/horizon-cl6-2026-01/)(단일단계, 마감 2026. 9. 17.)이며, 식품 시스템 분야 2027년 2단계 공고는 [HORIZON-CL6-2027-02-two-stage](/programs/horizon-cl6-2027-02-two-stage/)(2027. 2. 4. 개시)입니다.
+지금 지원 가능한 같은 분야 공고는 [HORIZON-CL6-2026-01](/programs/horizon-cl6-2026-01/)(단일단계, 마감 2026. 9. 17.)이며, 2027년 2단계 공고는 [HORIZON-CL6-2027-01-two-stage](/programs/horizon-cl6-2027-01-two-stage/)(2027. 2. 4. 개시)입니다.
 
 ## 지원자격 · 지원율 (Pillar 2 공통)
 

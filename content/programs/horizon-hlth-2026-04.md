@@ -2,7 +2,7 @@
 title: "Horizon Europe 2026 · 맞춤의료 파트너십"
 subtitle: "HORIZON-HLTH-2026-04 · EP PerMed COFUND"
 weight: 86
-regions: ["eu"]
+tags: ["horizon"]
 status: "closed"
 deadline: "2026-04-16"
 amount: "콜 총 €9.8M (COFUND 파트너십)"

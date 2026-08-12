@@ -2,7 +2,7 @@
 title: "Horizon Europe 2027 · 디지털"
 subtitle: "HORIZON-CL4-2027-04 · Cluster 4 Digital"
 weight: 63
-regions: ["eu"]
+tags: ["horizon"]
 status: "planned"
 open_date: "2026-11-17"
 deadline: "2027-03-18"

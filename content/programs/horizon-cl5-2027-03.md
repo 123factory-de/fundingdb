@@ -2,7 +2,7 @@
 title: "Horizon Europe 2027 · 모빌리티"
 subtitle: "HORIZON-CL5-2027-03 · Cluster 5"
 weight: 121
-regions: ["eu"]
+tags: ["horizon"]
 status: "planned"
 open_date: "2026-12-15"
 deadline: "2027-04-14"

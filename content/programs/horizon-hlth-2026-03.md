@@ -2,7 +2,7 @@
 title: "Horizon Europe 2026 · 팬데믹 대비 파트너십"
 subtitle: "HORIZON-HLTH-2026-03 · COFUND"
 weight: 102
-regions: ["eu"]
+tags: ["horizon"]
 status: "planned"
 open_date: "2027-02-10"
 deadline: "2027-04-13"

@@ -2,7 +2,7 @@
 title: "Horizon Europe 2026 · 시민안전"
 subtitle: "HORIZON-CL3-2026-01 · Cluster 3 Civil Security"
 weight: 110
-regions: ["eu"]
+tags: ["horizon"]
 status: "open"
 deadline: "2026-11-05"
 amount: "콜 총 €131M · 과제당 통상 100만~1,000만 유로"

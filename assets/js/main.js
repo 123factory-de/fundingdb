@@ -40,24 +40,24 @@
     }
   });
 
-  // Region filter chips + "모집중만 보기" toggle.
+  // Tag filter chips + "모집중만 보기" toggle.
   var chips = document.querySelectorAll(".chip[data-filter]");
-  var cards = document.querySelectorAll(".card[data-regions]");
+  var cards = document.querySelectorAll(".card[data-tags]");
   var toggle = document.getElementById("open-only");
-  var region = "all";
+  var tag = "all";
   var OPEN = ["open", "soon", "always"];
 
   function apply() {
     cards.forEach(function (c) {
-      var regionOk = region === "all" || c.getAttribute("data-regions").split(" ").indexOf(region) !== -1;
+      var tagOk = tag === "all" || c.getAttribute("data-tags").split(" ").indexOf(tag) !== -1;
       var statusOk = !toggle || !toggle.checked || OPEN.indexOf(c.getAttribute("data-status")) !== -1;
-      c.style.display = regionOk && statusOk ? "" : "none";
+      c.style.display = tagOk && statusOk ? "" : "none";
     });
   }
 
   chips.forEach(function (chip) {
     chip.addEventListener("click", function () {
-      region = chip.getAttribute("data-filter");
+      tag = chip.getAttribute("data-filter");
       chips.forEach(function (c) { c.classList.toggle("on", c === chip); });
       apply();
     });

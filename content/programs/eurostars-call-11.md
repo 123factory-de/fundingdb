@@ -3,7 +3,7 @@ title: "Eurostars 3 Call 11"
 subtitle: "EUREKA · 중소기업 국제공동 R&D"
 aliases: ["/programs/eurostars/"]
 weight: 20
-regions: ["eu"]
+tags: ["eureka"]
 status: "open"
 deadline: "2026-09-10"
 amount: "한국측 연 5억 원 이내 (총 최대 15억 원)"

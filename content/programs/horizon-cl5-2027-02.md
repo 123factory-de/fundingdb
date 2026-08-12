@@ -2,7 +2,7 @@
 title: "Horizon Europe 2027 · 배터리·에너지"
 subtitle: "HORIZON-CL5-2027-02 · Cluster 5"
 weight: 120
-regions: ["eu"]
+tags: ["horizon"]
 status: "planned"
 open_date: "2026-12-03"
 deadline: "2027-03-31"

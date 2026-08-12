@@ -1,11 +1,11 @@
 ---
-title: "Horizon Europe 2026 · 모빌리티"
-subtitle: "HORIZON-CL5-2026-06-Two-Stage · Cluster 5"
-weight: 90
-regions: ["eu"]
+title: "Horizon Europe 2026 · AI 제조·소재"
+subtitle: "HORIZON-CL4-2026-02-two-stage · Cluster 4"
+weight: 93
+tags: ["horizon"]
 status: "closed"
-deadline: "2026-04-14"
-amount: "콜 총 €22.5M · 과제당 통상 100만~1,000만 유로"
+deadline: "2026-03-17"
+amount: "콜 총 €98M · 과제당 통상 100만~1,000만 유로"
 amount_short: "과제당 수십억 원"
 target: "기업·대학·연구소"
 target_short: "기업·대학·연구소"
@@ -15,11 +15,11 @@ org_kr: "한국연구재단(NRF) · KERC"
 apply_via: "EU Funding & Tenders Portal"
 links:
   - name: "공고 페이지 (Funding & Tenders Portal)"
-    url: "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=HORIZON-CL5-2026-06-Two-Stage&isExactMatch=true"
-  - name: "공식 사이트 (Cluster 5)"
-    url: "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/cluster-5-climate-energy-and-mobility_en"
-  - name: "Work Programme 2026–2027 (Part 8 · Climate, Energy and Mobility)"
-    url: "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf"
+    url: "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=HORIZON-CL4-2026-02-two-stage&isExactMatch=true"
+  - name: "공식 사이트 (Cluster 4)"
+    url: "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/cluster-4-digital-industry-and-space_en"
+  - name: "Work Programme 2026–2027 (Part 7 · Digital, Industry and Space)"
+    url: "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf"
   - name: "호라이즌 유럽 코리아 포털"
     url: "https://horizoneuropekorea.eu"
   - name: "한-EU 연구협력센터 (KERC)"
@@ -29,9 +29,9 @@ verified: "2026-08-12"
 
 ## 개요
 
-Horizon Europe Pillar 2 **Cluster 5(기후·에너지·모빌리티)**의 2026년 2단계(two-stage) 공고로, 선박 에너지 절감·비배기 배출 저감 등 모빌리티 기술을 다룹니다(총 €22.5M). **2025년 12월 18일 개시, 1차 접수는 2026년 4월 14일 17:00(브뤼셀)에 마감**되었고, 1차 통과자에 한해 **2차 제안서를 2026년 10월 8일**까지 제출합니다. 신규 지원은 불가합니다.
+Horizon Europe Pillar 2 **Cluster 4(디지털·산업·우주)**의 2026년 산업 분야 2단계(two-stage) 공고로, AI 기반 제조·공정과 소재·생산 기술을 다룹니다(총 €98M). **2025년 12월 16일 개시, 1차 접수는 2026년 3월 17일 17:00(브뤼셀)에 마감**되었고, 1차 통과자에 한해 **2차 제안서를 2026년 10월 13일**까지 제출합니다. 신규 지원은 불가합니다.
 
-지금 접수 중인 모빌리티 공고는 [HORIZON-CL5-2026-10](/programs/horizon-cl5-2026-10/)(배터리·모빌리티, 마감 2026. 10. 8.)입니다.
+지금 지원 가능한 Cluster 4 공고는 [HORIZON-CL4-2026-03(우주)](/programs/horizon-cl4-2026-03/)이며, 산업 분야 차기 2단계 공고는 [HORIZON-CL4-2027-02-two-stage](/programs/horizon-cl4-2027-02-two-stage/)(2026년 9월 22일 개시)입니다.
 
 ## 지원자격 · 지원율 (Pillar 2 공통)
 

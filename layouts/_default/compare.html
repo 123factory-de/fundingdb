@@ -1,6 +1,6 @@
 {{ define "main" }}
 {{- $statusLabel := dict "open" "모집중" "soon" "마감임박" "always" "연중 공고" "planned" "공고 예정" "closed" "마감" -}}
-{{- $regionLabel := dict "eu" "EU" "bilateral" "양자" -}}
+{{- $tagLabel := dict "bilateral" "양자" "horizon" "Horizon" "eureka" "Eureka" -}}
 <div class="container compare">
   <h1>{{ .Title }}</h1>
   <p class="sub">한국 기업이 지원 가능한 사업만 등록 · 마감일순 정렬 · {{ now.Format "2006. 1. 2." }} 업데이트</p>
@@ -15,7 +15,7 @@
         {{ range partial "sorted-programs.html" . }}
         <tr>
           <td class="name"><a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ with .Params.subtitle }}<small>{{ . }}</small>{{ end }}</td>
-          <td>{{ range .Params.regions }}<span class="rchip r-{{ . }}">{{ index $regionLabel . }}</span> {{ end }}</td>
+          <td>{{ range .Params.tags }}<span class="rchip r-{{ . }}">{{ index $tagLabel . }}</span> {{ end }}</td>
           <td class="amount">{{ .Params.amount_short | default .Params.amount }}</td>
           <td class="target">{{ .Params.target_short | default .Params.target }}</td>
           <td class="deadline">

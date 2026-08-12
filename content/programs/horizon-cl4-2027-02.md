@@ -2,7 +2,7 @@
 title: "Horizon Europe 2027 · 소재·생산"
 subtitle: "HORIZON-CL4-2027-02-two-stage · Cluster 4"
 weight: 126
-regions: ["eu"]
+tags: ["horizon"]
 status: "planned"
 open_date: "2026-09-22"
 deadline: "2027-02-02"

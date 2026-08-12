@@ -2,7 +2,7 @@
 title: "한-프랑스 공동 R&D 2026"
 subtitle: "KIAT × Bpifrance · 유레카 경유"
 weight: 50
-regions: ["bilateral"]
+tags: ["bilateral"]
 status: "closed"
 deadline_note: "2026. 7. 8. 마감"
 amount: "한국측 연 5억 원 이내 (KIAT)"

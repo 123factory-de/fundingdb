@@ -2,7 +2,7 @@
 title: "Horizon Europe 2027 · 거버넌스·환경관측"
 subtitle: "HORIZON-CL6-2027-03 · Cluster 6"
 weight: 129
-regions: ["eu"]
+tags: ["horizon"]
 status: "planned"
 open_date: "2027-02-04"
 deadline: "2027-05-11"

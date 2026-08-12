@@ -2,7 +2,7 @@
 title: "Horizon Europe 2026 · 거버넌스·환경관측·디지털"
 subtitle: "HORIZON-CL6-2026-03 · Cluster 6"
 weight: 81
-regions: ["eu"]
+tags: ["horizon"]
 status: "closed"
 deadline: "2026-04-15"
 amount: "콜 총 €112.5M · 과제당 통상 100만~1,000만 유로"
