@@ -1,5 +1,5 @@
 {{- $statusLabel := dict "open" "모집중" "soon" "마감임박" "always" "연중 공고" "planned" "공고 예정" "closed" "마감" -}}
-{{- $regionLabel := dict "eu" "EU 공동" "de" "독일" "bilateral" "양자협력" -}}
+{{- $regionLabel := dict "eu" "EU 공동" "bilateral" "양자협력" -}}
 <article class="card" data-regions="{{ delimit .Params.regions " " }}" data-status="{{ .Params.status }}"{{ with .Params.open_date }} data-open-date="{{ . }}"{{ end }}>
   <div class="card-top">
     <span class="badge b-{{ .Params.status }}">{{ index $statusLabel .Params.status }}</span>
