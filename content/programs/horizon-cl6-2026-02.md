@@ -20,8 +20,6 @@ links:
     url: "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment_en"
   - name: "Work Programme 2026–2027 (Part 9 · Food, Bioeconomy)"
     url: "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf"
-  - name: "호라이즌 유럽 코리아 포털"
-    url: "https://horizoneuropekorea.eu"
   - name: "한-EU 연구협력센터 (KERC)"
     url: "https://k-erc.eu"
 verified: "2026-08-12"
@@ -29,7 +27,7 @@ verified: "2026-08-12"
 
 ## 개요
 
-Horizon Europe Pillar 2 **Cluster 6(식품·바이오경제·환경)**의 2026년 공고로, 식품 시스템(Farm to Fork), 기후행동을 위한 육상·해양·수자원, 회복력 있는 농촌·연안·도시 공동체를 다뤘습니다(총 €166.4M). **2026년 1월 14일 개시, 2026년 4월 14일 17:00(브뤼셀)에 마감**되었습니다.
+Horizon Europe Pillar 2 **Cluster 6(식품·바이오경제·환경)**\ 의 2026년 공고로, 식품 시스템(Farm to Fork), 기후행동을 위한 육상·해양·수자원, 회복력 있는 농촌·연안·도시 공동체를 다뤘습니다(총 €166.4M). **2026년 1월 14일 개시, 2026년 4월 14일 17:00(브뤼셀)에 마감**되었습니다.
 
 지금 지원 가능한 Cluster 6 공고는 [HORIZON-CL6-2026-01](/programs/horizon-cl6-2026-01/)(마감 2026. 9. 17.)이며, 식품 시스템 분야 차기 공고는 [HORIZON-CL6-2027-02](/programs/horizon-cl6-2027-02/)(2027. 4. 20. 개시)입니다.
 
@@ -42,4 +40,4 @@ Horizon Europe Pillar 2 **Cluster 6(식품·바이오경제·환경)**의 2026�
 ## 신청방법 · 한국측 지원
 
 1. [Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home)에서 토픽 검색 → 컨소시엄 구성 → 포털에서 제안서 제출
-2. 한국측 지원 창구: [호라이즌 유럽 코리아 포털](https://horizoneuropekorea.eu)(공고 트래킹·NCP·파트너 서치), [KERC](https://k-erc.eu)(브뤼셀 거점, 컨설팅·네트워킹), 한국연구재단(NRF)(참여기관 등록·매칭 연계 사업)
+2. 한국측 지원 창구: [KERC](https://k-erc.eu)(브뤼셀 거점, 컨설팅·네트워킹), [한국연구재단(NRF)](https://www.nrf.re.kr)(참여기관 등록·매칭 연계 사업)

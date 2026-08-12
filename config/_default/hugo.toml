@@ -12,6 +12,14 @@ description = "Horizon Europe, Eurostars, 한-독 공동기술개발 등 한국 
 [markup.goldmark.renderer]
 unsafe = true
 
+# Emphasis (**bold**) fails to close when the ** sits between punctuation and a
+# Korean character, e.g. (브뤼셀)**입니다 (CommonMark right-flanking rule).
+# escapedSpace lets content use "**\ " — a backslash-escaped space that closes
+# the emphasis and is removed from the output.
+[markup.goldmark.extensions.cjk]
+enable = true
+escapedSpace = true
+
 [outputs]
 home = ["HTML"]
 section = ["HTML"]

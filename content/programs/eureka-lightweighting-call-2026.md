@@ -1,5 +1,5 @@
 ---
-title: "유레카 경량화 콜 2026"
+title: "EUREKA 경량화 콜 2026"
 subtitle: "EUREKA Network Projects · 경량화 기술 주제별 콜"
 weight: 23
 tags: ["eureka"]

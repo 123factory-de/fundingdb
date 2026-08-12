@@ -20,8 +20,6 @@ links:
     url: "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/cluster-5-climate-energy-and-mobility_en"
   - name: "Work Programme 2026–2027 (Part 8 · Climate, Energy and Mobility)"
     url: "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf"
-  - name: "호라이즌 유럽 코리아 포털"
-    url: "https://horizoneuropekorea.eu"
   - name: "한-EU 연구협력센터 (KERC)"
     url: "https://k-erc.eu"
 verified: "2026-08-12"
@@ -29,7 +27,7 @@ verified: "2026-08-12"
 
 ## 개요
 
-Horizon Europe Pillar 2 **Cluster 5(기후·에너지·모빌리티)**의 2026년 상반기 단일단계 공고로, 청정 운송(대형 전기차, 항공, 항만·조선소 등)을 다뤘습니다(총 €138M). **2025년 12월 18일 개시, 2026년 4월 16일 17:00(브뤼셀)에 마감**되었습니다(당초 4월 14일 마감이었으나 포털 기술 장애로 공식 연장).
+Horizon Europe Pillar 2 **Cluster 5(기후·에너지·모빌리티)**\ 의 2026년 상반기 단일단계 공고로, 청정 운송(대형 전기차, 항공, 항만·조선소 등)을 다뤘습니다(총 €138M). **2025년 12월 18일 개시, 2026년 4월 16일 17:00(브뤼셀)에 마감**되었습니다(당초 4월 14일 마감이었으나 포털 기술 장애로 공식 연장).
 
 지금 접수 중인 모빌리티 공고는 [HORIZON-CL5-2026-10](/programs/horizon-cl5-2026-10/)(배터리·모빌리티, 마감 2026. 10. 8.)이며, 2027년에는 [HORIZON-CL5-2027-03](/programs/horizon-cl5-2027-03/)이 이어집니다.
 
@@ -42,4 +40,4 @@ Horizon Europe Pillar 2 **Cluster 5(기후·에너지·모빌리티)**의 2026�
 ## 신청방법 · 한국측 지원
 
 1. [Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home)에서 토픽 검색 → 컨소시엄 구성 → 포털에서 제안서 제출
-2. 한국측 지원 창구: [호라이즌 유럽 코리아 포털](https://horizoneuropekorea.eu)(공고 트래킹·NCP·파트너 서치), [KERC](https://k-erc.eu)(브뤼셀 거점, 컨설팅·네트워킹), 한국연구재단(NRF)(참여기관 등록·매칭 연계 사업)
+2. 한국측 지원 창구: [KERC](https://k-erc.eu)(브뤼셀 거점, 컨설팅·네트워킹), [한국연구재단(NRF)](https://www.nrf.re.kr)(참여기관 등록·매칭 연계 사업)
