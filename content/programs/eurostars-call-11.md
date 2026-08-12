@@ -1,6 +1,7 @@
 ---
-title: "Eurostars 3"
+title: "Eurostars 3 Call 11"
 subtitle: "EUREKA · 중소기업 국제공동 R&D"
+aliases: ["/programs/eurostars/"]
 weight: 20
 regions: ["eu"]
 status: "open"
@@ -14,10 +15,10 @@ org_eu: "EUREKA 사무국"
 org_kr: "산업통상부 · KIAT"
 apply_via: "myeurekaproject.org + K-PASS"
 links:
+  - name: "Call 11 공고"
+    url: "https://www.eurekanetwork.org/programmes-and-calls/eurostars/eurostars-call-for-projects-september-2026/"
   - name: "공식 사이트"
     url: "https://www.eurekanetwork.org/programmes-and-calls/eurostars/"
-  - name: "Call 11 공고 (마감 2026. 9. 10.)"
-    url: "https://www.eurekanetwork.org/programmes-and-calls/eurostars/eurostars-call-for-projects-september-2026/"
   - name: "적격기준 가이드라인"
     url: "https://www.eurekanetwork.org/programme-resources/eurostars-eligibility-criteria-guidelines/"
   - name: "KIAT 사업공고"

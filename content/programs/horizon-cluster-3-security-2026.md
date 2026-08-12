@@ -1,0 +1,66 @@
+---
+title: "Horizon Europe Cluster 3 2026 · 시민안전"
+subtitle: "Pillar 2 · Civil Security for Society"
+weight: 12
+regions: ["eu"]
+status: "open"
+deadline: "2026-11-05"
+amount: "과제당 통상 100만~1,000만 유로"
+amount_short: "과제당 수십억 원"
+target: "기업·대학·연구소"
+target_short: "기업·대학·연구소"
+duration: "통상 3~4년"
+org_eu: "EU 집행위원회"
+org_kr: "한국연구재단(NRF) · KERC"
+apply_via: "EU Funding & Tenders Portal"
+links:
+  - name: "2026년 공고"
+    url: "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=HORIZON-CL3-2026-01&isExactMatch=true"
+  - name: "공식 사이트 (Cluster 3)"
+    url: "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/cluster-3-civil-security-society_en"
+  - name: "Work Programme 2026–2027 (Part 6 · Civil Security)"
+    url: "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-6-civil-security-for-society_horizon-2026-2027_en.pdf"
+  - name: "호라이즌 유럽 코리아 포털"
+    url: "https://horizoneuropekorea.eu"
+  - name: "한-EU 연구협력센터 (KERC)"
+    url: "https://k-erc.eu"
+verified: "2026-08-11"
+---
+
+## 개요
+
+Horizon Europe Pillar 2의 **Cluster 3(시민안전)**은 국경관리, 재난 대응·복원력, 범죄·테러 대응, 핵심 인프라 보호, 보안 연구혁신을 다루는 분야입니다. (사이버보안 토픽은 2026–2027 Work Programme에서 Cluster 3 밖으로 이관되어 포함되지 않습니다.) 한국 소재 법인(기업·대학·연구소)은 준회원국 자격으로 EU 기관과 **동등하게 참여**하고 EU 예산에서 연구비를 직접 수령할 수 있습니다.
+
+**2026년 공고(HORIZON-CL3-2026-01, 21개 토픽, 총 €131M)가 접수 중입니다 — 마감 2026년 11월 5일 17:00(브뤼셀).** 2026년 공고는 이 1건뿐입니다.
+
+## 공고 일정
+
+| 공고 (Call ID) | 성격 | 마감 | 상태 |
+| :--- | :--- | :--- | :--- |
+| **HORIZON-CL3-2026-01 (21개 토픽, €131M)** | 단일단계 | **2026. 11. 5.** | **접수 중** (2026. 5. 6. 개시) |
+| HORIZON-CL3-2027-01 (17개 토픽, €129.5M) | 단일단계 | 2027. 11. 4. | 2027. 5. 5. 개시 |
+
+마감 시각은 브뤼셀 기준 17:00이며, EU 집행위 사정에 따라 개시일 ±1개월·마감일 최대 2개월 조정될 수 있습니다.
+
+## 2026년 공고 주요 토픽 (마감 2026. 11. 5.)
+
+| 영역 | 주요 토픽 | 예산(€M) |
+| :--- | :--- | :--- |
+| 국경관리 (BM, 3개) | 첨단 국경 감시·상황인식(12.0), 여행 편의화 기술(8.0) 등 | 계 21.3 |
+| 재난복원력 (DRS, 5개) | 리스크 인식·재난 대비(6.0), 복합·연쇄 재난 대응(8.0), 재난 대응 혁신 장비(8.0), 오픈 토픽: 재난 리스크 솔루션 확산(6.0), 기후안보(4.5) | 계 32.5 |
+| 범죄·테러 대응 (FCT, 6개) | 오픈 토픽: 신기술 악용 범죄 대응(9.0), 밀폐공간 테러 대응(9.7), 실종자 예방·수사(5.0), 합성생물학 악용 대응(3.0) 등 | 계 40.7 |
+| 인프라 보호 (INFRA, 3개) | 핵심 인프라 스트레스 테스트(9.7), 핵심 주체 복원력(9.0), 도시 녹색전환의 보안 과제(4.0) | 계 22.7 |
+| 보안 연구혁신 (SSRI, 4개) | 오픈 토픽: 파괴적 보안 기술(3.0), 수요 주도 보안 혁신(5.8), 보안 혁신 공공조달(2.0) 등 | 계 13.8 |
+
+전체 토픽 상세는 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-6-civil-security-for-society_horizon-2026-2027_en.pdf)와 포털에서 확인하세요.
+
+## 지원자격 · 지원율 (Pillar 2 공통)
+
+- 한국에 설립된 법인이면 기업(중소기업 포함)·대학·연구기관 모두 참여 가능, **주관기관(코디네이터)**도 가능
+- 컨소시엄 최소 요건: 서로 독립적인 **3개 이상 법인**, 그중 EU 회원국 소재 1개 이상 + 서로 다른 회원국·준회원국 소재 2개 이상 (보안 분야 일부 토픽은 실수요기관 참여 등 추가 요건이 있으니 토픽별 조건 확인 필요)
+- 지원율: RIA(연구혁신과제) 직접비 **100%** · IA(혁신과제) 영리기업 **70%** · 간접비 직접비의 **25% 정률** 추가
+
+## 신청방법 · 한국측 지원
+
+1. [Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home)에서 토픽 검색 → 컨소시엄 구성 → 포털에서 제안서 제출
+2. 한국측 지원 창구: [호라이즌 유럽 코리아 포털](https://horizoneuropekorea.eu)(공고 트래킹·NCP·파트너 서치), [KERC](https://k-erc.eu)(브뤼셀 거점, 컨설팅·네트워킹), 한국연구재단(NRF)(참여기관 등록·매칭 연계 사업)
