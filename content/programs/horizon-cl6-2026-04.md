@@ -25,7 +25,7 @@ links:
     url: "https://horizoneuropekorea.eu"
   - name: "한-EU 연구협력센터 (KERC)"
     url: "https://k-erc.eu"
-verified: "2026-08-11"
+verified: "2026-08-12"
 ---
 
 ## 개요

@@ -12,7 +12,7 @@ target: "기업 중심 컨소시엄"
 target_short: "기업 중심 컨소시엄"
 duration: "3년 이내"
 org_eu: "ITEA 사무국"
-org_kr: "산업통상부 · KIAT"
+org_kr: "한국산업기술진흥원(KIAT)"
 apply_via: "ITEA 플랫폼 + K-PASS"
 links:
   - name: "ITEA Call 2026 안내"
@@ -23,7 +23,7 @@ links:
     url: "https://www.kiat.or.kr/front/board/boardContentsListPage.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e"
   - name: "K-PASS 접수"
     url: "https://www.k-pass.kr/notice/ancList.do"
-verified: "2026-08-11"
+verified: "2026-08-12"
 ---
 
 ## 개요

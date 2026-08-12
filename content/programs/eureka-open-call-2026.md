@@ -11,7 +11,7 @@ target: "기업 중심 컨소시엄"
 target_short: "기업 중심 컨소시엄"
 duration: "3년 이내"
 org_eu: "EUREKA 사무국 · 각국 펀딩기관"
-org_kr: "산업통상부 · KIAT"
+org_kr: "한국산업기술진흥원(KIAT)"
 apply_via: "유레카 플랫폼 + K-PASS"
 links:
   - name: "오픈콜 공고"
@@ -22,7 +22,7 @@ links:
     url: "https://www.k-pass.kr/notice/ancList.do"
   - name: "2026년 통합공고 원문 (K-PASS)"
     url: "https://www.k-pass.kr/notice/ancView.do?ancId=P2950&gubun=NEW"
-verified: "2026-08-11"
+verified: "2026-08-12"
 ---
 
 ## 개요
@@ -35,7 +35,7 @@ verified: "2026-08-11"
 
 - 한국 기업(중소·중견 등)과 유레카 참여국 기업이 포함된 국제 컨소시엄
 - 국내 컨소시엄에는 영리기업 참여 필수, 국내 기업은 창업 1년 이상 + **기업부설연구소 인정서** 보유 필요
-- 특정 1개국이 전체 연구 비중(person-month)의 70%를 초과할 수 없음
+- 단일 기관 또는 단일 국가가 전체 프로젝트 **예산**의 70%를 초과할 수 없음
 
 ## 지원조건 (한국측)
 

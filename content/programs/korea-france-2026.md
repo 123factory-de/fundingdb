@@ -11,16 +11,16 @@ target: "양국 기업 컨소시엄"
 target_short: "기업 컨소시엄"
 duration: "3년 이내"
 org_eu: "Bpifrance (프랑스 공공투자은행)"
-org_kr: "산업통상부 · KIAT"
+org_kr: "한국산업기술진흥원(KIAT)"
 apply_via: "유레카 플랫폼 + K-PASS"
 links:
-  - name: "Bpifrance 공식 페이지"
-    url: "https://www.bpifrance.fr/nos-appels-a-projets-concours/appel-a-projets-eureka-france-coree-du-sud"
-  - name: "KIAT 사업공고"
-    url: "https://www.kiat.or.kr/front/board/boardContentsListPage.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e"
+  - name: "EUREKA 2026 공식 공고"
+    url: "https://www.eurekanetwork.org/programmes-and-calls/network-projects/france-and-south-korea-call-for-projects-2026/"
+  - name: "KIAT 2026 국내 공고"
+    url: "https://www.kiat.or.kr/front/board/boardContentsView.do?MenuId=b159c9dac684471b87256f1e25404f5e&board_id=90&contents_id=978b507dc80648cda7082ca59f8c51e7"
   - name: "K-PASS 접수"
     url: "https://www.k-pass.kr/notice/ancList.do"
-verified: "2026-08-11"
+verified: "2026-08-12"
 ---
 
 ## 개요

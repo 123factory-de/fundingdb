@@ -11,7 +11,7 @@ target: "기업 중심 컨소시엄"
 target_short: "기업 중심 컨소시엄"
 duration: "3년 이내"
 org_eu: "Xecs 사무국"
-org_kr: "산업통상부 · KIAT"
+org_kr: "한국산업기술진흥원(KIAT)"
 apply_via: "Xecs 플랫폼 + K-PASS"
 links:
   - name: "Xecs Call 6 안내"
@@ -22,12 +22,12 @@ links:
     url: "https://www.kiat.or.kr/front/board/boardContentsListPage.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e"
   - name: "K-PASS 접수"
     url: "https://www.k-pass.kr/notice/ancList.do"
-verified: "2026-08-11"
+verified: "2026-08-12"
 ---
 
 ## 개요
 
-Xecs는 **전자부품·시스템**(반도체, 임베디드, 전자 소재·장비) 분야의 유레카 클러스터입니다. 한국은 그간 Xecs 콜에 참여해 왔으나, **Call 6에 대한 한국(KIAT) 예산 배정 여부는 공고에 명시되어 있지 않으니** KIAT 통합공고 또는 사무국을 통해 확인이 필요합니다.
+Xecs는 **전자부품·시스템**(반도체, 임베디드, 전자 소재·장비) 분야의 유레카 클러스터입니다. **Call 6 공고의 참여국 명단에 한국이 포함되어 있으며**, 선정(label) 과제의 한국 참여기관은 KIAT 국내 공고를 통해 연구비를 지원받습니다. 국내 접수·예산 배정 등 연간 조건은 KIAT 통합공고에서 확인하세요.
 
 **Call 6이 접수 중입니다** — 2단계 절차로, 과제개요서(PO) 마감 **2027년 1월 21일 17:00(CET)**, 본제안서(FPP) 마감 2027년 4월 15일입니다.
 
