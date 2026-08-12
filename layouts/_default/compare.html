@@ -16,9 +16,16 @@
         <tr>
           <td class="name"><a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ with .Params.subtitle }}<small>{{ . }}</small>{{ end }}</td>
           <td>{{ range .Params.regions }}<span class="rchip r-{{ . }}">{{ index $regionLabel . }}</span> {{ end }}</td>
-          <td>{{ .Params.amount_short | default .Params.amount }}</td>
-          <td>{{ .Params.target_short | default .Params.target }}</td>
-          <td>{{ with .Params.deadline }}{{ (time .).Format "2006. 1. 2." }}{{ else }}{{ .Params.deadline_note }}{{ end }}</td>
+          <td class="amount">{{ .Params.amount_short | default .Params.amount }}</td>
+          <td class="target">{{ .Params.target_short | default .Params.target }}</td>
+          <td class="deadline">
+            {{- if .Params.deadline }}{{ (time .Params.deadline).Format "2006. 1. 2." }}
+            {{- else }}
+              {{- $note := .Params.deadline_note | default "" }}
+              {{- $date := findRE `\d{4}\.\s*\d{1,2}\.\s*\d{1,2}\.` $note 1 }}
+              {{- if $date }}{{ index $date 0 }}{{ else }}{{ $note }}{{ end }}
+            {{- end -}}
+          </td>
           <td><span class="badge b-{{ .Params.status }}">{{ index $statusLabel .Params.status }}</span></td>
           <td>{{ with index .Params.links 0 }}<a class="link" href="{{ .url }}" target="_blank" rel="noopener">{{ .name }} ↗</a>{{ end }}</td>
         </tr>

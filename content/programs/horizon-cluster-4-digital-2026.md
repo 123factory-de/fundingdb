@@ -14,7 +14,7 @@ org_eu: "EU 집행위원회"
 org_kr: "한국연구재단(NRF) · KERC"
 apply_via: "EU Funding & Tenders Portal"
 links:
-  - name: "우주 분야 공고 (마감 2026. 9. 3.)"
+  - name: "우주 분야 공고"
     url: "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=HORIZON-CL4-2026-03&isExactMatch=true"
   - name: "공식 사이트 (Cluster 4)"
     url: "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/cluster-4-digital-industry-and-space_en"

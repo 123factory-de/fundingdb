@@ -14,7 +14,7 @@ org_eu: "EU 집행위원회"
 org_kr: "한국연구재단(NRF) · KERC"
 apply_via: "EU Funding & Tenders Portal"
 links:
-  - name: "배터리·에너지 공고 (마감 2026. 9. 15.)"
+  - name: "배터리·에너지 공고"
     url: "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=HORIZON-CL5-2026-09&isExactMatch=true"
   - name: "공식 사이트 (Cluster 5)"
     url: "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/cluster-5-climate-energy-and-mobility_en"

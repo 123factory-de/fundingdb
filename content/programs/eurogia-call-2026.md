@@ -14,7 +14,7 @@ org_eu: "EUROGIA 사무국"
 org_kr: "산업통상부 · KIAT"
 apply_via: "EUROGIA 플랫폼 + K-PASS"
 links:
-  - name: "EUROGIA 콜 안내 (마감 2026. 10. 29.)"
+  - name: "EUROGIA 콜 안내"
     url: "https://eurogia.eu/eurogia-calls/"
   - name: "국가별 펀딩기관 안내 (KIAT 포함)"
     url: "https://eurogia.eu/funding/"

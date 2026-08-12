@@ -14,7 +14,7 @@ org_eu: "EUREKA 사무국 · 각국 펀딩기관"
 org_kr: "산업통상부 · KIAT"
 apply_via: "유레카 플랫폼 + K-PASS"
 links:
-  - name: "오픈콜 공고 (국내 마감 2026. 10. 1.)"
+  - name: "오픈콜 공고"
     url: "https://www.eurekanetwork.org/programmes-and-calls/network-projects/network-projects-open-call/"
   - name: "KIAT 사업공고"
     url: "https://www.kiat.or.kr/front/board/boardContentsListPage.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e"
