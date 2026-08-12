@@ -1,6 +1,6 @@
 {{ define "main" }}
 {{- $statusLabel := dict "open" "모집중" "soon" "마감임박" "always" "연중 공고" "planned" "공고 예정" "closed" "마감" -}}
-{{- $regionLabel := dict "eu" "EU" "de" "독일" "bilateral" "양자" -}}
+{{- $regionLabel := dict "eu" "EU" "bilateral" "양자" -}}
 <div class="container compare">
   <h1>{{ .Title }}</h1>
   <p class="sub">한국 기업이 지원 가능한 사업만 등록 · 마감일순 정렬 · {{ now.Format "2006. 1. 2." }} 업데이트</p>

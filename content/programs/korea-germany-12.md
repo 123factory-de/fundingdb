@@ -2,7 +2,7 @@
 title: "한-독 공동기술개발 12차"
 subtitle: "KIAT × ZIM(AiF) · 국제공동 R&D"
 weight: 30
-regions: ["de", "bilateral"]
+regions: ["bilateral"]
 status: "closed"
 deadline_note: "2026. 6. 18. 마감 · 평가 중"
 amount: "한국측 연 5억 원 이내 (KIAT)"

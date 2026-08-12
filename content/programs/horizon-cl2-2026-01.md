@@ -1,11 +1,11 @@
 ---
-title: "Horizon Europe Cluster 2 2026 · 문화·창의·포용사회"
-subtitle: "Pillar 2 · Culture, Creativity and Inclusive Society"
-weight: 11
+title: "Horizon Europe 2026 · 문화·창의·포용사회"
+subtitle: "HORIZON-CL2-2026-01 · Cluster 2"
+weight: 106
 regions: ["eu"]
 status: "open"
 deadline: "2026-09-23"
-amount: "과제당 통상 100만~1,000만 유로"
+amount: "콜 총 €298.5M · 과제당 통상 100만~1,000만 유로"
 amount_short: "과제당 수십억 원"
 target: "기업·대학·연구소"
 target_short: "기업·대학·연구소"
@@ -14,7 +14,7 @@ org_eu: "EU 집행위원회"
 org_kr: "한국연구재단(NRF) · KERC"
 apply_via: "EU Funding & Tenders Portal"
 links:
-  - name: "2026년 공고"
+  - name: "공고 페이지 (Funding & Tenders Portal)"
     url: "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=HORIZON-CL2-2026-01&isExactMatch=true"
   - name: "공식 사이트 (Cluster 2)"
     url: "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/cluster-2-culture-creativity-and-inclusive-society_en"
@@ -29,24 +29,13 @@ verified: "2026-08-11"
 
 ## 개요
 
-Horizon Europe Pillar 2의 **Cluster 2(문화·창의·포용사회)**는 민주주의·거버넌스, 문화유산·문화창조산업(CCI), 사회·경제 전환(교육·노동·이주·복지)을 다루는 분야입니다. 한국 소재 법인(기업·대학·연구소)은 준회원국 자격으로 EU 기관과 **동등하게 참여**하고 EU 예산에서 연구비를 직접 수령할 수 있습니다.
+Horizon Europe Pillar 2 **Cluster 2(문화·창의·포용사회)**의 2026년 본 공고(단일단계, 26개 토픽, 총 €298.5M)입니다. **마감은 2026년 9월 23일 17:00(브뤼셀)**입니다. 민주주의·거버넌스, 문화유산·문화창조산업(CCI), 사회·경제 전환(교육·노동·이주·복지)을 다루며, 크리에이티브 스타트업 육성, 생성형 AI 시대의 콘텐츠 시장 등 기업이 참여할 만한 IA(혁신과제) 토픽도 포함되어 있습니다.
 
-**2026년 본 공고(HORIZON-CL2-2026-01, 26개 토픽, 총 €298.5M)가 접수 중입니다 — 마감 2026년 9월 23일 17:00(브뤼셀).** 크리에이티브 스타트업 육성, 생성형 AI 시대의 콘텐츠 시장 등 기업이 참여할 만한 IA(혁신과제) 토픽도 포함되어 있습니다.
+한국 소재 법인(기업·대학·연구소)은 준회원국 자격으로 EU 기관과 **동등하게 참여**하고 EU 예산에서 연구비를 직접 수령할 수 있습니다. 차기 본 공고는 [HORIZON-CL2-2027-01](/programs/horizon-cl2-2027-01/)(2027년 5월 개시)입니다.
 
-## 공고 일정
+## 토픽 (HORIZON-CL2-2026-01-…)
 
-| 공고 (Call ID) | 성격 | 마감 | 상태 |
-| :--- | :--- | :--- | :--- |
-| **HORIZON-CL2-2026-01 (본 공고, €298.5M)** | 단일단계 | **2026. 9. 23.** | **접수 중** |
-| HORIZON-CL2-2026-02 (사회전환·회복력 파트너십, €60M) | COFUND | 2026. 10. 13. | 접수 중 (연구지원기관 대상) |
-| HORIZON-CL2-2027-02 (오픈 토픽 3개, €58M) | 2단계 | 1차 2027. 5. 4. / 2차 2027. 9. 30. | 2027. 3. 2. 개시 |
-| HORIZON-CL2-2027-01 (본 공고, €277M) | 단일단계 | 2027. 9. 23. | 2027. 5. 13. 개시 |
-
-마감 시각은 브뤼셀 기준 17:00이며, EU 집행위 사정에 따라 개시일 ±1개월·마감일 최대 2개월 조정될 수 있습니다.
-
-## 2026년 본 공고 토픽 (마감 2026. 9. 23.)
-
-| 토픽 ID (HORIZON-CL2-2026-01-…) | 주제 | 유형 | 예산(€M) |
+| 토픽 ID | 주제 | 유형 | 예산(€M) |
 | :--- | :--- | :--- | :--- |
 | HERITAGE-02 | **크리에이티브 스타트업의 파괴적 혁신 육성** | IA | 12.0 |
 | HERITAGE-03 | 문화창의산업 실무에의 AI 통합 | IA | 15.0 |
@@ -61,7 +50,7 @@ Horizon Europe Pillar 2의 **Cluster 2(문화·창의·포용사회)**는 민주
 | DEMOCRACY-01~03, 05~07, 09 | 민주주의·거버넌스 관련 7개 토픽 | RIA·CSA | 각 4.5~16.0 |
 | TRANSFO-02~10 | 사회·경제 전환(생산성, 교육·돌봄, 인재 유치, 이주, 녹색 전환 역량 등) 9개 토픽 | RIA·CSA | 각 3.5~15.0 |
 
-전체 26개 토픽의 상세 내용은 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-5-culture-creativity-and-inclusive-society_horizon-2026-2027_en.pdf) 또는 포털에서 확인하세요.
+전체 26개 토픽의 상세 내용은 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-5-culture-creativity-and-inclusive-society_horizon-2026-2027_en.pdf) 또는 포털에서 확인하세요. 마감일은 EU 집행위 사정에 따라 최대 2개월 조정될 수 있습니다.
 
 ## 지원자격 · 지원율 (Pillar 2 공통)
 

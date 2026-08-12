@@ -1,4 +1,8 @@
 {{- $programs := where site.RegularPages "Section" "programs" -}}
-{{- $withDeadline := sort (where $programs "Params.deadline" "!=" nil) "Params.deadline" "asc" -}}
+{{- $today := now.Format "2006-01-02" -}}
+{{- $dated := where $programs "Params.deadline" "!=" nil -}}
+{{- $upcoming := sort (where $dated "Params.deadline" ">=" $today) "Params.deadline" "asc" -}}
+{{- $past := sort (where $dated "Params.deadline" "<" $today) "Params.deadline" "desc" -}}
 {{- $noDeadline := sort (where $programs "Params.deadline" "==" nil) "Weight" "asc" -}}
-{{- return (append $noDeadline $withDeadline) -}}
+{{- /* Upcoming deadlines first (soonest on top), then undated entries, then past calls (most recent first). */ -}}
+{{- return (append $past (append $noDeadline $upcoming)) -}}
