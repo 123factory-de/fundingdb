@@ -1,6 +1,6 @@
 ---
 program: "horizon-cl4-2026-03"
-last_verified: "2026-08-12"
+last_verified: "2026-08-18"
 ---
 
 # Verification log — Horizon Europe 2026 · 우주
@@ -17,6 +17,22 @@ that support them, so the page can be re-checked claim by claim.
 | [S2](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/cluster-4-digital-industry-and-space_en) | 공식 사이트 (Cluster 4) | — |
 | [S3](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf) | Work Programme 2026–2027 (Part 7 · Digital, Industry and Space) | Work Programme PDF — search the call ID inside the document |
 | [S4](https://k-erc.eu) | 한-EU 연구협력센터 (KERC) | — |
+| [S5](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/list-3rd-country-participation_horizon-euratom_en.pdf) | EU Grants: List of participating countries (HE) | Official eligibility list; Korea listed as associated to Pillar II |
+| [S6](https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/europe-world/international-cooperation/association-horizon-europe/korea_en) | EU 집행위 — Korea association to Horizon Europe | Background on Korea's Pillar II association (transitional arrangement from 2025-01-01; agreement signed 2025-07-17) |
+
+## 2026-08-18 — topic-level eligibility check
+
+Prompted by a reviewer question (chat, 2026-08-18) on where "EU 예산 직접 지원" comes from, the topic-level "Eligibility conditions" in [S3](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf) were read for every topic in this call.
+
+| Claim on the page | Source | Result |
+| :--- | :--- | :--- |
+| 한국 기관은 Pillar 2 준회원국 자격으로 참여, EU 예산 직접 지원 | [S5](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/list-3rd-country-participation_horizon-euratom_en.pdf)/[S6](https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/europe-world/international-cooperation/association-horizon-europe/korea_en) | Match |
+| 토픽 11 · 32 · 81 · 82 · 85 · 86 — 회원국 + 노르웨이·아이슬란드만 | [S3](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf) | Match ("participation is limited to legal entities established in Member States, Norway and Iceland") |
+| 토픽 31 — 회원국 + IS/NO + 캐나다·뉴질랜드·영국·스위스만 | [S3](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf) | Match |
+| 토픽 61 — General Annex B, 한국 참여 가능 | [S3](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf) | Match (no country restriction; only Copernicus/Galileo data-use condition) |
+| 비적격국 지배 법인 참여 제한 | [S3](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf) | Match |
+
+- Correction applied to the page: 개요 and 지원자격 previously said only that "일부 토픽" may be restricted; the page now states that 7 of 8 topics exclude Korean entities and that only topic 61 is open.
 
 ## 2026-08-12 — claim-by-claim check
 

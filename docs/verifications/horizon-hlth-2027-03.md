@@ -1,6 +1,6 @@
 ---
 program: "horizon-hlth-2027-03"
-last_verified: "2026-08-12"
+last_verified: "2026-08-18"
 ---
 
 # Verification log — Horizon Europe 2027 · 보건 소규모
@@ -17,6 +17,14 @@ that support them, so the page can be re-checked claim by claim.
 | [S2](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/cluster-1-health_en) | 공식 사이트 (Cluster 1 Health) | — |
 | [S3](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-4-health_horizon-2026-2027_en.pdf) | Work Programme 2026–2027 (Part 4 · Health) | Work Programme PDF — search the call ID inside the document |
 | [S4](https://k-erc.eu) | 한-EU 연구협력센터 (KERC) | — |
+
+## 2026-08-18 — topic-level participation-restriction check
+
+All topics of the call were checked for country/control restrictions using the portal topic-details data (`docs/skills/crosscheck-horizon/check_eligibility.py`). The generic "일부 토픽 제한" bullet in 지원자격 was replaced by the specific result.
+
+| Claim on the page | Source | Result |
+| :--- | :--- | :--- |
+| 참여국 제한 토픽 TOOL-08 — Member States and Associated Countries | [HORIZON-HLTH-2027-03-TOOL-08](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2027-03-TOOL-08) | Match — Korea eligible |
 
 ## 2026-08-12 — claim-by-claim check
 

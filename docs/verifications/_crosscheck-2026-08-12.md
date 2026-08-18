@@ -1,16 +1,16 @@
 # Cross-check sheet — 2026-08-12 audit
 
-체크리스트: 66개 프로그램의 핵심 사실(모집 상태 · 마감일 · 지원규모)을 공식 출처와 대조합니다.
+체크리스트: 67개 프로그램의 핵심 사실(모집 상태 · 마감일 · 지원규모)을 공식 출처와 대조합니다.
 확인한 항목은 `- [ ]`를 `- [x]`로 바꿔 진행 상황을 기록하세요. 항목별 상세 근거는
 같은 폴더의 프로그램별 검증 로그를 참고하세요.
 
 - 자동 대조: Horizon 53건은 `docs/skills/crosscheck-horizon/` 스크립트로 EU 포털 공식 데이터
   (grantsTenders.json, 2026-08-11자)와 상태·마감일을 기계 대조해 **53/53 일치**했습니다.
-- 수동 확인: Eureka 계열 9건 + 양자협력 4건은 기계 판독 가능한 출처가 없어 직접 확인이 필요합니다.
+- 수동 확인: Eureka 계열 9건 + 양자협력 5건은 기계 판독 가능한 출처가 없어 직접 확인이 필요합니다.
 - 미해결 2건은 ⚠ 로 표시했습니다.
 - 금액(지원규모)은 자동 대조 대상이 아니므로 표본 확인을 권합니다.
 
-## 수동 확인 필요 — Eureka 계열 · 양자협력 (13)
+## 수동 확인 필요 — Eureka 계열 · 양자협력 (14)
 
 - [x] **Eurostars 3 Call 11** (모집중 · 마감 2026-09-10 · 연 5억 원 이내)
   - 출처: [Call 11 공고](https://www.eurekanetwork.org/programmes-and-calls/eurostars/eurostars-call-for-projects-september-2026/) · [공식 사이트](https://www.eurekanetwork.org/programmes-and-calls/eurostars/) · [적격기준 가이드라인](https://www.eurekanetwork.org/programme-resources/eurostars-eligibility-criteria-guidelines/) · [KIAT 사업공고](https://www.kiat.or.kr/front/board/boardContentsListPage.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e) · [K-PASS 접수](https://www.k-pass.kr/notice/ancList.do)
@@ -18,39 +18,42 @@
 - [x] **EUREKA 첨단바이오 콜 2026** (모집중 · 마감 2026-09-28 · 연 5억 원 이내)
   - 출처: [첨단바이오 콜 공고](https://www.eurekanetwork.org/programmes-and-calls/network-projects/biotech-call-september-2026/) · [KIAT 사업공고](https://www.kiat.or.kr/front/board/boardContentsListPage.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e) · [K-PASS 접수](https://www.k-pass.kr/notice/ancList.do)
   - 근거 상세: [eureka-biotech-call-2026.md](eureka-biotech-call-2026.md)
-- [ ] **EUREKA 오픈콜 2026** (모집중 · 마감 2026-10-01 · 연 5억 원 이내)
+- [x] **EUREKA 오픈콜 2026** (모집중 · 마감 2026-10-01 · 연 5억 원 이내)
   - 출처: [오픈콜 공고](https://www.eurekanetwork.org/programmes-and-calls/network-projects/network-projects-open-call/) · [KIAT 사업공고](https://www.kiat.or.kr/front/board/boardContentsListPage.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e) · [K-PASS 접수](https://www.k-pass.kr/notice/ancList.do) · [2026년 통합공고 원문 (K-PASS)](https://www.k-pass.kr/notice/ancView.do?ancId=P2950&gubun=NEW)
   - 근거 상세: [eureka-open-call-2026.md](eureka-open-call-2026.md)
-- [ ] **EUREKA 경량화 콜 2026** (모집중 · 마감 2026-10-12 · 연 5억 원 이내)
+- [x] **EUREKA 경량화 콜 2026** (모집중 · 마감 2026-10-12 · 연 5억 원 이내)
   - ⚠ 중앙 마감 시각(17:00 CEST)은 eurekanetwork.org 봇 차단으로 미확인 — 브라우저로 직접 확인
   - 출처: [경량화 콜 공고](https://www.eurekanetwork.org/programmes-and-calls/network-projects/transnational-eureka-lightweighting-call-2026/) · [KIAT 사업공고](https://www.kiat.or.kr/front/board/boardContentsListPage.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e) · [K-PASS 접수](https://www.k-pass.kr/notice/ancList.do)
   - 근거 상세: [eureka-lightweighting-call-2026.md](eureka-lightweighting-call-2026.md)
-- [ ] **CELTIC-NEXT 2026 가을 콜 · 통신·ICT** (모집중 · 마감 2026-10-26 · 연 5억 원 이내)
+- [x] **CELTIC-NEXT 2026 가을 콜 · 통신·ICT** (모집중 · 마감 2026-10-26 · 연 5억 원 이내)
   - 출처: [가을 콜 안내](https://www.celticnext.eu/call-information/) · [국가별 펀딩기관 안내 (KIAT 포함)](https://www.celticnext.eu/national-public-contacts-funding-schemes/) · [KIAT 사업공고](https://www.kiat.or.kr/front/board/boardContentsListPage.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e) · [K-PASS 접수](https://www.k-pass.kr/notice/ancList.do)
   - 근거 상세: [celtic-next-autumn-2026.md](celtic-next-autumn-2026.md)
-- [ ] **EUROGIA 2026 콜 · 저탄소 에너지** (모집중 · 마감 2026-10-29 · 연 5억 원 이내)
+- [x] **EUROGIA 2026 콜 · 저탄소 에너지** (모집중 · 마감 2026-10-29 · 연 5억 원 이내)
   - 출처: [EUROGIA 콜 안내](https://eurogia.eu/eurogia-calls/) · [국가별 펀딩기관 안내 (KIAT 포함)](https://eurogia.eu/funding/) · [KIAT 사업공고](https://www.kiat.or.kr/front/board/boardContentsListPage.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e) · [K-PASS 접수](https://www.k-pass.kr/notice/ancList.do)
   - 근거 상세: [eurogia-call-2026.md](eurogia-call-2026.md)
-- [ ] **Xecs Call 6 · 전자부품·시스템** (모집중 · 마감 2027-01-21 · 연 5억 원 이내)
+- [x] **Xecs Call 6 · 전자부품·시스템** (모집중 · 마감 2027-01-21 · 연 5억 원 이내)
   - ⚠ Call 6 참여국 명단의 한국 포함 여부 미확인 — 공식 페이지에 국가 명단이 사라짐, 직접 확인
   - 출처: [Xecs Call 6 안내](https://eureka-xecs.com/calls/) · [Call 6·Quantum 콜 공고](https://eureka-xecs.com/get-your-projects-funded-apply-to-xecs-call-6-and-the-new-xecs-quantum-call/) · [KIAT 사업공고](https://www.kiat.or.kr/front/board/boardContentsListPage.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e) · [K-PASS 접수](https://www.k-pass.kr/notice/ancList.do)
   - 근거 상세: [xecs-call-6.md](xecs-call-6.md)
-- [ ] **SMART Call 10 · 첨단제조** (모집중 · 마감 2027-01-26 · 연 5억 원 이내)
+- [x] **SMART Call 10 · 첨단제조** (모집중 · 마감 2027-01-26 · 연 5억 원 이내)
   - 출처: [SMART 10차 콜 공고](https://www.smarteureka.com/news-events/smart-10th-call-for-projects-is-now-open-2/) · [국가별 펀딩기관 안내 (KIAT 포함)](https://www.smarteureka.com/submit-your-proposal/funding-and-countries/) · [KIAT 사업공고](https://www.kiat.or.kr/front/board/boardContentsListPage.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e) · [K-PASS 접수](https://www.k-pass.kr/notice/ancList.do)
   - 근거 상세: [smart-call-10.md](smart-call-10.md)
-- [ ] **ITEA 4 Call 2026 · 소프트웨어** (공고 예정 · 마감 2026-11-02 · 연 5억 원 이내)
+- [x] **ITEA 4 Call 2026 · 소프트웨어** (공고 예정 · 마감 2026-11-02 · 연 5억 원 이내)
   - 출처: [ITEA Call 2026 안내](https://itea4.org/current-call.html) · [참여국 현황 (ITEA)](https://itea4.org/participating-countries.html) · [KIAT 사업공고](https://www.kiat.or.kr/front/board/boardContentsListPage.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e) · [K-PASS 접수](https://www.k-pass.kr/notice/ancList.do)
   - 근거 상세: [itea4-call-2026.md](itea4-call-2026.md)
-- [ ] **한-프랑스 공동 R&D 2026** (마감 · 마감 2026. 7. 8. 마감 · 연 5억 원 이내)
+- [x] **한-프랑스 공동 R&D 2026** (마감 · 마감 2026. 7. 8. 마감 · 연 5억 원 이내)
   - 출처: [EUREKA 2026 공식 공고](https://www.eurekanetwork.org/programmes-and-calls/network-projects/france-and-south-korea-call-for-projects-2026/) · [KIAT 2026 국내 공고](https://www.kiat.or.kr/front/board/boardContentsView.do?MenuId=b159c9dac684471b87256f1e25404f5e&board_id=90&contents_id=978b507dc80648cda7082ca59f8c51e7) · [K-PASS 접수](https://www.k-pass.kr/notice/ancList.do)
   - 근거 상세: [korea-france-2026.md](korea-france-2026.md)
-- [ ] **한-독 공동기술개발 12차** (마감 · 마감 2026. 6. 18. 마감 · 평가 중 · 연 5억 원 이내)
-  - 출처: [ZIM 공식 페이지](https://www.zim.de/ZIM/Redaktion/DE/Artikel/International/suedkorea.html) · [KIAT 사업공고](https://www.kiat.or.kr/front/board/boardContentsListPage.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e) · [K-PASS 접수](https://www.k-pass.kr/notice/ancList.do)
-  - 근거 상세: [korea-germany-12.md](korea-germany-12.md)
-- [ ] **한-스페인 공동 R&D 2025** (마감 · 마감 2026. 1. 28. 마감 · 연 10억 원 이내)
+- [x] **한-독 공동기술개발 12차** (마감 · 마감 2026. 6. 18. 마감 · 평가 중 · 연 5억 원 이내)
+  - 출처: [ZIM 공식 페이지](https://www.zim.de/ZIM/Redaktion/DE/Artikel/International/suedkorea.html) · [KIAT 2026 통합공고 원문 (K-PASS)](https://www.k-pass.kr/notice/ancView.do?ancId=P2950&gubun=NEW) · [K-PASS 접수](https://www.k-pass.kr/notice/ancList.do)
+  - 근거 상세: [korea-germany-12.md](korea-germany-12.md) — 2026-08-18: kiat.or.kr 게시판 링크는 공고를 찾을 수 없어 K-PASS 통합공고(P2950)로 교체
+- [x] **한-독 2+2 공동기술개발 2026** (모집중 · 마감 2026-11-04 · 연 5억 원 이내) — 2026-08-18 신규 추가
+  - 출처: [K-PASS 2026 공고 원문](https://www.k-pass.kr/notice/ancView.do?ancId=P3095&gubun=NEW) · [BMFTR 공고](https://www.bmftr.bund.de/SharedDocs/Bekanntmachungen/DE/2026/08/2026-08-11-bekanntmachung-halbleiter.html) · [DLR Projektträger 안내](https://projekttraeger.dlr.de/de/foerderung/foerderangebote-und-programme/2plus2-projekte-korea-halbleiter-assistenz-roboter)
+  - 근거 상세: [korea-germany-2plus2-2026.md](korea-germany-2plus2-2026.md)
+- [x] **한-스페인 공동 R&D 2025** (마감 · 마감 2026. 1. 28. 마감 · 연 10억 원 이내)
   - 출처: [KIAT 사업공고](https://www.kiat.or.kr/front/board/boardContentsListPage.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e) · [K-PASS 접수](https://www.k-pass.kr/notice/ancList.do) · [CDTI 공식 사이트](https://www.cdti.es/)
   - 근거 상세: [korea-spain-2025.md](korea-spain-2025.md)
-- [ ] **한-스위스 공동 R&D 12차** (마감 · 마감 2026. 6. 30. 마감 · 평가 중 · 연 5억 원 이내)
+- [x] **한-스위스 공동 R&D 12차** (마감 · 마감 2026. 6. 30. 마감 · 평가 중 · 연 5억 원 이내)
   - 출처: [Innosuisse 공식 페이지](https://www.innosuisse.admin.ch/en/switzerland-south-korea-call-for-projects) · [KIAT 사업공고](https://www.kiat.or.kr/front/board/boardContentsListPage.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e) · [K-PASS 접수](https://www.k-pass.kr/notice/ancList.do)
   - 근거 상세: [korea-switzerland-12.md](korea-switzerland-12.md)
 
@@ -58,7 +61,7 @@
 
 상태·마감일은 이미 기계 대조를 통과했습니다. 표본 확인 후 일괄 체크해도 됩니다.
 
-- [ ] **Horizon Europe 2026 · 우주** (모집중 · 마감 2026-09-03 · 과제당 수십억 원) — 포털 자동 대조 ✓
+- [x] **Horizon Europe 2026 · 우주** (모집중 · 마감 2026-09-03 · 과제당 수십억 원) — 포털 자동 대조 ✓
   - 출처: [공고 페이지 (Funding & Tenders Portal)](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=HORIZON-CL4-2026-03&isExactMatch=true) · [공식 사이트 (Cluster 4)](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/cluster-4-digital-industry-and-space_en) · [Work Programme 2026–2027 (Part 7 · Digital, Industry and Space)](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf) · [한-EU 연구협력센터 (KERC)](https://k-erc.eu)
   - 근거 상세: [horizon-cl4-2026-03.md](horizon-cl4-2026-03.md)
 - [ ] **Horizon Europe 2026 · 청정산업** (모집중 · 마감 2026-09-15 · 과제당 수십억 원) — 포털 자동 대조 ✓

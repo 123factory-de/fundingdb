@@ -1,6 +1,6 @@
 ---
 program: "horizon-cid-2026-01"
-last_verified: "2026-08-12"
+last_verified: "2026-08-18"
 ---
 
 # Verification log — Horizon Europe 2026 · 청정산업
@@ -16,6 +16,14 @@ that support them, so the page can be re-checked claim by claim.
 | [S1](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=HORIZON-CID-2026-01&isExactMatch=true) | 공고 페이지 (Funding & Tenders Portal) | Official call page on the EU Funding & Tenders portal |
 | [S2](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home) | 공고 검색·신청 (Funding & Tenders Portal) | Official call page on the EU Funding & Tenders portal |
 | [S3](https://k-erc.eu) | 한-EU 연구협력센터 (KERC) | — |
+
+## 2026-08-18 — topic-level participation-restriction check
+
+All topics of the call were checked for country/control restrictions using the portal topic-details data (`docs/skills/crosscheck-horizon/check_eligibility.py`). The generic "일부 토픽 제한" bullet in 지원자격 was replaced by the specific result.
+
+| Claim on the page | Source | Result |
+| :--- | :--- | :--- |
+| 참여국 제한 토픽 없음 (2개 토픽) | Funding & Tenders 포털 토픽별 "Conditions" (topic-details/<topic-id>) | Match — no "participation is limited to" / control-restriction clause in any topic |
 
 ## 2026-08-12 — claim-by-claim check
 

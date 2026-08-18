@@ -1,6 +1,6 @@
 ---
 program: "horizon-cl4-2027-04"
-last_verified: "2026-08-12"
+last_verified: "2026-08-18"
 ---
 
 # Verification log — Horizon Europe 2027 · 디지털
@@ -17,6 +17,19 @@ that support them, so the page can be re-checked claim by claim.
 | [S2](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/cluster-4-digital-industry-and-space_en) | 공식 사이트 (Cluster 4) | — |
 | [S3](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf) | Work Programme 2026–2027 (Part 7 · Digital, Industry and Space) | Work Programme PDF — search the call ID inside the document |
 | [S4](https://k-erc.eu) | 한-EU 연구협력센터 (KERC) | — |
+
+## 2026-08-18 — topic-level participation-restriction check
+
+All topics of the call were checked for country/control restrictions using the portal topic-details data (`docs/skills/crosscheck-horizon/check_eligibility.py`). The generic "일부 토픽 제한" bullet in 지원자격 was replaced by the specific result.
+
+| Claim on the page | Source | Result |
+| :--- | :--- | :--- |
+| 참여국 제한 토픽 DATA-03 — Member States, Iceland and Norway and the following additional associated countries: Canada, Israel, Republic of Korea, New Zealand, Switzerland, and the United Kingdom | [HORIZON-CL4-2027-04-DATA-03](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-04-DATA-03) | Match — Korea eligible |
+| 참여국 제한 토픽 DATA-08 — Member States, Iceland and Norway and the following additional associated countries: Canada, Israel, Republic of Korea, New Zealand, Switzerland, and the United Kingdom | [HORIZON-CL4-2027-04-DATA-08](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-04-DATA-08) | Match — Korea eligible |
+| 참여국 제한 토픽 DIGITAL-EMERGING-04 — Member States, Iceland and Norway and the following additional associated countries: Canada, Israel, Republic of Korea, New Zealand, Switzerland, and the United Kingdom | [HORIZON-CL4-2027-04-DIGITAL-EMERGING-04](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-04-DIGITAL-EMERGING-04) | Match — Korea eligible |
+| 참여국 제한 토픽 DIGITAL-EMERGING-05 — Member States, Iceland and Norway and the following additional associated countries: Canada, Israel, Republic of Korea, New Zealand, Switzerland, and the United Kingdom | [HORIZON-CL4-2027-04-DIGITAL-EMERGING-05](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-04-DIGITAL-EMERGING-05) | Match — Korea eligible |
+| 참여국 제한 토픽 DIGITAL-EMERGING-11 — Member States, Iceland and Norway and the following additional associated countries: Canada, Israel, Republic of Korea, New Zealand, Switzerland, and the United Kingdom | [HORIZON-CL4-2027-04-DIGITAL-EMERGING-11](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-04-DIGITAL-EMERGING-11) | Match — Korea eligible |
+| 중국 지배 법인 제한 토픽 DATA-09 | [HORIZON-CL4-2027-04-DATA-09](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-04-DATA-09) | Match ("controlled by China or by a legal entity established in China are not eligible") |
 
 ## 2026-08-12 — claim-by-claim check
 

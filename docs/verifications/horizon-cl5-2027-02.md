@@ -1,6 +1,6 @@
 ---
 program: "horizon-cl5-2027-02"
-last_verified: "2026-08-12"
+last_verified: "2026-08-18"
 ---
 
 # Verification log — Horizon Europe 2027 · 배터리·에너지
@@ -17,6 +17,14 @@ that support them, so the page can be re-checked claim by claim.
 | [S2](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/cluster-5-climate-energy-and-mobility_en) | 공식 사이트 (Cluster 5) | — |
 | [S3](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf) | Work Programme 2026–2027 (Part 8 · Climate, Energy and Mobility) | Work Programme PDF — search the call ID inside the document |
 | [S4](https://k-erc.eu) | 한-EU 연구협력센터 (KERC) | — |
+
+## 2026-08-18 — topic-level participation-restriction check
+
+All topics of the call were checked for country/control restrictions using the portal topic-details data (`docs/skills/crosscheck-horizon/check_eligibility.py`). The generic "일부 토픽 제한" bullet in 지원자격 was replaced by the specific result.
+
+| Claim on the page | Source | Result |
+| :--- | :--- | :--- |
+| 중국 지배 법인 제한 토픽 D3-24 | [HORIZON-CL5-2027-02-D3-24](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-02-D3-24) | Match ("controlled by China or by a legal entity established in China are not eligible") |
 
 ## 2026-08-12 — claim-by-claim check
 
