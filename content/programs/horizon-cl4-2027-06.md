@@ -30,7 +30,7 @@ verified: "2026-08-18"
 
 Horizon Europe Pillar 2 **Cluster 4(디지털·산업·우주)**\ 의 2027년 산업 분야 FTRI 공고입니다(총 €35M). **2026년 9월 22일 개시, 마감은 2027년 2월 2일 17:00(브뤼셀)** 예정입니다. 한국 소재 법인(기업·대학·연구소)은 Horizon Europe Pillar 2 준회원국 자격으로 원칙적으로 EU 회원국 기관과 거의 동등한 조건에서 참여하고 EU 예산을 직접 지원받을 수 있습니다. 토픽별 참여국·지배구조 제한과 추가 자격요건은 아래 **지원자격** 항목에 정리했습니다.
 
-같은 날 산업 본 공고 [HORIZON-CL4-2027-01](/programs/horizon-cl4-2027-01/)(€224M)과 2단계 공고 [HORIZON-CL4-2027-02-two-stage](/programs/horizon-cl4-2027-02/)(€82.5M)도 개시됩니다. 개시 전에도 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf)에서 토픽을 미리 확인하고 컨소시엄을 준비할 수 있습니다. 개시일은 ±1개월, 마감일은 최대 2개월 조정될 수 있습니다.
+같은 날 산업 본 공고 [HORIZON-CL4-2027-01](/programs/horizon-cl4-2027-01/)(€224M)과 2단계 공고 [HORIZON-CL4-2027-02-two-stage](/programs/horizon-cl4-2027-02-two-stage/)(€82.5M)도 개시됩니다. 개시 전에도 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf)에서 토픽을 미리 확인하고 컨소시엄을 준비할 수 있습니다. 개시일은 ±1개월, 마감일은 최대 2개월 조정될 수 있습니다.
 
 ## 토픽
 

@@ -29,7 +29,7 @@ verified: "2026-08-18"
 
 Horizon Europe Pillar 2 **Cluster 4(디지털·산업·우주)**\ 의 2026년 산업 분야 단일단계 공고로, 유럽 소재·생산 리더십(원자재 포함), 제조·순환경제를 다뤘습니다(총 €319.6M). **2026년 1월 6일 개시, 2026년 4월 21일 17:00(브뤼셀)에 마감**되었습니다.
 
-산업 분야 차기 공고는 [HORIZON-CL4-2027-01](/programs/horizon-cl4-2027-01/)이며 **2026년 9월 22일 개시, 2027년 2월 2일 마감** 예정입니다. 같은 날 2단계 공고 [HORIZON-CL4-2027-02-two-stage](/programs/horizon-cl4-2027-02/)도 개시됩니다. 주제가 인접한 [Clean Industrial Deal 공고(HORIZON-CID-2026-01)](/programs/horizon-cid-2026-01/)는 현재 접수 중입니다(마감 2026. 9. 15.).
+산업 분야 차기 공고는 [HORIZON-CL4-2027-01](/programs/horizon-cl4-2027-01/)이며 **2026년 9월 22일 개시, 2027년 2월 2일 마감** 예정입니다. 같은 날 2단계 공고 [HORIZON-CL4-2027-02-two-stage](/programs/horizon-cl4-2027-02-two-stage/)도 개시됩니다. 주제가 인접한 [Clean Industrial Deal 공고(HORIZON-CID-2026-01)](/programs/horizon-cid-2026-01/)는 현재 접수 중입니다(마감 2026. 9. 15.).
 
 ## 토픽
 

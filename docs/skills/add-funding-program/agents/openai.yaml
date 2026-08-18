@@ -1,0 +1,4 @@
+interface:
+  display_name: "Add Funding Program"
+  short_description: "Add verified funding calls to fundingdb"
+  default_prompt: "Use $add-funding-program to add and verify a new funding opportunity."

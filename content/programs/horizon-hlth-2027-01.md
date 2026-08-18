@@ -30,7 +30,7 @@ verified: "2026-08-18"
 
 Horizon Europe Pillar 2 **Cluster 1(보건)**\ 의 2027년 본 공고(단일단계, 총 €341.6M)입니다. **2027년 2월 10일 개시, 마감은 2027년 4월 13일 17:00(브뤼셀)** 예정입니다. 한국 소재 법인(기업·대학·연구소)은 Horizon Europe Pillar 2 준회원국 자격으로 원칙적으로 EU 회원국 기관과 거의 동등한 조건에서 참여하고 EU 예산을 직접 지원받을 수 있습니다. 토픽별 참여국·지배구조 제한과 추가 자격요건은 아래 **지원자격** 항목에 정리했습니다.
 
-2026년 본 공고([HORIZON-HLTH-2026-01](/programs/horizon-hlth-2026-01/), 마감됨)와 유사한 축(Destination)으로 구성될 예정이니, 개시 전에도 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-4-health_horizon-2026-2027_en.pdf)에서 토픽을 미리 확인하고 컨소시엄을 준비할 수 있습니다. 같은 날 2단계 공고 [HORIZON-HLTH-2027-02](/programs/horizon-hlth-2027-02/)도 개시됩니다. 개시일은 ±1개월, 마감일은 최대 2개월 조정될 수 있습니다.
+2026년 본 공고([HORIZON-HLTH-2026-01](/programs/horizon-hlth-2026-01/), 마감됨)와 유사한 축(Destination)으로 구성될 예정이니, 개시 전에도 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-4-health_horizon-2026-2027_en.pdf)에서 토픽을 미리 확인하고 컨소시엄을 준비할 수 있습니다. 같은 날 2단계 공고 [HORIZON-HLTH-2027-02](/programs/horizon-hlth-2027-02-two-stage/)도 개시됩니다. 개시일은 ±1개월, 마감일은 최대 2개월 조정될 수 있습니다.
 
 ## 토픽
 

@@ -1,5 +1,5 @@
 ---
-program: "horizon-cl6-2027-05"
+program: "horizon-cl6-2027-02-two-stage"
 last_verified: "2026-08-18"
 ---
 

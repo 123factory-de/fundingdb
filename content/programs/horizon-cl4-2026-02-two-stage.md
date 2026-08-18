@@ -29,7 +29,7 @@ verified: "2026-08-18"
 
 Horizon Europe Pillar 2 **Cluster 4(디지털·산업·우주)**\ 의 2026년 산업 분야 2단계(two-stage) 공고로, AI 기반 제조·공정과 소재·생산 기술을 다룹니다(총 €98M). **2025년 12월 16일 개시, 1차 접수는 2026년 3월 17일 17:00(브뤼셀)에 마감**되었고, 1차 통과자에 한해 **2차 제안서를 2026년 10월 13일**까지 제출합니다. 신규 지원은 불가합니다.
 
-지금 지원 가능한 Cluster 4 공고는 [HORIZON-CL4-2026-03(우주)](/programs/horizon-cl4-2026-03/)이며, 산업 분야 차기 2단계 공고는 [HORIZON-CL4-2027-02-two-stage](/programs/horizon-cl4-2027-02/)(2026년 9월 22일 개시)입니다.
+지금 지원 가능한 Cluster 4 공고는 [HORIZON-CL4-2026-03(우주)](/programs/horizon-cl4-2026-03/)이며, 산업 분야 차기 2단계 공고는 [HORIZON-CL4-2027-02-two-stage](/programs/horizon-cl4-2027-02-two-stage/)(2026년 9월 22일 개시)입니다.
 
 ## 토픽
 

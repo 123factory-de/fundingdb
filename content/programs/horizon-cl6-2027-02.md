@@ -49,7 +49,7 @@ Horizon Europe Pillar 2 **Cluster 6(식품·바이오경제·환경)**\ 의 2027
 | FARM2FORK-05 | 다각화 작물·가치사슬 혁신을 통한 농가 수익성·회복력 강화 | IA | 영리 70% · 비영리 100% | 12.0 |
 | FARM2FORK-06 | 번영하는 지역공동체를 위한 지속가능한 소규모 수산식품 생산·레저어업 잠재력 활용 | IA | 영리 70% · 비영리 100% | 10.0 |
 | FARM2FORK-07 | 식품시스템 마이크로바이옴 솔루션의 상용화 | IA | 영리 70% · 비영리 100% | 15.5 |
-| FARM2FORK-08 | AI 기반 푸도믹스 특성 분석 | IA | 영리 70% · 비영리 100% | 7.8 |
+| FARM2FORK-08 | AI 기반 식품 성분체(foodome) 특성 분석 | IA | 영리 70% · 비영리 100% | 7.8 |
 | FARM2FORK-09 | 식량·영양안보와 지속가능 농업에 관한 아프리카연합-EU 파트너십 | CSA | 100% | 6.75 |
 
 토픽의 공식 조건은 [Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=HORIZON-CL6-2027-02&isExactMatch=true), 상세 내용은 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf)에서 확인할 수 있습니다.

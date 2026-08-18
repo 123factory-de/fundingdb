@@ -43,7 +43,7 @@ Every topic was checked against the portal topic-details data for its identifier
 | FARM2FORK-05 | Enhancing farmer's profitability and resilience through innovations for diversified crops and value chains | 다각화 작물·가치사슬 혁신을 통한 농가 수익성·회복력 강화 |
 | FARM2FORK-06 | Unleashing the potential of sustainable small-scale aquatic food production and recreational fisheries for prosperous local communities | 번영하는 지역공동체를 위한 지속가능한 소규모 수산식품 생산·레저어업 잠재력 활용 |
 | FARM2FORK-07 | Towards commercialization of food systems microbiome solutions | 식품시스템 마이크로바이옴 솔루션의 상용화 |
-| FARM2FORK-08 | AI-powered foodome characterization | AI 기반 푸도믹스 특성 분석 |
+| FARM2FORK-08 | AI-powered foodome characterization | AI 기반 식품 성분체(foodome) 특성 분석 |
 | FARM2FORK-09 | African Union – European Union Partnership on Food and Nutrition Security and Sustainable Agriculture (FNSSA) | 식량·영양안보와 지속가능 농업에 관한 아프리카연합-EU 파트너십 |
 
 ## 2026-08-18 — topic-level eligibility check

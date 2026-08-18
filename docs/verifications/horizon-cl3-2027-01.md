@@ -33,7 +33,7 @@ Every topic was checked against the portal topic-details data for its identifier
 | BM-01 | Open topic on research and innovation for effective management of EU external borders that promotes fundamental rights and EU values | 기본권과 EU 가치를 증진하는 EU 외부국경의 효과적 관리를 위한 R&I 오픈 토픽 |
 | BM-02 | Trusted, secure, quality future digital travel credentials | 신뢰할 수 있고 안전한 고품질 미래 디지털 여행증명 |
 | BM-03 | Detection and characterisation of threats or illegal/ smuggled goods in cargo | 화물 내 위협 또는 불법·밀수품 탐지와 특성 분석 |
-| DRS-01 | Open Topic on advanced protective gear optimized for CBRN-E (Chemical, Biological, Radiological, Nuclear, Explosives) environments and new generation of smart protective equipment for disaster responders | CBRN-E 환경 최적화 첨단 보호장비와 재난대응자용 차세대 스마트 보호장비 오픈 토픽 |
+| DRS-01 | Open Topic on advanced protective gear optimized for CBRN-E (Chemical, Biological, Radiological, Nuclear, Explosives) environments and new generation of smart protective equipment for disaster responders | CBRN-E(화학·생물·방사능·핵·폭발물) 환경에 최적화된 첨단 보호장비와 재난대응자용 차세대 스마트 보호장비 오픈 토픽 |
 | DRS-02 | Societal resilience, engagement of the younger generations and digital innovation for disaster resilience | 사회 회복력·청년세대 참여·재난 회복력 디지털 혁신 |
 | DRS-03 | Enhancing decision support system for disaster crises: leveraging emerging technologies for improved civil preparedness and crisis management | 신기술을 활용한 재난위기 의사결정 지원시스템과 시민 대비·위기관리 강화 |
 | DRS-04 | Enhancing preparedness for large-scale cross-border disasters | 대규모 초국경 재난 대비 강화 |

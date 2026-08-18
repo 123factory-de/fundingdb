@@ -30,7 +30,7 @@ verified: "2026-08-18"
 
 Horizon Europe Pillar 2 **Cluster 5(기후·에너지·모빌리티)**\ 의 2027년 모빌리티 분야 공고(총 €131M)입니다. **2026년 12월 15일 개시, 마감은 2027년 4월 14일 17:00(브뤼셀)** 예정입니다. 한국 소재 법인(기업·대학·연구소)은 Horizon Europe Pillar 2 준회원국 자격으로 원칙적으로 EU 회원국 기관과 거의 동등한 조건에서 참여하고 EU 예산을 직접 지원받을 수 있습니다. 토픽별 참여국·지배구조 제한과 추가 자격요건은 아래 **지원자격** 항목에 정리했습니다.
 
-지금 접수 중인 모빌리티 공고는 [HORIZON-CL5-2026-10](/programs/horizon-cl5-2026-10/)(배터리·모빌리티, 마감 2026. 10. 8.)입니다. 같은 날 2단계 공고 [HORIZON-CL5-2027-04-Two-Stage](/programs/horizon-cl5-2027-04/)도 개시됩니다. 개시 전에도 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf)에서 토픽을 미리 확인하고 컨소시엄을 준비할 수 있습니다. 개시일은 ±1개월, 마감일은 최대 2개월 조정될 수 있습니다.
+지금 접수 중인 모빌리티 공고는 [HORIZON-CL5-2026-10](/programs/horizon-cl5-2026-10/)(배터리·모빌리티, 마감 2026. 10. 8.)입니다. 같은 날 2단계 공고 [HORIZON-CL5-2027-04-Two-Stage](/programs/horizon-cl5-2027-04-two-stage/)도 개시됩니다. 개시 전에도 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf)에서 토픽을 미리 확인하고 컨소시엄을 준비할 수 있습니다. 개시일은 ±1개월, 마감일은 최대 2개월 조정될 수 있습니다.
 
 ## 토픽
 
