@@ -12,7 +12,15 @@ the portal topic-details endpoint. Two kinds of clause are extracted:
     scope names it, or covers "associated countries" / OECD; otherwise Korean
     entities are excluded (e.g. Space topics limited to Member States + NO/IS).
   * "restriction on control in innovation actions in critical technology areas"
-    (General Annex B) — entities controlled by China may not participate.
+    (General Annexes Part 15) — entities directly or indirectly controlled by China
+    may not participate. This is an ownership test, not a nationality test: an
+    ordinary Korean company is unaffected.
+  * "The following additional eligibility criteria apply:" — topic-specific
+    requirements that often matter more in practice than the country rules, e.g.
+    CL3 topics that require EU police / border-guard / disaster authorities as
+    beneficiaries, CL6 topics requiring the multi-actor approach, geographic
+    mandates (African Union, Ukraine), consortium size caps, or topics open only
+    to a named predecessor consortium.
 
 Output: one line per page, then per restricted topic. Exit code 0 always; the
 report is meant to be read, and the page's 지원자격 section updated by hand.
@@ -76,6 +84,12 @@ def main():
                 rows.append((tid, ("KR-OK   " if kr else "KR-EXCL ") + "limited to: " + sc))
             if "restriction on control in innovation actions" in c:
                 rows.append((tid, "CN-CTRL entities controlled by China not eligible"))
+            m3 = re.search(r"The following additional eligibility criteria apply:(.*?)"
+                           r"(?:If projects use satellite|Described in Annex B|described in Annex B|"
+                           r"4\. Financial and operational|Proposal page limits|$)", c, re.S)
+            if m3:
+                txt = re.sub(r"\[\[.*?\]\]", " ", m3.group(1))
+                rows.append((tid, "EXTRA   " + re.sub(r"\s+", " ", txt).strip()[:200]))
         print(f"{f[:-3]} ({call}): {len(topics)} topics, {len(rows)} restriction clause(s)")
         for tid, msg in rows:
             print(f"    {tid}: {msg}")

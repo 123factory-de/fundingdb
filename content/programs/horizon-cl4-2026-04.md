@@ -34,7 +34,8 @@ Horizon Europe Pillar 2 **Cluster 4(디지털·산업·우주)**\ 의 2026년 �
 ## 지원자격 · 지원율 (Pillar 2 공통)
 
 - 한국 소재 기업(중소기업 포함)·대학·연구기관은 Pillar 2 준회원국 자격으로 원칙적으로 참여 및 **주관기관(코디네이터)** 역할 가능
-- 참여국 제한 토픽 **DATA-06 · DIGITAL-EMERGING-08 · DIGITAL-EMERGING-11 · DIGITAL-EMERGING-12 · DIGITAL-EMERGING-18 · DIGITAL-EMERGING-19 · HUMAN-01**: EU 회원국·준회원국(한국 포함; 일부 토픽은 OECD국까지) 소재 법인만 참여 가능 — 한국은 적격국으로 명시. 단, 비적격국 법인이 직·간접 지배하는 기관은 참여 불가(적격국 범위는 토픽별로 다름) (2026-08-18 Funding & Tenders 포털 토픽별 조건 확인)
+- **참여국 제한 토픽 DATA-06 · DIGITAL-EMERGING-08 · DIGITAL-EMERGING-11 · DIGITAL-EMERGING-12 · DIGITAL-EMERGING-18 · DIGITAL-EMERGING-19 · HUMAN-01 — 한국 기관 참여 가능**: 이 토픽들은 EU 회원국·준회원국(일부 토픽은 OECD국까지) 소재 법인으로 참여를 제한하는데, 한국이 적격국으로 **명시**되어 지원할 수 있습니다. 다만 비적격국 법인이 직·간접 지배하는 기관은 제외됩니다
+- 추가 자격요건: **DIGITAL-EMERGING-11**은 중소기업 **단독 신청(mono-beneficiary CSA)** 과제로, 컨소시엄을 구성하지 않습니다 (2026-08-18 Funding & Tenders 포털 토픽별 조건 확인)
 - 컨소시엄 최소 요건: 서로 독립적인 **3개 이상 법인**, 그중 EU 회원국 소재 1개 이상 + 서로 다른 회원국·준회원국 소재 2개 이상
 - 지원율: RIA(연구혁신과제) 직접비 **100%** · IA(혁신과제) 영리기업 **70%** · 간접비 직접비의 **25% 정률** 추가
 

@@ -22,7 +22,7 @@ links:
     url: "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-4-health_horizon-2026-2027_en.pdf"
   - name: "한-EU 연구협력센터 (KERC)"
     url: "https://k-erc.eu"
-verified: "2026-08-12"
+verified: "2026-08-18"
 ---
 
 ## 개요

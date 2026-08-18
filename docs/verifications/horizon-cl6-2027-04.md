@@ -18,13 +18,16 @@ that support them, so the page can be re-checked claim by claim.
 | [S3](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf) | Work Programme 2026–2027 (Part 9 · Food, Bioeconomy) | Work Programme PDF — search the call ID inside the document |
 | [S4](https://k-erc.eu) | 한-EU 연구협력센터 (KERC) | — |
 
-## 2026-08-18 — topic-level participation-restriction check
+## 2026-08-18 — topic-level eligibility check
 
-All topics of the call were checked for country/control restrictions using the portal topic-details data (`docs/skills/crosscheck-horizon/check_eligibility.py`). The generic "일부 토픽 제한" bullet in 지원자격 was replaced by the specific result.
+Every topic of the call was checked against the portal topic-details data (`docs/skills/crosscheck-horizon/check_eligibility.py`) for (a) country restrictions, (b) the General Annexes Part 15 "restrictions on control in Innovation Actions in critical technology areas" (China-controlled entities), and (c) topic-specific additional eligibility criteria. The generic "일부 토픽 제한" bullet in 지원자격 was replaced by the specific, conclusion-first result.
 
 | Claim on the page | Source | Result |
 | :--- | :--- | :--- |
-| 참여국 제한 토픽 없음 (2개 토픽) | Funding & Tenders 포털 토픽별 "Conditions" (topic-details/<topic-id>) | Match — no "participation is limited to" / control-restriction clause in any topic |
+| 참여국 제한 토픽 없음 (2개 토픽) | 포털 토픽별 "Conditions" | Match — no country or control clause in any topic |
+| 추가 자격요건 CIRCBIO-01 — multi-actor approach 필수 | [HORIZON-CL6-2027-01-CIRCBIO-01-two-stage](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl6-2027-01-circbio-01-two-stage) | Match — "multi-actor approach 적용 필수" |
+| 추가 자격요건 CIRCBIO-01 — 지자체·리빙랩 참여 필수 | [HORIZON-CL6-2027-01-CIRCBIO-01-two-stage](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl6-2027-01-circbio-01-two-stage) | Match — "지자체 다수 참여 필수" |
+
 
 ## 2026-08-12 — claim-by-claim check
 

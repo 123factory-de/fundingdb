@@ -1,6 +1,6 @@
 ---
 program: "horizon-cl6-2026-04"
-last_verified: "2026-08-12"
+last_verified: "2026-08-18"
 ---
 
 # Verification log — Horizon Europe 2026 · 데이터 농업 파트너십
@@ -17,6 +17,17 @@ that support them, so the page can be re-checked claim by claim.
 | [S2](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment_en) | 공식 사이트 (Cluster 6) | — |
 | [S3](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf) | Work Programme 2026–2027 (Part 9 · Food, Bioeconomy) | Work Programme PDF — search the call ID inside the document |
 | [S4](https://k-erc.eu) | 한-EU 연구협력센터 (KERC) | — |
+
+## 2026-08-18 — topic-level eligibility check
+
+Every topic of the call was checked against the portal topic-details data (`docs/skills/crosscheck-horizon/check_eligibility.py`) for country restrictions, the General Annexes Part 15 control restriction, and topic-specific additional eligibility criteria.
+
+| Claim on the page | Source | Result |
+| :--- | :--- | :--- |
+| 참여국 제한·지배구조 제한 없음 (1개 토픽) | 포털 토픽별 "Conditions" | Match — no country or control clause |
+| 추가 자격요건 HORIZON-CL6-2026-04-GOVERNANCE-01 | [HORIZON-CL6-2026-04-GOVERNANCE-01](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl6-2026-04-governance-01) | Match — "특정 선행과제 컨소시엄만 신청 가능" |
+
+- Correction applied to the page: 개요 now states that the call's only topic is restricted to the coordinator of the HORIZON-CL6-2024-GOVERNANCE-02-01 consortium, so new applicants cannot apply.
 
 ## 2026-08-12 — claim-by-claim check
 

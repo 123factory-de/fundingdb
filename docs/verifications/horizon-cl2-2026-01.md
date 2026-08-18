@@ -18,13 +18,14 @@ that support them, so the page can be re-checked claim by claim.
 | [S3](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-5-culture-creativity-and-inclusive-society_horizon-2026-2027_en.pdf) | Work Programme 2026–2027 (Part 5 · Culture) | Work Programme PDF — search the call ID inside the document |
 | [S4](https://k-erc.eu) | 한-EU 연구협력센터 (KERC) | — |
 
-## 2026-08-18 — topic-level participation-restriction check
+## 2026-08-18 — topic-level eligibility check
 
-All topics of the call were checked for country/control restrictions using the portal topic-details data (`docs/skills/crosscheck-horizon/check_eligibility.py`). The generic "일부 토픽 제한" bullet in 지원자격 was replaced by the specific result.
+Every topic of the call was checked against the portal topic-details data (`docs/skills/crosscheck-horizon/check_eligibility.py`) for (a) country restrictions, (b) the General Annexes Part 15 "restrictions on control in Innovation Actions in critical technology areas" (China-controlled entities), and (c) topic-specific additional eligibility criteria. The generic "일부 토픽 제한" bullet in 지원자격 was replaced by the specific, conclusion-first result.
 
 | Claim on the page | Source | Result |
 | :--- | :--- | :--- |
-| 참여국 제한 토픽 없음 (26개 토픽) | Funding & Tenders 포털 토픽별 "Conditions" (topic-details/<topic-id>) | Match — no "participation is limited to" / control-restriction clause in any topic |
+| 참여국 제한 토픽 없음 (26개 토픽) | 포털 토픽별 "Conditions" | Match — no country or control clause in any topic |
+
 
 ## 2026-08-12 — claim-by-claim check
 

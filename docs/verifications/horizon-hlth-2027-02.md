@@ -18,13 +18,14 @@ that support them, so the page can be re-checked claim by claim.
 | [S3](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-4-health_horizon-2026-2027_en.pdf) | Work Programme 2026–2027 (Part 4 · Health) | Work Programme PDF — search the call ID inside the document |
 | [S4](https://k-erc.eu) | 한-EU 연구협력센터 (KERC) | — |
 
-## 2026-08-18 — topic-level participation-restriction check
+## 2026-08-18 — topic-level eligibility check
 
-All topics of the call were checked for country/control restrictions using the portal topic-details data (`docs/skills/crosscheck-horizon/check_eligibility.py`). The generic "일부 토픽 제한" bullet in 지원자격 was replaced by the specific result.
+Every topic of the call was checked against the portal topic-details data (`docs/skills/crosscheck-horizon/check_eligibility.py`) for (a) country restrictions, (b) the General Annexes Part 15 "restrictions on control in Innovation Actions in critical technology areas" (China-controlled entities), and (c) topic-specific additional eligibility criteria. The generic "일부 토픽 제한" bullet in 지원자격 was replaced by the specific, conclusion-first result.
 
 | Claim on the page | Source | Result |
 | :--- | :--- | :--- |
-| 중국 지배 법인 제한 토픽 IND-02 | [HORIZON-HLTH-2027-02-IND-02-two-stage](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2027-02-IND-02-two-stage) | Match ("controlled by China or by a legal entity established in China are not eligible") |
+| 중국 지배 법인 제한 IND-02 | [HORIZON-HLTH-2027-02-IND-02-two-stage](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-hlth-2027-02-ind-02-two-stage) | Match — "directly or indirectly controlled by China ... not eligible" (Art. 22(5), IA in critical technology areas per General Annexes Part 15) |
+
 
 ## 2026-08-12 — claim-by-claim check
 

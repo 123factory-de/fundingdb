@@ -1,11 +1,12 @@
 # Cross-check sheet — 2026-08-12 audit
 
-체크리스트: 67개 프로그램의 핵심 사실(모집 상태 · 마감일 · 지원규모)을 공식 출처와 대조합니다.
+체크리스트: 66개 프로그램의 핵심 사실(모집 상태 · 마감일 · 지원규모)을 공식 출처와 대조합니다.
 확인한 항목은 `- [ ]`를 `- [x]`로 바꿔 진행 상황을 기록하세요. 항목별 상세 근거는
 같은 폴더의 프로그램별 검증 로그를 참고하세요.
 
 - 자동 대조: Horizon 53건은 `docs/skills/crosscheck-horizon/` 스크립트로 EU 포털 공식 데이터
-  (grantsTenders.json, 2026-08-11자)와 상태·마감일을 기계 대조해 **53/53 일치**했습니다.
+  (grantsTenders.json, 2026-08-11자)와 상태·마감일을 기계 대조해 **53/53 일치**했습니다
+  (2026-08-18 CL4-2027-03 삭제로 현재 52건).
 - 수동 확인: Eureka 계열 9건 + 양자협력 5건은 기계 판독 가능한 출처가 없어 직접 확인이 필요합니다.
 - 미해결 2건은 ⚠ 로 표시했습니다.
 - 금액(지원규모)은 자동 대조 대상이 아니므로 표본 확인을 권합니다.
@@ -57,7 +58,7 @@
   - 출처: [Innosuisse 공식 페이지](https://www.innosuisse.admin.ch/en/switzerland-south-korea-call-for-projects) · [KIAT 사업공고](https://www.kiat.or.kr/front/board/boardContentsListPage.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e) · [K-PASS 접수](https://www.k-pass.kr/notice/ancList.do)
   - 근거 상세: [korea-switzerland-12.md](korea-switzerland-12.md)
 
-## 자동 대조 통과 — Horizon Europe (53)
+## 자동 대조 통과 — Horizon Europe (53 → 52, 1건 삭제)
 
 상태·마감일은 이미 기계 대조를 통과했습니다. 표본 확인 후 일괄 체크해도 됩니다.
 
@@ -142,9 +143,7 @@
 - [ ] **Horizon Europe 2027 · 거버넌스·환경관측** (공고 예정 · 마감 2027-05-11 · 과제당 수십억 원) — 포털 자동 대조 ✓
   - 출처: [공고 페이지 (Funding & Tenders Portal)](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=HORIZON-CL6-2027-03&isExactMatch=true) · [공식 사이트 (Cluster 6)](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment_en) · [Work Programme 2026–2027 (Part 9 · Food, Bioeconomy)](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf) · [한-EU 연구협력센터 (KERC)](https://k-erc.eu)
   - 근거 상세: [horizon-cl6-2027-03.md](horizon-cl6-2027-03.md)
-- [ ] **Horizon Europe 2027 · 우주** (공고 예정 · 마감 2027-09-02 · 과제당 수십억 원) — 포털 자동 대조 ✓
-  - 출처: [공고 페이지 (Funding & Tenders Portal)](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=HORIZON-CL4-2027-03&isExactMatch=true) · [공식 사이트 (Cluster 4)](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/cluster-4-digital-industry-and-space_en) · [Work Programme 2026–2027 (Part 7 · Digital, Industry and Space)](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf) · [한-EU 연구협력센터 (KERC)](https://k-erc.eu)
-  - 근거 상세: [horizon-cl4-2027-03.md](horizon-cl4-2027-03.md)
+- [x] ~~**Horizon Europe 2027 · 우주** (공고 예정 · 마감 2027-09-02)~~ — 2026-08-18 **페이지 삭제**: WP 2026–2027 기준 7개 토픽 전부 한국 기관 참여 불가(회원국+NO/IS 등으로 제한)라 사이트 목적에 맞지 않아 제거. 기존 URL은 2026 우주 페이지로 리다이렉트
 - [ ] **Horizon Europe 2027 · 에너지저장·효율** (공고 예정 · 마감 2027-09-15 · 과제당 수십억 원) — 포털 자동 대조 ✓
   - 출처: [공고 페이지 (Funding & Tenders Portal)](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=HORIZON-CL5-2027-05&isExactMatch=true) · [공식 사이트 (Cluster 5)](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/cluster-5-climate-energy-and-mobility_en) · [Work Programme 2026–2027 (Part 8 · Climate, Energy and Mobility)](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf) · [한-EU 연구협력센터 (KERC)](https://k-erc.eu)
   - 근거 상세: [horizon-cl5-2027-05.md](horizon-cl5-2027-05.md)

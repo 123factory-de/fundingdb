@@ -1,6 +1,6 @@
 ---
 program: "horizon-hlth-2026-02"
-last_verified: "2026-08-12"
+last_verified: "2026-08-18"
 ---
 
 # Verification log — Horizon Europe 2026 · 희귀질환 파트너십
@@ -17,6 +17,16 @@ that support them, so the page can be re-checked claim by claim.
 | [S2](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/cluster-1-health_en) | 공식 사이트 (Cluster 1 Health) | — |
 | [S3](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-4-health_horizon-2026-2027_en.pdf) | Work Programme 2026–2027 (Part 4 · Health) | Work Programme PDF — search the call ID inside the document |
 | [S4](https://k-erc.eu) | 한-EU 연구협력센터 (KERC) | — |
+
+## 2026-08-18 — topic-level eligibility check
+
+Every topic of the call was checked against the portal topic-details data (`docs/skills/crosscheck-horizon/check_eligibility.py`) for country restrictions, the General Annexes Part 15 control restriction, and topic-specific additional eligibility criteria.
+
+| Claim on the page | Source | Result |
+| :--- | :--- | :--- |
+| 참여국 제한·지배구조 제한 없음 (1개 토픽) | 포털 토픽별 "Conditions" | Match — no country or control clause |
+
+- No page change needed; the page has no 지원자격 section (COFUND / single-topic page).
 
 ## 2026-08-12 — claim-by-claim check
 
