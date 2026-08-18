@@ -32,6 +32,20 @@ Horizon Europe Pillar 2 **Cluster 6(식품·바이오경제·환경)**\ 의 2027
 
 같은 날 2단계(two-stage) 공고 [HORIZON-CL6-2027-01-two-stage](/programs/horizon-cl6-2027-04/)(순환 바이오경제)와 [HORIZON-CL6-2027-02-two-stage](/programs/horizon-cl6-2027-05/)(식품·기후)도 함께 개시됩니다. 이후 [HORIZON-CL6-2027-01](/programs/horizon-cl6-2027-01/)·[HORIZON-CL6-2027-02](/programs/horizon-cl6-2027-02/)가 2027년 4월 20일에 개시됩니다. 개시 전에도 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf)에서 토픽을 미리 확인하고 컨소시엄을 준비할 수 있습니다. 개시일은 ±1개월, 마감일은 최대 2개월 조정될 수 있습니다.
 
+## 토픽
+
+| 토픽 ID | 주제 | Action Type | EU 지원율 | 예산(€M) |
+| :--- | :--- | :---: | :--- | ---: |
+| GOVERNANCE-01 | 위험·위기 대응역량 개선을 통한 유럽 농업인 회복력 강화 | RIA | 100% | 12.0 |
+| GOVERNANCE-02 | 농업 부문의 지속가능한 경쟁력 분석역량 개선 | RIA | 100% | 6.0 |
+| GOVERNANCE-03 | 순환형 바이오 기반 경제의 국제적 차원: 상생 기회 발굴 | CSA | 100% | 3.0 |
+| GOVERNANCE-04 | 농업인·산림업자의 경쟁력·지속가능성 향상을 위한 AI 기반 정보형 자문 | IA | 영리 70% · 비영리 100% | 11.8 |
+| GOVERNANCE-05 | EU 주제별 지식허브를 통한 AKIS의 현장 지식흐름 확대 | CSA | 100% | 7.0 |
+| GOVERNANCE-06 | EU 자문 네트워크를 통한 농업 세대교체 촉진 | CSA | 100% | 4.5 |
+| GOVERNANCE-07 | EU·국가 R&I 의제·투자 간 전략자문과 시너지 강화 | CSA | 100% | 4.75 |
+
+RIA는 연구혁신과제, IA는 혁신과제, CSA는 조정·지원과제입니다. 이 콜은 **RIA 2개·IA 1개·CSA 4개**로 구성되며, 표의 지원율은 적격비용에 적용되는 최대 EU 지원율입니다.
+
 ## 지원자격 · 지원율 (Pillar 2 공통)
 
 - 한국 소재 기업(중소기업 포함)·대학·연구기관은 Pillar 2 준회원국 자격으로 원칙적으로 참여 및 **주관기관(코디네이터)** 역할 가능
@@ -39,7 +53,7 @@ Horizon Europe Pillar 2 **Cluster 6(식품·바이오경제·환경)**\ 의 2027
 - 그 밖에 나라 단위 참여국 제한이 걸린 토픽은 없습니다 (7개 토픽)
 - 추가 자격요건: **GOVERNANCE-01 · 02 · 04 · 05 · 06**은 multi-actor approach 적용이 필수입니다 (2026-08-18 Funding & Tenders 포털 토픽별 조건 확인)
 - 컨소시엄 최소 요건: 서로 독립적인 **3개 이상 법인**, 그중 EU 회원국 소재 1개 이상 + 서로 다른 회원국·준회원국 소재 2개 이상
-- 지원율: RIA(연구혁신과제) 직접비 **100%** · IA(혁신과제) 영리기업 **70%** · 간접비 직접비의 **25% 정률** 추가
+- 토픽별 Action Type과 지원율은 위 표에 표시했습니다. 간접비는 예산 산정 시 대상 직접비의 **25% 정률**로 계산합니다
 
 ## 신청방법 · 한국측 지원
 

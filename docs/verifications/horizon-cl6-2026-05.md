@@ -18,6 +18,26 @@ that support them, so the page can be re-checked claim by claim.
 | [S3](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf) | Work Programme 2026–2027 (Part 9 · Food, Bioeconomy) | Work Programme PDF — search the call ID inside the document |
 | [S4](https://k-erc.eu) | 한-EU 연구협력센터 (KERC) | — |
 
+## 2026-08-18 — topic-level action types and funding rates
+
+Every topic was checked against the portal topic-details data for its identifier, official title, action type, and budget. The Korean translation is recorded alongside the official portal title below for direct review. The applicable maximum funding rate was checked against General Annex G; topic-specific COFUND rates were checked against each topic's official conditions.
+
+| Claim on the page | Source | Result |
+| :--- | :--- | :--- |
+| 7 topic IDs, official titles, action types, funding rates, and budgets | [Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home) / [General Annex G](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf) | Match — RIA 4, IA 3; total €105.0M |
+
+### Topic title translations
+
+| Topic ID | Official portal title | Korean translation |
+| :--- | :--- | :--- |
+| BIODIV-01 | Living labs for co-creating solutions for the restoration of ecosystems | 생태계 복원 솔루션 공동창출을 위한 리빙랩 |
+| BIODIV-02 | Open topic: Uncovering the causes of specific species’ rapid decline and exploring actionable solutions | 특정 종의 급격한 감소 원인 규명과 실행 가능한 해결책 탐색 오픈 토픽 |
+| BIODIV-03 | Unlocking the potential of citizen action for nature protection and restoration | 자연 보호·복원을 위한 시민행동의 잠재력 활용 |
+| BIODIV-04 | Mainstreaming and scaling-up evidence-based Nature-Based Solutions towards a nature positive and climate-resilient economy | 자연친화·기후회복 경제를 위한 근거기반 자연기반해법의 주류화·규모 확대 |
+| CIRCBIO-01 | Deploying circular systemic solutions through living labs in cities and regions (Circular Cities and Regions Initiative topic) | 도시·지역 리빙랩을 통한 순환형 시스템 솔루션 도입 |
+| CIRCBIO-02 | Open topic: Using the Circular Cities and Regions Initiative to strengthen urban manufacturing in support of the Clean Industrial Deal | 청정산업딜을 지원하는 도시 제조업 강화를 위한 순환도시·지역 이니셔티브 활용 오픈 토픽 |
+| ZEROPOLLUTION-01 | Decontaminate and bioremediate aquatic pollution | 수생 오염의 제거와 생물정화 |
+
 ## 2026-08-18 — topic-level eligibility check
 
 Every topic of the call was checked against the portal topic-details data (`docs/skills/crosscheck-horizon/check_eligibility.py`) for (a) country restrictions, (b) the General Annexes Part 15 "restrictions on control in Innovation Actions in critical technology areas" (China-controlled entities), and (c) topic-specific additional eligibility criteria. The generic "일부 토픽 제한" bullet in 지원자격 was replaced by the specific, conclusion-first result.

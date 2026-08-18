@@ -18,6 +18,34 @@ that support them, so the page can be re-checked claim by claim.
 | [S3](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf) | Work Programme 2026–2027 (Part 7 · Digital, Industry and Space) | Work Programme PDF — search the call ID inside the document |
 | [S4](https://k-erc.eu) | 한-EU 연구협력센터 (KERC) | — |
 
+## 2026-08-18 — topic-level action types and funding rates
+
+Every topic was checked against the portal topic-details data for its identifier, official title, action type, and budget. The Korean translation is recorded alongside the official portal title below for direct review. The applicable maximum funding rate was checked against General Annex G; topic-specific COFUND rates were checked against each topic's official conditions.
+
+| Claim on the page | Source | Result |
+| :--- | :--- | :--- |
+| 15 topic IDs, official titles, action types, funding rates, and budgets | [Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home) / [General Annex G](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf) | Match — RIA 5, IA 4, CSA 6; total €319.6M |
+
+### Topic title translations
+
+| Topic ID | Official portal title | Korean translation |
+| :--- | :--- | :--- |
+| MAT-PROD-01 | Advanced manufacturing for key products (IA) (Made in Europe partnership) | 핵심 제품을 위한 첨단 제조(Made in Europe 파트너십) |
+| MAT-PROD-04 | Optimise the usage of resources in a circular economy (RIA) (Processes4Planet and Clean Steel partnerships) | 순환경제에서 자원 사용 최적화(Processes4Planet·Clean Steel 파트너십) |
+| MAT-PROD-05 | Circular innovative advanced materials: facilitating the transition from design to markets (RIA) (Innovative Advanced Materials for the EU and Made in Europe partnerships) | 순환형 혁신 첨단소재: 설계에서 시장까지의 전환 촉진 |
+| MAT-PROD-11 | Innovative technologies and tools for exploration and data modelling of raw materials (RIA) | 원자재 탐사와 데이터 모델링을 위한 혁신 기술·도구 |
+| MAT-PROD-12 | Technologies for innovative extraction of critical raw materials (RIA) | 핵심원자재 혁신 추출 기술 |
+| MAT-PROD-13 | Monitoring of secondary raw materials (CSA) | 2차 원자재 모니터링 |
+| MAT-PROD-14 | Improving availability of secondary raw materials through recycling (IA) | 재활용을 통한 2차 원자재 가용성 개선 |
+| MAT-PROD-23 | Accelerating the discovery and development of chemicals and innovative advanced materials through digitalisation and artificial intelligence (IA) (Innovative Advanced Materials for the EU partnership) | 디지털화와 AI를 활용한 화학물질·혁신 첨단소재 발굴·개발 가속 |
+| MAT-PROD-24 | Cooperation on innovative advanced materials with Japan (CSA) | 일본과의 혁신 첨단소재 협력 |
+| MAT-PROD-31 | Efficient capture / purification / utilisation of CO2 for the production of competitive products (RIA) (Processes4Planet partnership) | 경쟁력 있는 제품 생산을 위한 효율적 CO₂ 포집·정제·활용 |
+| MAT-PROD-41 | Enhancing industry-academia knowledge exchange in Social Sciences and Humanities (SSH) (CSA) | 사회과학·인문학 분야 산학 지식교류 강화 |
+| MAT-PROD-44 | Attracting management talent for capacity building for Technology Infrastructures staff members (CSA) | 기술 인프라 인력 역량 강화를 위한 관리 인재 유치 |
+| MAT-PROD-45 | Pilot access schemes to Technology Infrastructures for European startups, scaleups and innovative SMEs (CSA) | 유럽 스타트업·스케일업·혁신 중소기업의 기술 인프라 시범 이용제도 |
+| MAT-PROD-46 | Mapping and service finder for Technology Infrastructures (CSA) | 기술 인프라 지도화와 서비스 검색도구 |
+| MAT-PROD-48 | ‘Proof of market’ to improve valorisation and commercialisation of Horizon generated R&I results (IA) | Horizon R&I 성과의 가치화·사업화를 높이는 시장성 검증 |
+
 ## 2026-08-18 — topic-level eligibility check
 
 Every topic of the call was checked against the portal topic-details data (`docs/skills/crosscheck-horizon/check_eligibility.py`) for (a) country restrictions, (b) the General Annexes Part 15 "restrictions on control in Innovation Actions in critical technology areas" (China-controlled entities), and (c) topic-specific additional eligibility criteria. The generic "일부 토픽 제한" bullet in 지원자격 was replaced by the specific, conclusion-first result.

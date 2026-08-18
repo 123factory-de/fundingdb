@@ -18,6 +18,20 @@ that support them, so the page can be re-checked claim by claim.
 | [S3](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-4-health_horizon-2026-2027_en.pdf) | Work Programme 2026–2027 (Part 4 · Health) | Work Programme PDF — search the call ID inside the document |
 | [S4](https://k-erc.eu) | 한-EU 연구협력센터 (KERC) | — |
 
+## 2026-08-18 — topic-level action types and funding rates
+
+Every topic was checked against the portal topic-details data for its identifier, official title, action type, and budget. The Korean translation is recorded alongside the official portal title below for direct review. The applicable maximum funding rate was checked against General Annex G; topic-specific COFUND rates were checked against each topic's official conditions.
+
+| Claim on the page | Source | Result |
+| :--- | :--- | :--- |
+| 1 topic IDs, official titles, action types, funding rates, and budgets | [Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home) / [General Annex G](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf) | Match — COFUND 1; total €91.3M |
+
+### Topic title translations
+
+| Topic ID | Official portal title | Korean translation |
+| :--- | :--- | :--- |
+| DISEASE-12 | European Partnership on Rare Diseases (ERDERA) (Phase 2) | 희귀질환 유럽 파트너십(ERDERA) 2단계 |
+
 ## 2026-08-18 — topic-level eligibility check
 
 Every topic of the call was checked against the portal topic-details data (`docs/skills/crosscheck-horizon/check_eligibility.py`) for country restrictions, the General Annexes Part 15 control restriction, and topic-specific additional eligibility criteria.

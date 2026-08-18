@@ -18,6 +18,22 @@ that support them, so the page can be re-checked claim by claim.
 | [S3](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf) | Work Programme 2026–2027 (Part 9 · Food, Bioeconomy) | Work Programme PDF — search the call ID inside the document |
 | [S4](https://k-erc.eu) | 한-EU 연구협력센터 (KERC) | — |
 
+## 2026-08-18 — topic-level action types and funding rates
+
+Every topic was checked against the portal topic-details data for its identifier, official title, action type, and budget. The Korean translation is recorded alongside the official portal title below for direct review. The applicable maximum funding rate was checked against General Annex G; topic-specific COFUND rates were checked against each topic's official conditions.
+
+| Claim on the page | Source | Result |
+| :--- | :--- | :--- |
+| 3 topic IDs, official titles, action types, funding rates, and budgets | [Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home) / [General Annex G](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf) | Match — RIA 2, IA 1; total €35.0M |
+
+### Topic title translations
+
+| Topic ID | Official portal title | Korean translation |
+| :--- | :--- | :--- |
+| CLIMATE-01 | Open topic: Innovative solutions for the European Water Resilience Strategy | 유럽 물 회복력 전략을 위한 혁신 솔루션 오픈 토픽 |
+| FARM2FORK-01 | Strengthening plant health: addressing emerging plant pest risks | 식물건강 강화: 신규 식물병해충 위험 대응 |
+| FARM2FORK-02 | Optimising the water-nutrient-energy nexus for sustainable and climate smart agriculture in Africa (FNSSA) | 아프리카 지속가능·기후스마트 농업을 위한 물-영양분-에너지 연계 최적화 |
+
 ## 2026-08-18 — topic-level eligibility check
 
 Every topic of the call was checked against the portal topic-details data (`docs/skills/crosscheck-horizon/check_eligibility.py`) for (a) country restrictions, (b) the General Annexes Part 15 "restrictions on control in Innovation Actions in critical technology areas" (China-controlled entities), and (c) topic-specific additional eligibility criteria. The generic "일부 토픽 제한" bullet in 지원자격 was replaced by the specific, conclusion-first result.

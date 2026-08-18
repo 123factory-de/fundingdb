@@ -18,6 +18,22 @@ that support them, so the page can be re-checked claim by claim.
 | [S3](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf) | Work Programme 2026–2027 (Part 7 · Digital, Industry and Space) | Work Programme PDF — search the call ID inside the document |
 | [S4](https://k-erc.eu) | 한-EU 연구협력센터 (KERC) | — |
 
+## 2026-08-18 — topic-level action types and funding rates
+
+Every topic was checked against the portal topic-details data for its identifier, official title, action type, and budget. The Korean translation is recorded alongside the official portal title below for direct review. The applicable maximum funding rate was checked against General Annex G; topic-specific COFUND rates were checked against each topic's official conditions.
+
+| Claim on the page | Source | Result |
+| :--- | :--- | :--- |
+| 3 topic IDs, official titles, action types, funding rates, and budgets | [Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home) / [General Annex G](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf) | Match — RIA 2, IA 1; total €98.0M |
+
+### Topic title translations
+
+| Topic ID | Official portal title | Korean translation |
+| :--- | :--- | :--- |
+| DIGITAL-EMERGING-51 | AI improved advanced manufacturing and production processes in factories (RIA) (Made in Europe and AI, Data and Robotics partnerships) | AI로 개선하는 공장 첨단 제조·생산공정 |
+| DIGITAL-EMERGING-53 | Innovative AI methods and technologies for the process industries (RIA) (Processes4Planet and AI, Data and Robotics partnerships) | 공정산업을 위한 혁신 AI 방법과 기술 |
+| MAT-PROD-21 | Development of safe and sustainable alternatives to substances of concern (IA) | 우려물질을 대체하는 안전하고 지속가능한 대안 개발 |
+
 ## 2026-08-18 — topic-level eligibility check
 
 Every topic of the call was checked against the portal topic-details data (`docs/skills/crosscheck-horizon/check_eligibility.py`) for (a) country restrictions, (b) the General Annexes Part 15 "restrictions on control in Innovation Actions in critical technology areas" (China-controlled entities), and (c) topic-specific additional eligibility criteria. The generic "일부 토픽 제한" bullet in 지원자격 was replaced by the specific, conclusion-first result.

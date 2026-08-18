@@ -18,6 +18,26 @@ that support them, so the page can be re-checked claim by claim.
 | [S3](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf) | Work Programme 2026–2027 (Part 9 · Food, Bioeconomy) | Work Programme PDF — search the call ID inside the document |
 | [S4](https://k-erc.eu) | 한-EU 연구협력센터 (KERC) | — |
 
+## 2026-08-18 — topic-level action types and funding rates
+
+Every topic was checked against the portal topic-details data for its identifier, official title, action type, and budget. The Korean translation is recorded alongside the official portal title below for direct review. The applicable maximum funding rate was checked against General Annex G; topic-specific COFUND rates were checked against each topic's official conditions.
+
+| Claim on the page | Source | Result |
+| :--- | :--- | :--- |
+| 7 topic IDs, official titles, action types, funding rates, and budgets | [Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home) / [General Annex G](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf) | Match — RIA 2, IA 1, CSA 4; total €49.05M |
+
+### Topic title translations
+
+| Topic ID | Official portal title | Korean translation |
+| :--- | :--- | :--- |
+| GOVERNANCE-01 | Strengthening the resilience of European farmers through improved capacity in coping with risks and crises | 위험·위기 대응역량 개선을 통한 유럽 농업인 회복력 강화 |
+| GOVERNANCE-02 | Improving analytical capacity for sustainable competitiveness of the agricultural sector | 농업 부문의 지속가능한 경쟁력 분석역량 개선 |
+| GOVERNANCE-03 | International dimension of the circular bio-based economy: seeking win-win opportunities | 순환형 바이오 기반 경제의 국제적 차원: 상생 기회 발굴 |
+| GOVERNANCE-04 | AI supporting informed advice for farmers and foresters to improve competitiveness and sustainability | 농업인·산림업자의 경쟁력·지속가능성 향상을 위한 AI 기반 정보형 자문 |
+| GOVERNANCE-05 | Increasing knowledge flows to practice within AKIS via EU thematic knowledge hubs | EU 주제별 지식허브를 통한 AKIS의 현장 지식흐름 확대 |
+| GOVERNANCE-06 | Fostering generational renewal in agriculture via EU advisory network | EU 자문 네트워크를 통한 농업 세대교체 촉진 |
+| GOVERNANCE-07 | Strengthening strategic advice and synergies between EU and national Research and Innovation agendas and investments | EU·국가 R&I 의제·투자 간 전략자문과 시너지 강화 |
+
 ## 2026-08-18 — topic-level eligibility check
 
 Every topic of the call was checked against the portal topic-details data (`docs/skills/crosscheck-horizon/check_eligibility.py`) for (a) country restrictions, (b) the General Annexes Part 15 "restrictions on control in Innovation Actions in critical technology areas" (China-controlled entities), and (c) topic-specific additional eligibility criteria. The generic "일부 토픽 제한" bullet in 지원자격 was replaced by the specific, conclusion-first result.

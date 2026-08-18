@@ -32,13 +32,23 @@ Horizon Europe Pillar 2 **Cluster 6(식품·바이오경제·환경)**\ 의 2027
 
 같은 날 [HORIZON-CL6-2027-03](/programs/horizon-cl6-2027-03/)(단일단계)과 [HORIZON-CL6-2027-01-two-stage](/programs/horizon-cl6-2027-04/)(순환 바이오경제)도 개시됩니다. 개시 전에도 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf)에서 토픽을 미리 확인하고 컨소시엄을 준비할 수 있습니다. 개시일은 ±1개월, 마감일은 최대 2개월 조정될 수 있습니다.
 
+## 토픽
+
+| 토픽 ID | 주제 | Action Type | EU 지원율 | 예산(€M) |
+| :--- | :--- | :---: | :--- | ---: |
+| CLIMATE-01 | 유럽 물 회복력 전략을 위한 혁신 솔루션 오픈 토픽 | IA | 영리 70% · 비영리 100% | 11.0 |
+| FARM2FORK-01 | 식물건강 강화: 신규 식물병해충 위험 대응 | RIA | 100% | 12.0 |
+| FARM2FORK-02 | 아프리카 지속가능·기후스마트 농업을 위한 물-영양분-에너지 연계 최적화 | RIA | 100% | 12.0 |
+
+RIA는 연구혁신과제, IA는 혁신과제입니다. 이 콜은 **RIA 2개·IA 1개**로 구성되며, 표의 지원율은 적격비용에 적용되는 최대 EU 지원율입니다.
+
 ## 지원자격 · 지원율 (Pillar 2 공통)
 
 - 한국 소재 기업(중소기업 포함)·대학·연구기관은 Pillar 2 준회원국 자격으로 원칙적으로 참여 및 **주관기관(코디네이터)** 역할 가능
 - **참여국 제한 없음** — 이 콜의 3개 토픽 모두 일반 자격조건(General Annex B)만 적용되어 한국 기관이 전 토픽에 참여할 수 있습니다
 - 추가 자격요건: **CLIMATE-01 · FARM2FORK-01 · FARM2FORK-02**는 multi-actor approach 적용이 필수이며, **FARM2FORK-02**는 아프리카연합 회원국 기관 참여도 요구합니다 (2026-08-18 Funding & Tenders 포털 토픽별 조건 확인)
 - 컨소시엄 최소 요건: 서로 독립적인 **3개 이상 법인**, 그중 EU 회원국 소재 1개 이상 + 서로 다른 회원국·준회원국 소재 2개 이상
-- 지원율: RIA(연구혁신과제) 직접비 **100%** · IA(혁신과제) 영리기업 **70%** · 간접비 직접비의 **25% 정률** 추가
+- 토픽별 Action Type과 지원율은 위 표에 표시했습니다. 간접비는 예산 산정 시 대상 직접비의 **25% 정률**로 계산합니다
 
 ## 신청방법 · 한국측 지원
 

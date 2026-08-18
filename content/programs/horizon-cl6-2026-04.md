@@ -34,6 +34,14 @@ Horizon Europe Pillar 2 **Cluster 6(식품·바이오경제·환경)**\ 의 데�
 
 **⚠ 신규 신청 불가**: 유일한 토픽 GOVERNANCE-01은 자격조건상 선행과제 HORIZON-CL6-2024-GOVERNANCE-02-01(European Partnership of Agriculture of Data) 컨소시엄의 **코디네이터만 신청**할 수 있습니다(추가 파트너 합류는 가능). 참고용으로만 싣습니다 (2026-08-18 Funding & Tenders 포털 토픽 조건 확인).
 
+## 토픽
+
+| 토픽 ID | 주제 | Action Type | EU 지원율 | 예산(€M) |
+| :--- | :--- | :---: | :--- | ---: |
+| GOVERNANCE-01 | 농업 데이터 유럽 파트너십 추가 활동 | COFUND | 30% | 60.0 |
+
+COFUND는 공동펀딩입니다. 이 콜은 **COFUND 1개**로 구성되며, 표의 지원율은 적격비용에 적용되는 최대 EU 지원율입니다.
+
 ## 신청방법 · 한국측 지원
 
 1. [Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home)에서 공고 조건 확인 → 컨소시엄 구성 → 포털에서 제안서 제출

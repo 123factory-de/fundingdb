@@ -18,6 +18,29 @@ that support them, so the page can be re-checked claim by claim.
 | [S3](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-4-health_horizon-2026-2027_en.pdf) | Work Programme 2026–2027 (Part 4 · Health) | Work Programme PDF — search the call ID inside the document |
 | [S4](https://k-erc.eu) | 한-EU 연구협력센터 (KERC) | — |
 
+## 2026-08-18 — topic-level action types and funding rates
+
+Every topic was checked against the portal topic-details data for its identifier, official title, action type, and budget. The Korean translation is recorded alongside the official portal title below for direct review. The applicable maximum funding rate was checked against General Annex G; topic-specific COFUND rates were checked against each topic's official conditions.
+
+| Claim on the page | Source | Result |
+| :--- | :--- | :--- |
+| 10 topic IDs, official titles, action types, funding rates, and budgets | [Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home) / [General Annex G](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf) | Match — RIA 9, PCP 1; total €341.6M |
+
+### Topic title translations
+
+| Topic ID | Official portal title | Korean translation |
+| :--- | :--- | :--- |
+| CARE-02 | Personalised approaches to reduce risks from Adverse Drug Reactions due to administration of multiple medications | 다중약물 투여에 따른 약물이상반응 위험을 줄이는 맞춤형 접근법 |
+| DISEASE-05 | Development of novel small molecule antiviral therapeutics for pathogens with epidemic potential | 유행 가능성이 있는 병원체용 신규 저분자 항바이러스 치료제 개발 |
+| DISEASE-06 | Development of monoclonal antibodies to prevent and treat infections from Flaviviruses | 플라비바이러스 감염 예방·치료용 단일클론항체 개발 |
+| DISEASE-07 | Development of monoclonal antibodies to prevent and treat infections from Filo-, Nairo-, Phenui-, Picorna- and Toga viruses | 필로·나이로·페누이·피코르나·토가바이러스 감염 예방·치료용 단일클론항체 개발 |
+| DISEASE-08 | Development of innovative antimicrobials against pathogens resistant to antimicrobials | 항균제 내성 병원체 대상 혁신 항균제 개발 |
+| DISEASE-10 | Prevention and management of chronic non-communicable diseases in children and young people (GACD) | 아동·청년 만성 비감염성질환 예방·관리 |
+| ENVHLTH-02 | Integrating climate-related exposures into the human exposome and characterising its changes in response to climate change | 기후 관련 노출을 인간 엑스포좀에 통합하고 기후변화에 따른 변화 특성 규명 |
+| ENVHLTH-MISSCLIMA-03 | Tools and technologies to support health adaptation to climate change | 기후변화 건강 적응 지원 도구·기술 |
+| IND-01 | Development of cell-free protein synthesis platforms for discovery and/or production of biologicals | 바이오의약품 발굴·생산용 무세포 단백질 합성 플랫폼 개발 |
+| STAYHLTH-01 | Addressing disabilities through the life course to support independent living and inclusion | 자립생활과 포용을 지원하는 생애주기 장애 대응 |
+
 ## 2026-08-18 — topic-level eligibility check
 
 Every topic of the call was checked against the portal topic-details data (`docs/skills/crosscheck-horizon/check_eligibility.py`) for (a) country restrictions, (b) the General Annexes Part 15 "restrictions on control in Innovation Actions in critical technology areas" (China-controlled entities), and (c) topic-specific additional eligibility criteria. The generic "일부 토픽 제한" bullet in 지원자격 was replaced by the specific, conclusion-first result.

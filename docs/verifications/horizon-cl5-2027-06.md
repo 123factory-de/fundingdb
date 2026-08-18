@@ -18,6 +18,24 @@ that support them, so the page can be re-checked claim by claim.
 | [S3](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf) | Work Programme 2026–2027 (Part 8 · Climate, Energy and Mobility) | Work Programme PDF — search the call ID inside the document |
 | [S4](https://k-erc.eu) | 한-EU 연구협력센터 (KERC) | — |
 
+## 2026-08-18 — topic-level action types and funding rates
+
+Every topic was checked against the portal topic-details data for its identifier, official title, action type, and budget. The Korean translation is recorded alongside the official portal title below for direct review. The applicable maximum funding rate was checked against General Annex G; topic-specific COFUND rates were checked against each topic's official conditions.
+
+| Claim on the page | Source | Result |
+| :--- | :--- | :--- |
+| 5 topic IDs, official titles, action types, funding rates, and budgets | [Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home) / [General Annex G](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf) | Match — RIA 1, IA 2, CSA 2; total €37.1M |
+
+### Topic title translations
+
+| Topic ID | Official portal title | Korean translation |
+| :--- | :--- | :--- |
+| D6-04 | Holistic solutions for CCAM integration in critical scenarios (CCAM Partnership) | 핵심 시나리오에서 CCAM 통합을 위한 종합 솔루션 |
+| D6-05 | European CCAM knowledge hub and tools for safe and scalable deployment (CCAM Partnership) | 안전하고 확장 가능한 도입을 위한 유럽 CCAM 지식허브·도구 |
+| D6-08 | Enhancing Mobility for All: affordable, reliable, and accessible multimodal transport for inclusive rural and urban connectivity – Societal Readiness pilot | 모두를 위한 모빌리티: 포용적 농촌·도시 연결을 위한 경제적·신뢰성 높은 접근 가능한 복합운송 |
+| D6-11 | Enhancing Resilience and Accuracy in Positioning, Navigation, and Timing (PNT) Systems and e-conspicuity solutions | 측위·항법·시각(PNT) 시스템과 전자 시인성 솔루션의 회복력·정확도 강화 |
+| D6-12 | Support for dissemination events in the field of Transport Research | 교통연구 성과확산 행사 지원 |
+
 ## 2026-08-18 — topic-level eligibility check
 
 Every topic of the call was checked against the portal topic-details data (`docs/skills/crosscheck-horizon/check_eligibility.py`) for (a) country restrictions, (b) the General Annexes Part 15 "restrictions on control in Innovation Actions in critical technology areas" (China-controlled entities), and (c) topic-specific additional eligibility criteria. The generic "일부 토픽 제한" bullet in 지원자격 was replaced by the specific, conclusion-first result.

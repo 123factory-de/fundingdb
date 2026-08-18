@@ -18,6 +18,27 @@ that support them, so the page can be re-checked claim by claim.
 | [S3](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf) | Work Programme 2026–2027 (Part 8 · Climate, Energy and Mobility) | Work Programme PDF — search the call ID inside the document |
 | [S4](https://k-erc.eu) | 한-EU 연구협력센터 (KERC) | — |
 
+## 2026-08-18 — topic-level action types and funding rates
+
+Every topic was checked against the portal topic-details data for its identifier, official title, action type, and budget. The Korean translation is recorded alongside the official portal title below for direct review. The applicable maximum funding rate was checked against General Annex G; topic-specific COFUND rates were checked against each topic's official conditions.
+
+| Claim on the page | Source | Result |
+| :--- | :--- | :--- |
+| 8 topic IDs, official titles, action types, funding rates, and budgets | [Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home) / [General Annex G](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf) | Match — RIA 3, IA 5; total €223.2M |
+
+### Topic title translations
+
+| Topic ID | Official portal title | Korean translation |
+| :--- | :--- | :--- |
+| D2-01 | Producing battery-grade materials for electrodes through sustainable processing and refining of raw materials or developing bio-based materials (BATT4EU Partnership) | 지속가능한 원자재 가공·정제를 통한 전극용 배터리급 소재 생산 또는 바이오 기반 소재 개발 |
+| D2-04 | Coordinated topic with India on recycling of EV batteries | 인도와 공동 추진하는 전기차 배터리 재활용 |
+| D3-03 | Innovative technologies and solutions to improve wind energy systems supporting the Strategic Energy Technology (SET) Plan on wind | 풍력 SET Plan을 지원하는 풍력에너지 시스템 개선 혁신 기술·솔루션 |
+| D4-01 | Researching the technical, social & economic factors impacting the energy performance of Smart Buildings (Built4People Partnership) | 스마트 건물 에너지 성능에 영향을 미치는 기술·사회·경제 요인 연구 |
+| D4-02 | Low disturbance prefabrication approaches for deep renovation of multi-storey buildings (Built4People Partnership) | 다층 건물 심층 리노베이션을 위한 저간섭 프리패브 공법 |
+| D4-03 | Advanced data platforms to integrate whole life carbon in building information tools, assessments, and certification (Built4People Partnership) | 건물 정보도구·평가·인증에 전 생애 탄소를 통합하는 첨단 데이터 플랫폼 |
+| D4-04 | Validating policies and business models for affordable and sustainable housing (Built4People Partnership) | 경제적·지속가능한 주택을 위한 정책과 비즈니스 모델 검증 |
+| D4-08 | Full-scale demonstration of heat upgrade solutions in industrial processes | 산업공정 열 고도화 솔루션의 전면 실증 |
+
 ## 2026-08-18 — topic-level eligibility check
 
 Every topic of the call was checked against the portal topic-details data (`docs/skills/crosscheck-horizon/check_eligibility.py`) for (a) country restrictions, (b) the General Annexes Part 15 "restrictions on control in Innovation Actions in critical technology areas" (China-controlled entities), and (c) topic-specific additional eligibility criteria. The generic "일부 토픽 제한" bullet in 지원자격 was replaced by the specific, conclusion-first result.

@@ -18,6 +18,26 @@ that support them, so the page can be re-checked claim by claim.
 | [S3](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf) | Work Programme 2026–2027 (Part 8 · Climate, Energy and Mobility) | Work Programme PDF — search the call ID inside the document |
 | [S4](https://k-erc.eu) | 한-EU 연구협력센터 (KERC) | — |
 
+## 2026-08-18 — topic-level action types and funding rates
+
+Every topic was checked against the portal topic-details data for its identifier, official title, action type, and budget. The Korean translation is recorded alongside the official portal title below for direct review. The applicable maximum funding rate was checked against General Annex G; topic-specific COFUND rates were checked against each topic's official conditions.
+
+| Claim on the page | Source | Result |
+| :--- | :--- | :--- |
+| 7 topic IDs, official titles, action types, funding rates, and budgets | [Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home) / [General Annex G](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf) | Match — RIA 6, COFUND 1; total €123.0M |
+
+### Topic title translations
+
+| Topic ID | Official portal title | Korean translation |
+| :--- | :--- | :--- |
+| D1-07 | Advancing understanding, modelling and prediction of extreme events in a changing climate | 변화하는 기후에서 극한현상의 이해·모델링·예측 고도화 |
+| D1-08 | Palaeoclimate science for a better understanding of Earth system dynamics | 지구시스템 역학 이해 향상을 위한 고기후 과학 |
+| D1-09 | Assessing the performance of policy instruments to inform climate change mitigation action | 기후변화 완화 조치를 위한 정책수단 성과평가 |
+| D1-10 | Understanding and avoiding maladaptation to climate change | 기후변화 부적응의 이해와 방지 |
+| D1-11 | Africa-EU CO-FUND action on climate | 기후 분야 아프리카-EU 공동펀딩 사업 |
+| D1-12 | Better understanding and attribution of land and ocean carbon sources and sinks | 육상·해양 탄소 배출원과 흡수원의 이해·기여도 분석 개선 |
+| D1-13 | Next generation scenarios for informing climate and sustainability transitions | 기후·지속가능성 전환을 위한 차세대 시나리오 |
+
 ## 2026-08-18 — topic-level eligibility check
 
 Every topic of the call was checked against the portal topic-details data (`docs/skills/crosscheck-horizon/check_eligibility.py`) for (a) country restrictions, (b) the General Annexes Part 15 "restrictions on control in Innovation Actions in critical technology areas" (China-controlled entities), and (c) topic-specific additional eligibility criteria. The generic "일부 토픽 제한" bullet in 지원자격 was replaced by the specific, conclusion-first result.

@@ -18,6 +18,24 @@ that support them, so the page can be re-checked claim by claim.
 | [S3](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf) | Work Programme 2026–2027 (Part 8 · Climate, Energy and Mobility) | Work Programme PDF — search the call ID inside the document |
 | [S4](https://k-erc.eu) | 한-EU 연구협력센터 (KERC) | — |
 
+## 2026-08-18 — topic-level action types and funding rates
+
+Every topic was checked against the portal topic-details data for its identifier, official title, action type, and budget. The Korean translation is recorded alongside the official portal title below for direct review. The applicable maximum funding rate was checked against General Annex G; topic-specific COFUND rates were checked against each topic's official conditions.
+
+| Claim on the page | Source | Result |
+| :--- | :--- | :--- |
+| 5 topic IDs, official titles, action types, funding rates, and budgets | [Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home) / [General Annex G](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf) | Match — IA 5; total €95.3M |
+
+### Topic title translations
+
+| Topic ID | Official portal title | Korean translation |
+| :--- | :--- | :--- |
+| D2-08 | Demonstration for Long-duration Battery Energy Storage Systems (BATT4EU Partnership) | 장주기 배터리 에너지저장시스템 실증 |
+| D4-05 | On-site robotic and automated techniques for building renovation and new construction | 건물 리노베이션·신축을 위한 현장 로봇·자동화 기술 |
+| D4-06 | Thermal energy optimisation and waste heat recovery of high energy demand IT rooms in buildings or small edge data centres | 건물 내 고에너지 수요 IT실·소형 엣지 데이터센터의 열에너지 최적화와 폐열회수 |
+| D4-07 | Integrating circularity in LCA-based modelling frameworks for renovation of buildings (Built4People Partnership) | 건물 리노베이션용 LCA 기반 모델링 체계에 순환성 통합 |
+| D4-09 | Demonstration of industrial excess/waste heat conversion to mechanical or electrical power | 산업 잉여·폐열의 기계·전력 에너지 전환 실증 |
+
 ## 2026-08-18 — topic-level eligibility check
 
 Every topic of the call was checked against the portal topic-details data (`docs/skills/crosscheck-horizon/check_eligibility.py`) for (a) country restrictions, (b) the General Annexes Part 15 "restrictions on control in Innovation Actions in critical technology areas" (China-controlled entities), and (c) topic-specific additional eligibility criteria. The generic "일부 토픽 제한" bullet in 지원자격 was replaced by the specific, conclusion-first result.

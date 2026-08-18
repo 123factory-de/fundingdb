@@ -20,6 +20,27 @@ that support them, so the page can be re-checked claim by claim.
 | [S5](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/list-3rd-country-participation_horizon-euratom_en.pdf) | EU Grants: List of participating countries (HE) | Official eligibility list; Korea listed as associated to Pillar II |
 | [S6](https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/europe-world/international-cooperation/association-horizon-europe/korea_en) | EU 집행위 — Korea association to Horizon Europe | Background on Korea's Pillar II association (transitional arrangement from 2025-01-01; agreement signed 2025-07-17) |
 
+## 2026-08-18 — topic-level action types and funding rates
+
+Every topic was checked against the portal topic-details data for its identifier, official title, action type, and budget. The Korean translation is recorded alongside the official portal title below for direct review. The applicable maximum funding rate was checked against General Annex G; topic-specific COFUND rates were checked against each topic's official conditions.
+
+| Claim on the page | Source | Result |
+| :--- | :--- | :--- |
+| 8 topic IDs, official titles, action types, funding rates, and budgets | [Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home) / [General Annex G](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf) | Match — RIA 5, IA 3; total €90.97M |
+
+### Topic title translations
+
+| Topic ID | Official portal title | Korean translation |
+| :--- | :--- | :--- |
+| 11 | Reinforcing EU autonomous access to space through EU-based spaceports | EU 소재 우주발사장을 통한 EU의 자율적 우주 접근 강화 |
+| 31 | Digital enablers and building-blocks for Earth Observation and Satellite telecommunication for Space solutions (Space Partnership) | 우주 솔루션용 지구관측·위성통신 디지털 기반기술과 구성요소 |
+| 32 | Preparing demonstration missions for Earth Observation and Satellite telecommunication for Space solutions (Space Partnership) | 우주 솔루션용 지구관측·위성통신 실증 임무 준비 |
+| 61 | Scientific analysis and exploitation of space data | 우주 데이터의 과학적 분석과 활용 |
+| 81 | Space critical EEE components for EU non-dependence – Radiation Hard FPGA on 7nm | EU 비의존 우주 핵심 EEE 부품: 7nm 내방사선 FPGA |
+| 82 | Space critical EEE components for EU non-dependence – GaN MMICs mm-Wave Foundations (Phase A): Development and Industrialization of Semi-insulating SiC Substrate Capabilities | EU 비의존 우주 핵심 EEE 부품: GaN MMIC 밀리미터파 기반기술(Phase A)·반절연 SiC 기판 역량 개발·산업화 |
+| 85 | Critical Facilities Serving Space EEE components for EU non-dependence – High and Very High Energy Irradiation Test Facility Market Deployment | EU 비의존 우주 EEE 부품 핵심시설: 고·초고에너지 조사시험 시설 시장 도입 |
+| 86 | Space critical Equipment for EU non-dependence – Space Refuelling Interface | EU 비의존 우주 핵심장비: 우주 급유 인터페이스 |
+
 ## 2026-08-18 — topic-level eligibility check
 
 Prompted by a reviewer question (chat, 2026-08-18) on where "EU 예산 직접 지원" comes from, the topic-level "Eligibility conditions" in [S3](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf) were read for every topic in this call.
