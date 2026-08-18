@@ -46,6 +46,8 @@ Horizon Europe Pillar 2 **Cluster 5(기후·에너지·모빌리티)**\ 의 2026
 | D4-04 | 경제적·지속가능한 주택을 위한 정책과 비즈니스 모델 검증 | RIA | 100% | 15.0 |
 | D4-08 | 산업공정 열 고도화 솔루션의 전면 실증 | IA | 영리 70% · 비영리 100% | 18.0 |
 
+토픽의 공식 조건은 [Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=HORIZON-CL5-2026-09&isExactMatch=true), 상세 내용은 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf)에서 확인할 수 있습니다.
+
 RIA는 연구혁신과제, IA는 혁신과제입니다. 이 콜은 **RIA 3개·IA 5개**로 구성되며, 표의 지원율은 적격비용에 적용되는 최대 EU 지원율입니다.
 
 ## 지원자격 · 지원율 (Pillar 2 공통)

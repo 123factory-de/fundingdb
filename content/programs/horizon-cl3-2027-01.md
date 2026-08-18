@@ -54,6 +54,8 @@ Horizon Europe Pillar 2 **Cluster 3(시민안전)**\ 의 2027년 공고(단일�
 | SSRI-02 | 미래 혁신 보안기술 상용화 전 조달을 위한 개방형 기반 | CSA | 100% | 2.0 |
 | SSRI-03 | 수요 주도 보안 혁신 | PCP | 100% | 5.83 |
 
+토픽의 공식 조건은 [Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=HORIZON-CL3-2027-01&isExactMatch=true), 상세 내용은 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-6-civil-security-for-society_horizon-2026-2027_en.pdf)에서 확인할 수 있습니다.
+
 RIA는 연구혁신과제, IA는 혁신과제, CSA는 조정·지원과제, PCP는 상용화 전 조달입니다. 이 콜은 **RIA 5개·IA 10개·CSA 1개·PCP 1개**로 구성되며, 표의 지원율은 적격비용에 적용되는 최대 EU 지원율입니다.
 
 ## 지원자격 · 지원율 (Pillar 2 공통)

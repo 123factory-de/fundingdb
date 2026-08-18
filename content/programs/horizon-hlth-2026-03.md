@@ -38,6 +38,8 @@ Horizon Europe Pillar 2 **Cluster 1(보건)**\ 의 팬데믹 대비 유럽 파�
 | :--- | :--- | :---: | :--- | ---: |
 | DISEASE-13 | 팬데믹 대비 유럽 파트너십 2단계 | COFUND | 50% | 63.0 |
 
+토픽의 공식 조건은 [Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=HORIZON-HLTH-2026-03&isExactMatch=true), 상세 내용은 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-4-health_horizon-2026-2027_en.pdf)에서 확인할 수 있습니다.
+
 COFUND는 공동펀딩입니다. 이 콜은 **COFUND 1개**로 구성되며, 표의 지원율은 적격비용에 적용되는 최대 EU 지원율입니다.
 
 ## 신청방법 · 한국측 지원

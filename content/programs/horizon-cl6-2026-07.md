@@ -37,6 +37,8 @@ Horizon Europe Pillar 2 **Cluster 6(식품·바이오경제·환경)**\ 의 2026
 | :--- | :--- | :---: | :--- | ---: |
 | GOVERNANCE-01 | 환경관측과 첨단 AI를 활용한 지속가능한 경쟁력·정책결정용 지구 인텔리전스 솔루션 개발 오픈 토픽 | RIA | 100% | 12.0 |
 
+토픽의 공식 조건은 [Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=HORIZON-CL6-2026-03-two-stage&isExactMatch=true), 상세 내용은 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf)에서 확인할 수 있습니다.
+
 RIA는 연구혁신과제입니다. 이 콜은 **RIA 1개**로 구성되며, 표의 지원율은 적격비용에 적용되는 최대 EU 지원율입니다.
 
 ## 지원자격 · 지원율 (Pillar 2 공통)

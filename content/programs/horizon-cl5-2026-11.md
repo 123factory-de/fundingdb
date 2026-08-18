@@ -43,6 +43,8 @@ Horizon Europe Pillar 2 **Cluster 5(기후·에너지·모빌리티)**\ 의 2026
 | D3-14 | 혁신 태양광 응용을 위한 시스템 설계 개선 | IA | 영리 70% · 비영리 100% | 30.0 |
 | D3-23 | 에너지 분야 AI 파운데이션 모델 학습·개발을 지원하는 데이터 공유 | IA | 영리 70% · 비영리 100% | 30.0 |
 
+토픽의 공식 조건은 [Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=HORIZON-CL5-2026-11&isExactMatch=true), 상세 내용은 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf)에서 확인할 수 있습니다.
+
 RIA는 연구혁신과제, IA는 혁신과제, PCP는 상용화 전 조달입니다. 이 콜은 **RIA 1개·IA 3개·PCP 1개**로 구성되며, 표의 지원율은 적격비용에 적용되는 최대 EU 지원율입니다.
 
 ## 지원자격 · 지원율 (Pillar 2 공통)

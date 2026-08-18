@@ -34,19 +34,6 @@ Horizon Europe Pillar 2 **Cluster 4(디지털·산업·우주)**\ 의 2026년 �
 
 ## 토픽
 
-| 토픽 | 주제 | 예산(€M) |
-| :--- | :--- | :--- |
-| 32 | 지구관측·위성통신 실증 미션 | 26.0 | 
-| 11 | EU 내 발사장 기반 자율적 우주 접근 | 22.6 |
-| 81 | 7nm 내방사선 FPGA | 12.7 |
-| 31 | 지구관측·위성통신용 디지털 기술 | 12.0 |
-| 82 | GaN MMIC 밀리미터파 (Phase A) | 6.9 |
-| 61 / 85 / 86 | 우주 데이터 분석 · 고에너지 조사시험 시설 · 우주 급유 인터페이스 | 3.9 / 3.9 / 2.9 |
-
-토픽별 상세 조건은 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf)와 포털에서 확인하세요. 마감일은 EU 집행위 사정에 따라 최대 2개월 조정될 수 있습니다.
-
-## 토픽
-
 | 토픽 ID | 주제 | Action Type | EU 지원율 | 예산(€M) |
 | :--- | :--- | :---: | :--- | ---: |
 | 11 | EU 소재 우주발사장을 통한 EU의 자율적 우주 접근 강화 | IA | 영리 70% · 비영리 100% | 22.59 |
@@ -57,6 +44,8 @@ Horizon Europe Pillar 2 **Cluster 4(디지털·산업·우주)**\ 의 2026년 �
 | 82 | EU 비의존 우주 핵심 EEE 부품: GaN MMIC 밀리미터파 기반기술(Phase A)·반절연 SiC 기판 역량 개발·산업화 | RIA | 100% | 6.86 |
 | 85 | EU 비의존 우주 EEE 부품 핵심시설: 고·초고에너지 조사시험 시설 시장 도입 | IA | 영리 70% · 비영리 100% | 3.92 |
 | 86 | EU 비의존 우주 핵심장비: 우주 급유 인터페이스 | RIA | 100% | 2.94 |
+
+토픽의 공식 조건은 [Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=HORIZON-CL4-2026-03&isExactMatch=true), 상세 내용은 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf)에서 확인할 수 있습니다.
 
 RIA는 연구혁신과제, IA는 혁신과제입니다. 이 콜은 **RIA 5개·IA 3개**로 구성되며, 표의 지원율은 적격비용에 적용되는 최대 EU 지원율입니다.
 

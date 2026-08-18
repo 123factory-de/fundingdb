@@ -39,6 +39,8 @@ Horizon Europe Pillar 2 **Cluster 4(디지털·산업·우주)**\ 의 2026년 �
 | DIGITAL-EMERGING-53 | 공정산업을 위한 혁신 AI 방법과 기술 | RIA | 100% | 30.0 |
 | MAT-PROD-21 | 우려물질을 대체하는 안전하고 지속가능한 대안 개발 | IA | 영리 70% · 비영리 100% | 38.0 |
 
+토픽의 공식 조건은 [Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=HORIZON-CL4-2026-02-two-stage&isExactMatch=true), 상세 내용은 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf)에서 확인할 수 있습니다.
+
 RIA는 연구혁신과제, IA는 혁신과제입니다. 이 콜은 **RIA 2개·IA 1개**로 구성되며, 표의 지원율은 적격비용에 적용되는 최대 EU 지원율입니다.
 
 ## 지원자격 · 지원율 (Pillar 2 공통)

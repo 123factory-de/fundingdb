@@ -42,6 +42,8 @@ Horizon Europe Pillar 2 **Cluster 5(기후·에너지·모빌리티)**\ 의 2027
 | D4-07 | 건물 리노베이션용 LCA 기반 모델링 체계에 순환성 통합 | IA | 영리 70% · 비영리 100% | 27.0 |
 | D4-09 | 산업 잉여·폐열의 기계·전력 에너지 전환 실증 | IA | 영리 70% · 비영리 100% | 13.5 |
 
+토픽의 공식 조건은 [Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=HORIZON-CL5-2027-05&isExactMatch=true), 상세 내용은 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf)에서 확인할 수 있습니다.
+
 IA는 혁신과제입니다. 이 콜은 **IA 5개**로 구성되며, 표의 지원율은 적격비용에 적용되는 최대 EU 지원율입니다.
 
 ## 지원자격 · 지원율 (Pillar 2 공통)

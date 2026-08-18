@@ -39,6 +39,8 @@ Horizon Europe Pillar 2 **Cluster 4(디지털·산업·우주)**\ 의 2027년 2�
 | DIGITAL-EMERGING-52 | 미래 인력을 위한 인간·AI 협업의 새로운 접근법 | RIA | 100% | 30.0 |
 | MAT-PROD-32 | 공정산업의 재생에너지 효율 투입과 에너지 관리 | RIA | 100% | 52.5 |
 
+토픽의 공식 조건은 [Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=HORIZON-CL4-2027-02-two-stage&isExactMatch=true), 상세 내용은 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf)에서 확인할 수 있습니다.
+
 RIA는 연구혁신과제입니다. 이 콜은 **RIA 2개**로 구성되며, 표의 지원율은 적격비용에 적용되는 최대 EU 지원율입니다.
 
 ## 지원자격 · 지원율 (Pillar 2 공통)

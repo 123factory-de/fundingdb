@@ -31,18 +31,6 @@ Horizon Europe Pillar 2 **Cluster 3(시민안전)**\ 의 2026년 공고(단일�
 
 한국 소재 법인(기업·대학·연구소)은 Horizon Europe Pillar 2 준회원국 자격으로 원칙적으로 EU 회원국 기관과 거의 동등한 조건에서 참여하고 EU 예산을 직접 지원받을 수 있습니다. 토픽별 참여국·지배구조 제한과 추가 자격요건은 아래 **지원자격** 항목에 정리했습니다. 차기 공고는 [HORIZON-CL3-2027-01](/programs/horizon-cl3-2027-01/)(2027년 5월 개시)입니다.
 
-## 주요 토픽 (마감 2026. 11. 5.)
-
-| 영역 | 주요 토픽 | 예산(€M) |
-| :--- | :--- | :--- |
-| 국경관리 (BM, 3개) | 첨단 국경 감시·상황인식(12.0), 여행 편의화 기술(8.0) 등 | 계 21.3 |
-| 재난복원력 (DRS, 5개) | 리스크 인식·재난 대비(6.0), 복합·연쇄 재난 대응(8.0), 재난 대응 혁신 장비(8.0), 오픈 토픽: 재난 리스크 솔루션 확산(6.0), 기후안보(4.5) | 계 32.5 |
-| 범죄·테러 대응 (FCT, 6개) | 오픈 토픽: 신기술 악용 범죄 대응(9.0), 밀폐공간 테러 대응(9.7), 실종자 예방·수사(5.0), 합성생물학 악용 대응(3.0) 등 | 계 40.7 |
-| 인프라 보호 (INFRA, 3개) | 핵심 인프라 스트레스 테스트(9.7), 핵심 주체 복원력(9.0), 도시 녹색전환의 보안 과제(4.0) | 계 22.7 |
-| 보안 연구혁신 (SSRI, 4개) | 오픈 토픽: 파괴적 보안 기술(3.0), 수요 주도 보안 혁신(5.8), 보안 혁신 공공조달(2.0) 등 | 계 13.8 |
-
-전체 토픽 상세는 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-6-civil-security-for-society_horizon-2026-2027_en.pdf)와 포털에서 확인하세요. 마감일은 EU 집행위 사정에 따라 최대 2개월 조정될 수 있습니다.
-
 ## 토픽
 
 | 토픽 ID | 주제 | Action Type | EU 지원율 | 예산(€M) |
@@ -68,6 +56,8 @@ Horizon Europe Pillar 2 **Cluster 3(시민안전)**\ 의 2026년 공고(단일�
 | SSRI-02 | 수요 주도 보안 혁신 | PCP | 100% | 5.83 |
 | SSRI-03 | 보안 혁신 공공조달 | PPI | 50% | 2.0 |
 | SSRI-04 | 안전한 유럽 핵심통신시스템을 위한 생태계와 차세대 시민안전 역량 개발 | IA | 영리 70% · 비영리 100% | 3.0 |
+
+토픽의 공식 조건은 [Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=HORIZON-CL3-2026-01&isExactMatch=true), 상세 내용은 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-6-civil-security-for-society_horizon-2026-2027_en.pdf)에서 확인할 수 있습니다.
 
 RIA는 연구혁신과제, IA는 혁신과제, CSA는 조정·지원과제, PCP는 상용화 전 조달, PPI는 혁신솔루션 공공조달입니다. 이 콜은 **RIA 7개·IA 11개·CSA 1개·PCP 1개·PPI 1개**로 구성되며, 표의 지원율은 적격비용에 적용되는 최대 EU 지원율입니다.
 

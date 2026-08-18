@@ -48,6 +48,8 @@ Horizon Europe Pillar 2 **Cluster 4(디지털·산업·우주)**\ 의 2027년 �
 | HUMAN-02 | 활력 있고 경쟁력 있는 가상세계·Web 4.0 생태계 조성 | CSA | 100% | 3.0 |
 | HUMAN-07 | 유럽 이해관계자의 국제 디지털 표준화 참여 촉진 | CSA | 100% | 7.0 |
 
+토픽의 공식 조건은 [Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=HORIZON-CL4-2027-04&isExactMatch=true), 상세 내용은 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf)에서 확인할 수 있습니다.
+
 RIA는 연구혁신과제, IA는 혁신과제, CSA는 조정·지원과제입니다. 이 콜은 **RIA 4개·IA 4개·CSA 3개**로 구성되며, 표의 지원율은 적격비용에 적용되는 최대 EU 지원율입니다.
 
 ## 지원자격 · 지원율 (Pillar 2 공통)

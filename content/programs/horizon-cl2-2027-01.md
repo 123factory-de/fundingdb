@@ -61,6 +61,8 @@ Horizon Europe Pillar 2 **Cluster 2(문화·창의·포용사회)**\ 의 2027년
 | TRANSFO-07 | 장애인: 생애주기 전반의 노동 포용과 사회보장 기회 | RIA | 100% | 12.0 |
 | TRANSFO-08 | 이주관리 혁신의 규모 확대와 현장 적용 | IA | 영리 70% · 비영리 100% | 15.0 |
 
+토픽의 공식 조건은 [Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=HORIZON-CL2-2027-01&isExactMatch=true), 상세 내용은 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-5-culture-creativity-and-inclusive-society_horizon-2026-2027_en.pdf)에서 확인할 수 있습니다.
+
 RIA는 연구혁신과제, IA는 혁신과제, CSA는 조정·지원과제입니다. 이 콜은 **RIA 20개·IA 1개·CSA 3개**로 구성되며, 표의 지원율은 적격비용에 적용되는 최대 EU 지원율입니다.
 
 ## 지원자격 · 지원율 (Pillar 2 공통)

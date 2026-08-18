@@ -62,6 +62,8 @@ Horizon Europe Pillar 2 **Cluster 2(문화·창의·포용사회)**\ 의 2026년
 | TRANSFO-09 | 인구변화에 대응한 장기요양정책 재설계 | RIA | 100% | 15.0 |
 | TRANSFO-10 | EU 내 SSH·STEM 연구혁신 협력·통합 | CSA | 100% | 3.5 |
 
+토픽의 공식 조건은 [Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=HORIZON-CL2-2026-01&isExactMatch=true), 상세 내용은 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-5-culture-creativity-and-inclusive-society_horizon-2026-2027_en.pdf)에서 확인할 수 있습니다.
+
 RIA는 연구혁신과제, IA는 혁신과제, CSA는 조정·지원과제입니다. 이 콜은 **RIA 20개·IA 3개·CSA 3개**이며 모두 정액지원(lump sum) 방식입니다. 표의 지원율은 적격비용에 적용되는 최대 EU 지원율이고, 간접비는 예산 산정 시 대상 직접비의 25% 정률로 계산합니다. 상세 조건은 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-5-culture-creativity-and-inclusive-society_horizon-2026-2027_en.pdf) 또는 포털에서 확인하세요. 마감일은 EU 집행위 사정에 따라 최대 2개월 조정될 수 있습니다.
 
 ## 지원자격 · 지원율 (Pillar 2 공통)

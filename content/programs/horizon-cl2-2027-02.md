@@ -40,6 +40,8 @@ Horizon Europe Pillar 2 **Cluster 2(문화·창의·포용사회)**\ 의 2027년
 | HERITAGE-09 | 문화유산·예술·문화창의산업의 잠재력 실현을 위한 영향 중심 연구 오픈 토픽 | RIA | 100% | 20.0 |
 | TRANSFO-09 | 치매 환자와 비공식 돌봄제공자의 사회경제적 성과 개선 | RIA | 100% | 16.0 |
 
+토픽의 공식 조건은 [Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=HORIZON-CL2-2027-02-TWO-STAGE&isExactMatch=true), 상세 내용은 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-5-culture-creativity-and-inclusive-society_horizon-2026-2027_en.pdf)에서 확인할 수 있습니다.
+
 RIA는 연구혁신과제입니다. 이 콜은 **RIA 3개**로 구성되며, 표의 지원율은 적격비용에 적용되는 최대 EU 지원율입니다.
 
 ## 지원자격 · 지원율 (Pillar 2 공통)

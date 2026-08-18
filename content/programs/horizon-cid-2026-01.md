@@ -36,6 +36,8 @@ Horizon Europe의 **Clean Industrial Deal 공고**(Work Programme Part 14 · Hor
 | 01 | 청정산업딜 지원 R&I: 에너지 집약 산업 탈탄소화(Processes4Planet·Clean Steel 파트너십) | IA | 영리 70% · 비영리 100% | 125.0 |
 | 02 | 청정산업딜 지원 R&I: 기후행동을 위한 청정기술 | IA | 영리 70% · 비영리 100% | 150.0 |
 
+토픽의 공식 조건과 상세 내용은 [Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=HORIZON-CID-2026-01&isExactMatch=true)에서 확인할 수 있습니다.
+
 IA는 혁신과제입니다. 이 콜은 **IA 2개**로 구성되며, 표의 지원율은 적격비용에 적용되는 최대 EU 지원율입니다.
 
 ## 지원자격 · 지원율 (Pillar 2 공통)

@@ -42,6 +42,8 @@ Horizon Europe Pillar 2 **Cluster 5(기후·에너지·모빌리티)**\ 의 2027
 | D6-11 | 측위·항법·시각(PNT) 시스템과 전자 시인성 솔루션의 회복력·정확도 강화 | IA | 영리 70% · 비영리 100% | 5.0 |
 | D6-12 | 교통연구 성과확산 행사 지원 | CSA | 100% | 1.6 |
 
+토픽의 공식 조건은 [Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=HORIZON-CL5-2027-06&isExactMatch=true), 상세 내용은 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf)에서 확인할 수 있습니다.
+
 RIA는 연구혁신과제, IA는 혁신과제, CSA는 조정·지원과제입니다. 이 콜은 **RIA 1개·IA 2개·CSA 2개**로 구성되며, 표의 지원율은 적격비용에 적용되는 최대 EU 지원율입니다.
 
 ## 지원자격 · 지원율 (Pillar 2 공통)

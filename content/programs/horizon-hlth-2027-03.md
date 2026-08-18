@@ -40,6 +40,8 @@ Horizon Europe Pillar 2 **Cluster 1(보건)**\ 의 2027년 하반기 단일단�
 | TOOL-04 | 예방·진단 통합 임상의사결정 지원용 가상 인간 트윈 | RIA | 100% | 39.3 |
 | TOOL-08 | 의료용 범용인공지능(AGI)을 향하여 | CSA | 100% | 2.9 |
 
+토픽의 공식 조건은 [Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=HORIZON-HLTH-2027-03&isExactMatch=true), 상세 내용은 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-4-health_horizon-2026-2027_en.pdf)에서 확인할 수 있습니다.
+
 RIA는 연구혁신과제, CSA는 조정·지원과제입니다. 이 콜은 **RIA 2개·CSA 1개**로 구성되며, 표의 지원율은 적격비용에 적용되는 최대 EU 지원율입니다.
 
 ## 지원자격 · 지원율 (Pillar 2 공통)

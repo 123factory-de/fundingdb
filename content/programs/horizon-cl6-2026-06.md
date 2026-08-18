@@ -38,6 +38,8 @@ Horizon Europe Pillar 2 **Cluster 6(식품·바이오경제·환경)**\ 의 2026
 | FARM2FORK-01 | 농업 생산요소의 효율적·지속가능한 이용을 통한 농업 경쟁력 개선 오픈 토픽 | IA | 영리 70% · 비영리 100% | 13.5 |
 | FARM2FORK-02 | 경쟁력·지속가능성·회복력을 갖춘 농업을 위한 유기농 확대 오픈 토픽 | IA | 영리 70% · 비영리 100% | 12.0 |
 
+토픽의 공식 조건은 [Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=HORIZON-CL6-2026-02-two-stage&isExactMatch=true), 상세 내용은 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf)에서 확인할 수 있습니다.
+
 IA는 혁신과제입니다. 이 콜은 **IA 2개**로 구성되며, 표의 지원율은 적격비용에 적용되는 최대 EU 지원율입니다.
 
 ## 지원자격 · 지원율 (Pillar 2 공통)
