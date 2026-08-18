@@ -15,9 +15,9 @@ description: "Funding DB가 담는 정보와 확인 방법을 안내합니다."
 
 ## 지원사업 분류
 
-- **EU 공동** — Horizon Europe, Eurostars 등 유럽 다국 컨소시엄 프로그램
-- **독일** — 독일 기관과의 공동 R&D (예: ZIM 연계 한-독 공동기술개발)
-- **양자협력** — 한-스위스, 한-프랑스 등 정부 간 공동펀딩 프로그램
+- **Horizon Europe** — 유럽연합(EU)의 최대 다자간 연구개발(R&D) 프로그램 (한국은 Pillar 2 준회원국 자격으로 참여)
+- **Eureka** — Eurostars, ITEA, CELTIC-NEXT, Xecs, SMART 등 유럽 다국적 연구 공동체 및 클러스터 네트워크 프로그램
+- **양자협력 (Bilateral)** — 한-독(ZIM·2+2), 한-스위스, 한-프랑스, 한-스페인 등 양국 정부 간 1:1 공동 R&D 매칭 프로그램
 
 ## 문의
 
