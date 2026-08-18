@@ -16,18 +16,18 @@ apply_via: "공동제안서 + K-PASS / AiF"
 links:
   - name: "ZIM 공식 페이지"
     url: "https://www.zim.de/ZIM/Redaktion/DE/Artikel/International/suedkorea.html"
-  - name: "KIAT 사업공고"
-    url: "https://www.kiat.or.kr/front/board/boardContentsListPage.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e"
+  - name: "KIAT 2026 통합공고 원문 (K-PASS)"
+    url: "https://www.k-pass.kr/notice/ancView.do?ancId=P2950&gubun=NEW"
   - name: "K-PASS 접수"
     url: "https://www.k-pass.kr/notice/ancList.do"
-verified: "2026-08-12"
+verified: "2026-08-18"
 ---
 
 ## 개요
 
 한국산업기술진흥원(KIAT)과 독일 ZIM 전담기관인 **AiF Projekt GmbH**가 운영하는 양자 공동 R&D 사업입니다. 한국과 독일 기업이 컨소시엄을 구성해 시장지향형 기술개발을 수행하면 양국 정부가 자국 기관을 각각 지원합니다.
 
-**제12차 공고는 2026년 6월 18일 접수 마감**되어 현재 평가 중입니다(결과 통보 2026년 11월경). 차기(13차) 공고는 관행상 연초에 나왔으므로 **2027년 초로 예상**되며, 확정 일정은 KIAT·ZIM 공고를 확인하세요. 로봇·반도체 분야의 독일 2+2형(DLR)은 **2026년도 공고가 2026년 8월 11일 K-PASS에 게시되어 접수 중입니다(마감 2026. 11. 4.)**.
+**제12차 공고는 2026년 6월 18일 접수 마감**되어 현재 평가 중입니다(결과 통보 2026년 11월경). 차기(13차) 공고는 관행상 연초에 나왔으므로 **2027년 초로 예상**되며, 확정 일정은 KIAT·ZIM 공고를 확인하세요. 산학연 협력형인 [한-독 2+2 공동기술개발 2026](/programs/korea-germany-2plus2-2026/)(반도체·AI 보조로봇, BMFTR/DLR)은 별도 사업으로 **2026. 11. 4.까지 접수 중**입니다.
 
 ## 지원자격
 
@@ -52,4 +52,4 @@ verified: "2026-08-12"
 1. 영문 공동제안서와 컨소시엄 협약서 초안을 KIAT·AiF 담당 이메일로 제출
 2. 한국 참여기관은 [K-PASS](https://www.k-pass.kr)에 국문 신청서 업로드
 3. 독일 참여기관은 AiF Projekt GmbH에 ZIM 신청서 제출
-4. 공고 원문: [ZIM 한국 협력 페이지](https://www.zim.de/ZIM/Redaktion/DE/Artikel/International/suedkorea.html) · [KIAT 사업공고](https://www.kiat.or.kr/front/board/boardContentsListPage.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e)
+4. 공고 원문: [ZIM 한국 협력 페이지](https://www.zim.de/ZIM/Redaktion/DE/Artikel/International/suedkorea.html) · [KIAT 2026 산업기술국제협력사업 통합 시행계획 공고 (K-PASS)](https://www.k-pass.kr/notice/ancView.do?ancId=P2950&gubun=NEW)

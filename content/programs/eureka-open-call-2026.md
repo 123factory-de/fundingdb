@@ -1,5 +1,5 @@
 ---
-title: "유레카 오픈콜 2026"
+title: "EUREKA 오픈콜 2026"
 subtitle: "EUREKA Network Projects · 자유주제 국제공동 R&D"
 weight: 21
 tags: ["eureka"]

@@ -32,7 +32,7 @@ a:focus-visible, button:focus-visible {
   border-radius: 4px;
 }
 
-.container { max-width: 1080px; margin: 0 auto; padding: 0 20px; }
+.container { max-width: 1080px; margin: 0 auto; padding: 0 clamp(20px, 4vw, 40px); }
 
 /* ---------- header ---------- */
 .site-header {
@@ -203,7 +203,9 @@ a:focus-visible, button:focus-visible {
 .teaser .go { color: var(--accent); font-weight: 700; white-space: nowrap; }
 
 /* ---------- detail page ---------- */
-.detail { padding: 40px 0 56px; }
+/* padding-top/bottom longhands only: the shorthand would zero out .container's
+   horizontal padding on the same element (<div class="container detail">) */
+.detail { padding-top: 40px; padding-bottom: 56px; }
 .detail-head { max-width: 760px; }
 .detail-head .card-top { margin-bottom: 10px; }
 .detail-head h1 {
@@ -268,7 +270,7 @@ a:focus-visible, button:focus-visible {
 .verified { margin-top: 20px; font-size: 12.5px; color: var(--faint); }
 
 /* ---------- compare table ---------- */
-.compare { padding: 40px 0 56px; }
+.compare { padding-top: 40px; padding-bottom: 56px; }
 .compare h1 { margin: 0 0 4px; font-size: clamp(22px, 4vw, 27px); font-weight: 800; color: var(--ink); letter-spacing: -0.02em; }
 .compare .sub { color: var(--muted); font-size: 14px; margin: 0 0 20px; }
 .table-wrap {

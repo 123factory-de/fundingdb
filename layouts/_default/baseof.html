@@ -18,7 +18,7 @@
       <a href="{{ "compare/" | relURL }}" {{ if eq .Layout "compare" }}class="on"{{ end }}>한눈에 비교</a>
       <a href="{{ "about/" | relURL }}" {{ if eq (path.Base .RelPermalink) "about" }}class="on"{{ end }}>이용 안내</a>
     </nav>
-    <a class="by" href="https://www.123factory.de/">123 FACTORY</a>
+    <a class="by" href="https://www.123factory.de/" target="_blank" rel="noopener">123 FACTORY</a>
   </div>
 </header>
 <main>
@@ -27,7 +27,7 @@
 <footer class="site-footer">
   <div class="container">
     <p>본 사이트는 공식 공고를 요약한 참고 자료입니다. 지원 요건과 일정은 반드시 각 사업의 공식 공고에서 최종 확인하세요.</p>
-    <p>© <a href="https://www.123factory.de/">123 Factory</a></p>
+    <p>© <a href="https://www.123factory.de/" target="_blank" rel="noopener">123 Factory</a></p>
   </div>
 </footer>
 {{ $js := resources.Get "js/main.js" | minify | fingerprint }}
