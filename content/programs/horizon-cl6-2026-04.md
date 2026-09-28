@@ -3,7 +3,7 @@ title: "Horizon Europe 2026 · 데이터 농업 파트너십"
 subtitle: "HORIZON-CL6-2026-04 · Agriculture of Data COFUND"
 weight: 113
 tags: ["horizon"]
-status: "planned"
+status: "open"
 open_date: "2026-08-25"
 deadline: "2026-11-26"
 amount: "콜 총 €60M (COFUND)"
@@ -23,7 +23,7 @@ links:
     url: "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf"
   - name: "한-EU 연구협력센터 (KERC)"
     url: "https://k-erc.eu"
-verified: "2026-08-18"
+verified: "2026-09-28"
 ---
 
 ## 개요

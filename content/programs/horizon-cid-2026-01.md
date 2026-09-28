@@ -3,7 +3,7 @@ title: "Horizon Europe 2026 · 청정산업"
 subtitle: "HORIZON-CID-2026-01 · Clean Industrial Deal"
 weight: 16
 tags: ["horizon"]
-status: "open"
+status: "closed"
 deadline: "2026-09-15"
 amount: "콜 총 €275M · 과제당 EU 지원 1,500만~2,500만 유로"
 amount_short: "과제당 수십억 원"
@@ -20,7 +20,7 @@ links:
     url: "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home"
   - name: "한-EU 연구협력센터 (KERC)"
     url: "https://k-erc.eu"
-verified: "2026-08-18"
+verified: "2026-09-28"
 ---
 
 ## 개요

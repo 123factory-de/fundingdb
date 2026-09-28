@@ -1,6 +1,6 @@
 ---
 program: "horizon-cl4-2026-03"
-last_verified: "2026-08-18"
+last_verified: "2026-09-28"
 ---
 
 # Verification log — Horizon Europe 2026 · 우주
@@ -103,3 +103,10 @@ Prompted by a reviewer question (chat, 2026-08-18) on where "EU 예산 직접 �
 
 - All claims match the sources listed above as of 2026-08-12; no corrections needed.
 - Status and deadline were additionally machine-checked against the portal bulk dataset (grantsTenders.json, 2026-08-11) via `docs/skills/crosscheck-horizon/` — match.
+
+
+## 2026-09-28 — Portal status refresh
+
+| Claim on the page | Source | Result |
+| :--- | :--- | :--- |
+| Status and deadline | [Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=CL4-2026-03&isExactMatch=true) | Updated to match current official topic data |

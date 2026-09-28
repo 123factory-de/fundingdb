@@ -3,8 +3,8 @@ title: "Horizon Europe 2026 · 생물다양성·순환경제·환경"
 subtitle: "HORIZON-CL6-2026-01 · Cluster 6"
 weight: 112
 tags: ["horizon"]
-status: "open"
-deadline: "2026-09-17"
+status: "closed"
+deadline: "2026-09-23"
 amount: "콜 총 €210M · 과제당 통상 100만~1,000만 유로"
 amount_short: "과제당 수십억 원"
 target: "기업·대학·연구소"
@@ -22,7 +22,7 @@ links:
     url: "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf"
   - name: "한-EU 연구협력센터 (KERC)"
     url: "https://k-erc.eu"
-verified: "2026-08-18"
+verified: "2026-09-28"
 ---
 
 ## 개요

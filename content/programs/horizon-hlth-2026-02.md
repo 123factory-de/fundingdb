@@ -3,7 +3,7 @@ title: "Horizon Europe 2026 · 희귀질환 파트너십"
 subtitle: "HORIZON-HLTH-2026-02 · ERDERA COFUND"
 weight: 101
 tags: ["horizon"]
-status: "open"
+status: "closed"
 deadline: "2026-09-15"
 amount: "콜 총 €91.3M (COFUND 파트너십)"
 amount_short: "COFUND"
@@ -22,7 +22,7 @@ links:
     url: "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-4-health_horizon-2026-2027_en.pdf"
   - name: "한-EU 연구협력센터 (KERC)"
     url: "https://k-erc.eu"
-verified: "2026-08-18"
+verified: "2026-09-28"
 ---
 
 ## 개요
