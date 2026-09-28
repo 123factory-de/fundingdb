@@ -3,7 +3,7 @@ title: "Horizon Europe 2026 · 배터리·에너지"
 subtitle: "HORIZON-CL5-2026-09 · Cluster 5"
 weight: 116
 tags: ["horizon"]
-status: "open"
+status: "closed"
 deadline: "2026-09-15"
 amount: "콜 총 €223.2M · 과제당 통상 100만~1,000만 유로"
 amount_short: "과제당 수십억 원"
@@ -22,7 +22,7 @@ links:
     url: "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf"
   - name: "한-EU 연구협력센터 (KERC)"
     url: "https://k-erc.eu"
-verified: "2026-08-18"
+verified: "2026-09-28"
 ---
 
 ## 개요

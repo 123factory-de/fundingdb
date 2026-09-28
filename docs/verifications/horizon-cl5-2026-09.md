@@ -1,6 +1,6 @@
 ---
 program: "horizon-cl5-2026-09"
-last_verified: "2026-08-18"
+last_verified: "2026-09-28"
 ---
 
 # Verification log — Horizon Europe 2026 · 배터리·에너지
@@ -85,3 +85,10 @@ Every topic of the call was checked against the portal topic-details data (`docs
 
 - All claims match the sources listed above as of 2026-08-12; no corrections needed.
 - Status and deadline were additionally machine-checked against the portal bulk dataset (grantsTenders.json, 2026-08-11) via `docs/skills/crosscheck-horizon/` — match.
+
+
+## 2026-09-28 — Portal status refresh
+
+| Claim on the page | Source | Result |
+| :--- | :--- | :--- |
+| Status and deadline | [Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=CL5-2026-09&isExactMatch=true) | Updated to match current official topic data |
