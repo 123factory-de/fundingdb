@@ -3,7 +3,7 @@ title: "EUREKA 첨단바이오 콜 2026"
 subtitle: "EUREKA Network Projects · 바이오 분야 주제별 콜"
 weight: 22
 tags: ["eureka"]
-status: "open"
+status: "closed"
 deadline: "2026-09-28"
 amount: "한국측 연 5억 원 이내 (KIAT)"
 amount_short: "연 5억 원 이내"
@@ -20,14 +20,14 @@ links:
     url: "https://www.kiat.or.kr/front/board/boardContentsListPage.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e"
   - name: "K-PASS 접수"
     url: "https://www.k-pass.kr/notice/ancList.do"
-verified: "2026-08-12"
+verified: "2026-10-05"
 ---
 
 ## 개요
 
 유레카 네트워크 프로젝트의 **첨단바이오(Advanced Biotech) 주제별 콜**입니다. 바이오 분야 국제공동 R&D를 대상으로 하며, 한국은 참여국으로 **국가 예산 180만 유로**를 배정했습니다. 참여국은 한국을 포함해 오스트리아, 벨기에(플랑드르·왈로니아), 캐나다, 칠레, 에스토니아, 프랑스, 독일, 리투아니아, 네덜란드, 싱가포르, 남아공, 스페인, 스웨덴, 스위스, 튀르키예 등 17개입니다.
 
-**현재 접수 중입니다** — 유레카 중앙 접수 2026년 9월 25일 23:59(CEST), 국내(K-PASS) 접수 **2026년 9월 28일** 마감입니다.
+**2026년 사이클은 마감되었습니다** — 유레카 중앙 접수는 2026년 9월 25일 23:59(CEST), 국내(K-PASS) 접수는 **2026년 9월 28일**에 마감되었습니다.
 
 ## 지원자격
 

@@ -1,6 +1,6 @@
 ---
 program: "eureka-biotech-call-2026"
-last_verified: "2026-08-12"
+last_verified: "2026-10-05"
 ---
 
 # Verification log — EUREKA 첨단바이오 콜 2026
@@ -16,6 +16,12 @@ that support them, so the page can be re-checked claim by claim.
 | [S1](https://www.eurekanetwork.org/programmes-and-calls/network-projects/biotech-call-september-2026/) | 첨단바이오 콜 공고 | Blocks non-browser clients (HTTP 403) — open in a browser |
 | [S2](https://www.kiat.or.kr/front/board/boardContentsListPage.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e) | KIAT 사업공고 | Board list; open the relevant notice — deep links are not stable |
 | [S3](https://www.k-pass.kr/notice/ancList.do) | K-PASS 접수 | Domestic application channel; board list |
+
+## 2026-10-05 — status refresh
+
+| Claim on the page | Source | Result |
+| :--- | :--- | :--- |
+| `status: closed` and the overview closure statement | [S1](https://www.eurekanetwork.org/programmes-and-calls/network-projects/biotech-call-september-2026/) | Match — official end date is 2026-09-25 23:59 CEST; the Korean domestic deadline shown on the page was 2026-09-28. |
 
 ## 2026-08-12 — claim-by-claim check
 

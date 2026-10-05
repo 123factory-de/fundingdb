@@ -4,7 +4,7 @@ subtitle: "EUREKA · 중소기업 국제공동 R&D"
 aliases: ["/programs/eurostars/"]
 weight: 20
 tags: ["eureka"]
-status: "open"
+status: "closed"
 deadline: "2026-09-10"
 amount: "한국측 연 5억 원 이내 (총 최대 15억 원)"
 amount_short: "연 5억 원 이내"
@@ -25,14 +25,14 @@ links:
     url: "https://www.kiat.or.kr/front/board/boardContentsListPage.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e"
   - name: "K-PASS 접수"
     url: "https://www.k-pass.kr/notice/ancList.do"
-verified: "2026-08-12"
+verified: "2026-10-05"
 ---
 
 ## 개요
 
 Eurostars(유로스타)는 **혁신 중소기업이 주도하는 국제공동 R&D**를 지원하는 유레카·EU 공동 프로그램으로, 37개국이 참여합니다(EU 27 + 영국·스위스·노르웨이 등 + **한국**·캐나다·싱가포르·남아공). 한국은 유레카 정회원으로서 참여하며, 선정 시 한국 참여기관은 KIAT에서 연구비를 지원받습니다.
 
-**현재 Call 11이 접수 중입니다** — 유럽 중앙 마감 **2026년 9월 10일 14:00(CET)**. 연 2회(3월·9월경) 컷오프가 반복됩니다. 중앙평가에서 승인(label)된 과제만 이후 국내(KIAT) 접수·평가 대상이 되며, 국내 일정은 별도 안내됩니다.
+**Call 11은 마감되었습니다** — 유럽 중앙 접수는 **2026년 9월 10일 14:00(CEST)**에 마감되었습니다. 다음 예정 회차인 [Call 12](/programs/eurostars-call-12/)는 2026년 12월 17일 개시 예정이며, 한국 측 세부 지원조건과 국내 접수 절차는 KIAT 후속 안내를 확인해야 합니다.
 
 ## 지원자격
 
@@ -55,7 +55,7 @@ Eurostars(유로스타)는 **혁신 중소기업이 주도하는 국제공동 R&
 | 회차 | 유럽 중앙 마감 | 상태 |
 | :--- | :--- | :--- |
 | Call 10 | 2026. 3. 19. | 마감 |
-| **Call 11** | **2026. 9. 10. 14:00 CET** | **접수 중** |
+| **Call 11** | **2026. 9. 10. 14:00 CEST** | **마감** |
 
 ## 신청방법
 

@@ -3,7 +3,7 @@ title: "EUREKA 오픈콜 2026"
 subtitle: "EUREKA Network Projects · 자유주제 국제공동 R&D"
 weight: 21
 tags: ["eureka"]
-status: "open"
+status: "closed"
 deadline: "2026-10-01"
 amount: "한국측 연 5억 원 이내 (KIAT)"
 amount_short: "연 5억 원 이내"
@@ -22,14 +22,14 @@ links:
     url: "https://www.k-pass.kr/notice/ancList.do"
   - name: "2026년 통합공고 원문 (K-PASS)"
     url: "https://www.k-pass.kr/notice/ancView.do?ancId=P2950&gubun=NEW"
-verified: "2026-08-12"
+verified: "2026-10-05"
 ---
 
 ## 개요
 
 유레카(EUREKA)는 유럽 중심 47개국이 참여하는 세계 최대 시장지향형 국제공동 R&D 네트워크입니다. **오픈콜(Network Projects)은 주제 제한 없이** 한국 기업이 유럽 기업과 컨소시엄을 구성해 지원하는 경로로, 각국 참여기관이 자국 펀딩기관에서 연구비를 받는 공동펀딩(co-funding) 방식입니다. 유레카·국내 공동평가 없이 **국내 단독평가**로 진행되어 절차가 상대적으로 간단합니다.
 
-**2026년 사이클이 접수 중입니다** — 유레카 중앙(SmartSimple) 접수 2026년 9월 30일 16:00(CEST), 국내(K-PASS) 접수 **2026년 10월 1일 16:00(KST)** 마감입니다.
+**2026년 한국 측 접수 사이클은 마감되었습니다** — 유레카 중앙(SmartSimple) 접수는 2026년 9월 30일 16:00(CEST), 국내(K-PASS) 접수는 **2026년 10월 1일 16:00(KST)**에 마감되었습니다.
 
 ## 지원자격
 
