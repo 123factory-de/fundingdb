@@ -1,6 +1,6 @@
 ---
 program: "eurostars-call-11"
-last_verified: "2026-08-12"
+last_verified: "2026-10-05"
 ---
 
 # Verification log — Eurostars 3 Call 11
@@ -19,6 +19,14 @@ that support them, so the page can be re-checked claim by claim.
 | [S4](https://www.kiat.or.kr/front/board/boardContentsListPage.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e) | KIAT 사업공고 | Board list; open the relevant notice — deep links are not stable |
 | [S5](https://www.k-pass.kr/notice/ancList.do) | K-PASS 접수 | Domestic application channel; board list |
 | [S6](https://www.eurekanetwork.org/wp-content/uploads/2026/07/eurostars-eligibility-guidelines.pdf) | Eurostars eligibility guidelines PDF (v5.3, June 2026) | Direct download; the seven eligibility criteria are on p. 4, country list on p. 6 |
+| [S7](https://www.eurekanetwork.org/programmes-and-calls/eurostars/eurostars-call-12-for-projects-deadline-march-2027/) | Eurostars Call 12 official call page | Official planned-round dates; Korean national funding information is pending confirmation |
+
+## 2026-10-05 — status refresh
+
+| Claim on the page | Source | Result |
+| :--- | :--- | :--- |
+| `status: closed`, overview, and schedule row | [S1](https://www.eurekanetwork.org/programmes-and-calls/eurostars/eurostars-call-for-projects-september-2026/) | Match — official end date is 2026-09-10 14:00 CEST. |
+| Call 12 reference as the next planned round | [S7](https://www.eurekanetwork.org/programmes-and-calls/eurostars/eurostars-call-12-for-projects-deadline-march-2027/) | Match — opens 2026-12-17; Korean national funding information remains pending. |
 
 ## 2026-08-12 — claim-by-claim check
 

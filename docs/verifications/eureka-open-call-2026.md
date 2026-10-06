@@ -1,6 +1,6 @@
 ---
 program: "eureka-open-call-2026"
-last_verified: "2026-08-12"
+last_verified: "2026-10-05"
 ---
 
 # Verification log — EUREKA 오픈콜 2026
@@ -17,6 +17,12 @@ that support them, so the page can be re-checked claim by claim.
 | [S2](https://www.kiat.or.kr/front/board/boardContentsListPage.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e) | KIAT 사업공고 | Board list; open the relevant notice — deep links are not stable |
 | [S3](https://www.k-pass.kr/notice/ancList.do) | K-PASS 접수 | Domestic application channel; board list |
 | [S4](https://www.k-pass.kr/notice/ancView.do?ancId=P2950&gubun=NEW) | 「2026년 산업기술국제협력사업 통합 시행계획 공고」 원문 (K-PASS) | Notice detail page — the open call has no dedicated K-PASS notice; find via search term "산업기술국제협력". Schedule is in section "4. 지원일정 → ① 유레카 네트워크" |
+
+## 2026-10-05 — status refresh
+
+| Claim on the page | Source | Result |
+| :--- | :--- | :--- |
+| `status: closed` and the overview closure statement | [S4](https://www.k-pass.kr/notice/ancView.do?ancId=P2950&gubun=NEW) | Match — the official KIAT notice is marked closed and gives the 2026-10-01 Korean deadline. The Eureka Network page remains a standing programme page, not evidence of an open Korean funding cycle. |
 
 ## 2026-08-12 — claim-by-claim check
 
