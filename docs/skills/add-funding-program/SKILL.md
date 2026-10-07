@@ -7,7 +7,17 @@ description: Add or audit funding opportunity pages and matching verification lo
 
 Follow the repository `AGENTS.md` and preserve unrelated worktree changes. Never edit generated output (`public/`, `resources/`) or protected paths.
 
-## 1. Establish the official identity
+## 1. Collect candidates: API first, official pages second
+
+Read [references/collection-method.md](references/collection-method.md) before collecting or refreshing funding opportunities. This is the default collection method, including when the request does not specify a source.
+
+1. Query the EU Funding & Tenders search API and Eureka's official WordPress API first, as applicable. Collect all result pages and record coverage, failures, and collection time.
+2. Use the existing official-page, notice, PDF, and browser research method to fill API coverage gaps, recover from failures, and collect sources without a confirmed API (including cluster and bilateral calls).
+3. Deduplicate by official topic/call identity, then verify detailed conditions. An API candidate is not an eligibility approval or an instruction to publish.
+
+Use this procedure independently of any notification workflow. Broad notification feeds must not determine which programs qualify for this database.
+
+## 2. Establish the official identity
 
 1. Find the primary official call page or notice before writing.
 2. Record the exact call identifier, status, opening date, deadline including timezone, budget, applicant type, submission channel, and eligibility constraints.
@@ -18,7 +28,7 @@ Follow the repository `AGENTS.md` and preserve unrelated worktree changes. Never
 
 Do not invent sequential filenames or omit parts of an official identifier. When renaming an existing page, update every live internal link and verification reference. Add a legacy alias only when the requester wants URL compatibility.
 
-## 2. Use authoritative sources
+## 3. Use authoritative sources
 
 Prefer sources in this order:
 
@@ -31,7 +41,7 @@ Use the Portal for current Horizon call conditions, topic identifiers, action ty
 
 Read [references/page-and-verification.md](references/page-and-verification.md) before creating the page and its verification log. For Horizon calls, also read [references/horizon-topics.md](references/horizon-topics.md).
 
-## 3. Create both synchronized artifacts
+## 4. Create both synchronized artifacts
 
 Create or update:
 
@@ -42,7 +52,7 @@ Keep claims, links, dates, identifiers, topic rows, and Korean translations sync
 
 For every material claim, record the official supporting source in the verification log. Preserve exact official English topic titles beside their Korean translations so reviewers can audit translation choices.
 
-## 4. Apply Horizon-specific rules
+## 5. Apply Horizon-specific rules
 
 Use exactly one `## 토픽` section and one detailed topic table:
 
@@ -57,7 +67,7 @@ Translate meaning rather than mechanically transliterating terminology. Preserve
 
 State eligibility conclusions for Korean applicants first. Name restricted topic IDs, ownership/control tests, mandatory practitioner partners, multi-actor requirements, geographic mandates, consortium caps, or predecessor-project restrictions instead of writing only “some topics are restricted.”
 
-## 5. Validate before handoff
+## 6. Validate before handoff
 
 Run the repository validator for the changed page, or without arguments for all programs:
 

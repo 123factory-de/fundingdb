@@ -5,11 +5,11 @@ weight: 28
 tags: ["eureka"]
 status: "open"
 deadline: "2027-01-21"
-amount: "한국측 연 5억 원 이내 (KIAT)"
-amount_short: "연 5억 원 이내"
+amount: "한국측 지원규모는 KIAT 국내공고 확인 필요"
+amount_short: "국내공고 확인 필요"
 target: "기업 중심 컨소시엄"
 target_short: "기업 중심 컨소시엄"
-duration: "3년 이내"
+duration: "KIAT 국내공고 확인 필요"
 org_eu: "Xecs 사무국"
 org_kr: "한국산업기술진흥원(KIAT)"
 apply_via: "Xecs 플랫폼 + K-PASS"
@@ -50,8 +50,8 @@ Xecs는 **전자부품·시스템**(반도체, 임베디드, 전자 소재·장�
 
 | 구분 | 내용 |
 | :--- | :--- |
-| 지원규모 | 과제당 **연 5억 원 이내**, 3년 이내 (KIAT) |
-| 지원비율 | 중소기업 67% 이하 · 중견기업 50% 이하 · 대기업 33% 이하 |
+| 지원규모 | Call 6 한국측 세부 지원규모·기간은 **KIAT 국내공고 확인 필요** |
+| 지원비율 | Call 6 한국측 지원비율은 **KIAT 국내공고 확인 필요** |
 | 유럽측 | 각국 펀딩기관의 자국 규정에 따라 별도 지원 |
 
 ## 신청방법

@@ -4,8 +4,8 @@ subtitle: "HORIZON-HLTH-2027-02-two-stage · Cluster 1 Health"
 weight: 104
 tags: ["horizon"]
 status: "planned"
-open_date: "2027-02-10"
-deadline: "2027-04-13"
+open_date: "2026-10-29"
+deadline: "2027-02-17"
 amount: "콜 총 €186.6M · 과제당 통상 100만~1,000만 유로"
 amount_short: "과제당 수십억 원"
 target: "기업·대학·연구소"
@@ -28,7 +28,7 @@ verified: "2026-08-18"
 
 ## 개요
 
-Horizon Europe Pillar 2 **Cluster 1(보건)**\ 의 2027년 2단계(two-stage) 공고(공식 식별자 `HORIZON-HLTH-2027-02-two-stage`, 총 €186.6M)입니다. **2027년 2월 10일 개시, 1차 마감은 2027년 4월 13일, 1차 통과자의 2차 마감은 2027년 9월 22일 17:00(브뤼셀)** 예정입니다. 한국 소재 법인(기업·대학·연구소)은 Horizon Europe Pillar 2 준회원국 자격으로 원칙적으로 EU 회원국 기관과 거의 동등한 조건에서 참여하고 EU 예산을 직접 지원받을 수 있습니다. 토픽별 참여국·지배구조 제한과 추가 자격요건은 아래 **지원자격** 항목에 정리했습니다.
+Horizon Europe Pillar 2 **Cluster 1(보건)**\ 의 2027년 2단계(two-stage) 공고(공식 식별자 `HORIZON-HLTH-2027-02-two-stage`, 총 €186.6M)입니다. **2026년 10월 29일 개시, 1차 마감은 2027년 2월 17일, 1차 통과자의 2차 마감은 2027년 9월 16일 17:00(브뤼셀)** 예정입니다. 한국 소재 법인(기업·대학·연구소)은 Horizon Europe Pillar 2 준회원국 자격으로 원칙적으로 EU 회원국 기관과 거의 동등한 조건에서 참여하고 EU 예산을 직접 지원받을 수 있습니다. 토픽별 참여국·지배구조 제한과 추가 자격요건은 아래 **지원자격** 항목에 정리했습니다.
 
 같은 날 개시되는 단일단계 본 공고는 [HORIZON-HLTH-2027-01](/programs/horizon-hlth-2027-01/)(€341.6M)입니다. 개시 전에도 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-4-health_horizon-2026-2027_en.pdf)에서 토픽을 미리 확인하고 컨소시엄을 준비할 수 있습니다. 개시일은 ±1개월, 마감일은 최대 2개월 조정될 수 있습니다.
 

@@ -9,6 +9,12 @@ One dated section per verification pass, newest first. Key claims on the program
 page (front matter, bold statements, and table rows) are mapped to the sources
 that support them, so the page can be re-checked claim by claim.
 
+## 2026-10-06 — targeted recheck
+
+Fresh Innosuisse public webpage contains 30 June 2026 in its embedded table content. Deadline is past and the page remains closed. This checks webpage data, not a visual browser rendering; national financial terms were not fully reverified. Source: [Innosuisse call webpage](https://www.innosuisse.admin.ch/en/switzerland-south-korea-call-for-projects).
+
+Historical full-verification date unchanged. See [_crosscheck-2026-10-06.md](_crosscheck-2026-10-06.md) for scope and open items.
+
 ## Sources
 
 | # | Source | Access note |

@@ -59,9 +59,12 @@ conclusion-first, instead of a generic "일부 토픽 제한" caveat.
 
 - Amounts, budgets, and body text — spot-check those manually.
 - Non-Horizon programs (Eureka clusters, bilateral calls): their sources
-  (eurekanetwork.org, cluster sites, KIAT/K-PASS boards) have no machine-readable
-  data, and eurekanetwork.org blocks non-browser clients — verify those in a
-  browser using the per-program logs in `docs/verifications/`.
+  are outside this script's coverage. Eureka's public WordPress API can supply
+  candidates, but call details and Korean funding conditions still require
+  official-source verification. Use the
+  [default collection method](../add-funding-program/references/collection-method.md)
+  and the per-program logs in `docs/verifications/`; use browser research where
+  non-browser access is blocked.
 
 ## History
 

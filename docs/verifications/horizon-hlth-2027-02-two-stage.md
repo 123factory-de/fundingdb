@@ -9,6 +9,14 @@ One dated section per verification pass, newest first. Key claims on the program
 page (front matter, bold statements, and table rows) are mapped to the sources
 that support them, so the page can be re-checked claim by claim.
 
+## 2026-10-06 — schedule refresh
+
+Checked the official [Portal bulk dataset](https://ec.europa.eu/info/funding-tenders/opportunities/data/referenceData/grantsTenders.json), current topic JSON actions, and [Health Work Programme](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-4-health_horizon-2026-2027_en.pdf) call overview. Updated opening/deadline dates in front matter and body together.
+
+Opening: 2026-10-29; first stage: 2027-02-17; second stage: 2027-09-16, 17:00 Brussels local time.
+
+This is a targeted date/wording check; prior full-verification dates are retained. Other claims were not re-certified by this update.
+
 ## Sources
 
 | # | Source | Access note |

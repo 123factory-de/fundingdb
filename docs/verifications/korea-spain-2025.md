@@ -9,6 +9,12 @@ One dated section per verification pass, newest first. Key claims on the program
 page (front matter, bold statements, and table rows) are mapped to the sources
 that support them, so the page can be re-checked claim by claim.
 
+## 2026-10-06 — successor call reference
+
+The [KIAT notice dated 2026-09-21](https://kiat.or.kr/front/board/boardContentsView.do?contents_id=3254f8db3eb5477a923f7e1306fe71db) identifies KSSP 2026–2027, already registered in this database, with a Korean deadline of 2027-01-28 at 16:00 KST. Replaced the obsolete statement that the next call had not been announced with a link to that existing page. No new duplicate page was created.
+
+This is a targeted date/wording check; prior full-verification dates are retained. Other claims were not re-certified by this update.
+
 ## Sources
 
 | # | Source | Access note |

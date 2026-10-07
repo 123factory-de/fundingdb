@@ -1,0 +1,3091 @@
+{
+  "verified_at": "2026-10-06",
+  "reviewed_calls": 29,
+  "reviewed_topics": 78,
+  "decisions": [
+    {
+      "call_id": "HORIZON-BRIDGING-2027-01",
+      "decision": "verified",
+      "reason": "Published with topic-specific eligibility and scope conditions.",
+      "work_programme": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-14-horizontal-activities_horizon-2026-2027_en.pdf",
+      "topic_count": 4,
+      "topics": [
+        {
+          "topic_id": "HORIZON-BRIDGING-2027-01-09",
+          "title": "EU AI Media Platform – modular multilingual public-interest infrastructure for European news and audiovisual media (IA) - Apply AI",
+          "korean_title": "AI 기반 유럽 뉴스·시청각 미디어용 모듈형 다국어 공익 플랫폼",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-bridging-2027-01-09.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-bridging-2027-01-09",
+          "action_type": "IA",
+          "funding_rate": "영리 70% · 비영리 100%",
+          "budget_eur_million": 10.0,
+          "opening_date": "2026-10-20",
+          "deadlines": [
+            "2027-02-16"
+          ],
+          "practical_conditions_ko": "유럽 뉴스·시청각 미디어를 위한 플랫폼을 실증합니다. TRL 6→8이며 편집 독립성, 저작권·데이터 거버넌스와 공익성을 다뤄야 합니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 10000000,
+              "maximum": 10000000,
+              "expected_grants": 1
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-BRIDGING-2027-01-10",
+          "title": "Autonomous Drive Ambition Cities (IA) - Apply AI",
+          "korean_title": "유럽 도시의 자율주행 실증 확대",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-bridging-2027-01-10.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-bridging-2027-01-10",
+          "action_type": "IA",
+          "funding_rate": "영리 70% · 비영리 100%",
+          "budget_eur_million": 15.0,
+          "opening_date": "2026-10-20",
+          "deadlines": [
+            "2027-02-16"
+          ],
+          "practical_conditions_ko": "EU·아이슬란드·노르웨이·준회원국 법인만 참여할 수 있으며, 비적격 국가·법인의 직접·간접 지배를 받는 법인은 제외됩니다. 최소 5개 회원국·준회원국의 5~7개 유럽 도시 실증과 국경 인접 도시를 잇는 사례가 필요하며 최종 TRL 8을 목표로 합니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 15000000,
+              "maximum": 15000000,
+              "expected_grants": 1
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-BRIDGING-2027-01-12",
+          "title": "Large-Scale piloting of next-generation AI-driven digital platforms for a more affordable, secure and sustainable European energy system (IA) - Apply AI",
+          "korean_title": "유럽 에너지 시스템용 AI 디지털 플랫폼",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-bridging-2027-01-12.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-bridging-2027-01-12",
+          "action_type": "IA",
+          "funding_rate": "영리 70% · 비영리 100%",
+          "budget_eur_million": 15.0,
+          "opening_date": "2026-10-20",
+          "deadlines": [
+            "2027-02-16"
+          ],
+          "practical_conditions_ko": "EU·아이슬란드·노르웨이·준회원국 법인만 참여할 수 있으며, 비적격 국가·법인의 직접·간접 지배를 받는 법인은 제외됩니다. 최소 6개 회원국·준회원국에서 실증하고, 에너지 사업자 6개 이상·디지털 기술 공급자 8개 이상·모빌리티 사업자 4개 이상·에너지 공동체 20개 이상을 포함하는 구성이 요구됩니다. 최종 TRL 7~8을 목표로 합니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 15000000,
+              "maximum": 15000000,
+              "expected_grants": 1
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-BRIDGING-2027-01-13",
+          "title": "EU Frontier AI Initiative: Advanced Scaling Frameworks for High-Performance AI Models (RIA) - Apply AI",
+          "korean_title": "EU 프런티어 AI 모델의 전략적 확장",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-bridging-2027-01-13.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-bridging-2027-01-13",
+          "action_type": "RIA",
+          "funding_rate": "100%",
+          "budget_eur_million": 15.0,
+          "opening_date": "2026-10-20",
+          "deadlines": [
+            "2027-02-16"
+          ],
+          "practical_conditions_ko": "허용 국가 목록에 대한민국이 명시되어 있습니다. 비적격 국가의 지배를 받는 법인은 설립국이 승인한 보증이 필요하며, 중국의 직접·간접 지배를 받는 법인은 이 보증 예외를 사용할 수 없습니다. 성과·지식재산의 적격 국가 내 유지, 보안·접근·이전 조건을 확인해야 하며 TRL 4~5를 목표로 합니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 15000000,
+              "maximum": 15000000,
+              "expected_grants": 1
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        }
+      ]
+    },
+    {
+      "call_id": "HORIZON-BRIDGING-2027-02",
+      "decision": "verified",
+      "reason": "Published with topic-specific eligibility and scope conditions.",
+      "work_programme": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-14-horizontal-activities_horizon-2026-2027_en.pdf",
+      "topic_count": 1,
+      "topics": [
+        {
+          "topic_id": "HORIZON-BRIDGING-2027-02-05",
+          "title": "Advancing promising results from Pillar II collaborative research through the innovation journey",
+          "korean_title": "완료된 Horizon 연구 성과를 활용한 시장 지향 혁신",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-bridging-2027-02-05.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-bridging-2027-02-05",
+          "action_type": "IA",
+          "funding_rate": "영리 70% · 비영리 100%",
+          "budget_eur_million": 32.5,
+          "opening_date": "2026-10-20",
+          "deadlines": [
+            "2027-01-28"
+          ],
+          "practical_conditions_ko": "독립 법인 최대 6개이며 최종 사용자가 수혜기관으로 참여해야 합니다. Commission·집행기관이 지원한 Cluster 1~6의 RIA·IA·PCP 선행 과제가 신청 마감 전에 완료되어야 합니다. 진행 중 과제, 공동사업단·공동지원 파트너십·제3자 지원 과제는 선행 성과 자격에서 제외됩니다. 기존 참여기관을 반드시 포함할 필요는 없지만 성과·지식재산 소유권 또는 공정한 이용 조건의 접근 약정서를 확보해야 합니다. 주된 선행 과제의 협약 번호·약칭을 명시하며 기간은 최대 3년입니다. Cluster 3~6 성과는 TRL 6에서 시작하고, 중국의 직접·간접 지배를 받는 법인은 참여할 수 없습니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 0,
+              "maximum": 2500000,
+              "expected_grants": 13
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        }
+      ]
+    },
+    {
+      "call_id": "HORIZON-BRIDGING-2027-03",
+      "decision": "verified",
+      "reason": "Published with topic-specific eligibility and scope conditions.",
+      "work_programme": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-14-horizontal-activities_horizon-2026-2027_en.pdf",
+      "topic_count": 3,
+      "topics": [
+        {
+          "topic_id": "HORIZON-BRIDGING-2027-03-04",
+          "title": "Supporting the long-term resilience and European sovereignty of critical research data and knowledge repositories and scientific services for the life sciences",
+          "korean_title": "생명과학 핵심 연구 데이터·지식 저장소 및 과학 서비스의 장기 회복력과 유럽 주권",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-bridging-2027-03-04.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-bridging-2027-03-04",
+          "action_type": "RIA",
+          "funding_rate": "100%",
+          "budget_eur_million": 8.0,
+          "opening_date": "2027-03-09",
+          "deadlines": [
+            "2027-06-15"
+          ],
+          "practical_conditions_ko": "핵심 생명과학 데이터·지식 저장소의 지속성과 유럽의 접근·관리 역량을 강화합니다. 유럽 통신망 보호 관련 제한을 적용합니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 8000000,
+              "maximum": 8000000,
+              "expected_grants": 1
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-BRIDGING-2027-03-06",
+          "title": "Access to research infrastructure services to enable R&I addressing industry needs in priority areas",
+          "korean_title": "산업 수요에 대응하는 연구 인프라 서비스 접근",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-bridging-2027-03-06.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-bridging-2027-03-06",
+          "action_type": "RIA",
+          "funding_rate": "100%",
+          "budget_eur_million": 15.0,
+          "opening_date": "2027-03-09",
+          "deadlines": [
+            "2027-06-15"
+          ],
+          "practical_conditions_ko": "초국경·가상 접근 서비스를 제안에 포함하고, 최소 1개 ESFRI Landmark 또는 유럽연구인프라컨소시엄(ERIC)을 수혜기관으로 포함해야 합니다. 산업계, 특히 중소기업·스타트업·스케일업의 이용을 지원합니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 5000000,
+              "maximum": 5000000,
+              "expected_grants": 3
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-BRIDGING-2027-03-07",
+          "title": "Europe’s world class research and technology infrastructures as strategic assets for talent to Choose Europe",
+          "korean_title": "유럽의 연구·기술 인프라를 활용한 우수 인재 유치",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-bridging-2027-03-07.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-bridging-2027-03-07",
+          "action_type": "CSA",
+          "funding_rate": "100%",
+          "budget_eur_million": 7.5,
+          "opening_date": "2027-03-09",
+          "deadlines": [
+            "2027-06-15"
+          ],
+          "practical_conditions_ko": "최소 1개 ESFRI Landmark 또는 ERIC이 수혜기관으로 참여해야 합니다. 비준회원국 연구기관과의 협력·훈련·인재 교류를 설계하는 지원과제입니다. 한국 기관은 준회원국 자격으로 참여할 수 있습니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 1500000,
+              "maximum": 1500000,
+              "expected_grants": 5
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        }
+      ]
+    },
+    {
+      "call_id": "HORIZON-BRIDGING-2027-04",
+      "decision": "verified",
+      "reason": "Published with topic-specific eligibility and scope conditions.",
+      "work_programme": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-14-horizontal-activities_horizon-2026-2027_en.pdf",
+      "topic_count": 3,
+      "topics": [
+        {
+          "topic_id": "HORIZON-BRIDGING-2027-04-03",
+          "title": "Bringing innovative climate preparedness and resilience solutions closer to the market",
+          "korean_title": "혁신적 기후 대비·회복력 솔루션의 시장 진입 지원",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-bridging-2027-04-03.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-bridging-2027-04-03",
+          "action_type": "CSA",
+          "funding_rate": "100%",
+          "budget_eur_million": 20.0,
+          "opening_date": "2026-10-06",
+          "deadlines": [
+            "2027-02-16"
+          ],
+          "practical_conditions_ko": "지원 네트워크 운영 컨소시엄을 선정하는 공고입니다. 요청 EU 지원액의 최소 80%를 제3자 지원에 배정하고 TRL 7 수준의 솔루션을 가진 기업 최소 25개를 지원해야 합니다. 후속 지원금은 회원국·준회원국의 영리 민간 법인당 최대 €800,000입니다. 현재 공고에 기업이 이 금액을 단독으로 신청하는 구조는 아닙니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 20000000,
+              "maximum": 20000000,
+              "expected_grants": 1
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-BRIDGING-2027-04-08",
+          "title": "Sustainability and resilience of climate projections and related data records for European and global science and policy",
+          "korean_title": "유럽·세계 과학과 정책을 위한 기후 전망·데이터 기록의 지속성",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-bridging-2027-04-08.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-bridging-2027-04-08",
+          "action_type": "CSA",
+          "funding_rate": "100%",
+          "budget_eur_million": 5.0,
+          "opening_date": "2026-10-06",
+          "deadlines": [
+            "2027-02-16"
+          ],
+          "practical_conditions_ko": "기후 전망과 관련 데이터의 지속적 접근·유지·복제 및 국제 조정을 지원합니다. 한국 기관은 준회원국 수혜기관으로 참여할 수 있습니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 5000000,
+              "maximum": 5000000,
+              "expected_grants": 1
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-BRIDGING-2027-04-11",
+          "title": "Detection, monitoring, modelling, and attribution capabilities for Solar Radiation Modification (SRM) activities and assessing their impacts on Earth's climate and ecosystems",
+          "korean_title": "태양복사조절 활동의 탐지·감시·모델링·원인 규명과 기후·생태계 영향 평가",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-bridging-2027-04-11.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-bridging-2027-04-11",
+          "action_type": "RIA",
+          "funding_rate": "100%",
+          "budget_eur_million": 10.0,
+          "opening_date": "2026-10-06",
+          "deadlines": [
+            "2027-02-16"
+          ],
+          "practical_conditions_ko": "태양복사조절(SRM)의 탐지·영향·거버넌스 연구입니다. SRM 개발을 옹호·촉진·지원하는 데 연구비를 사용할 수 없습니다. 태양복사조절 기술 개발 공고로 해석하면 안 됩니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 10000000,
+              "maximum": 10000000,
+              "expected_grants": 1
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        }
+      ]
+    },
+    {
+      "call_id": "HORIZON-CL3-2027-02-CS-ECCC",
+      "decision": "verified",
+      "reason": "Published with topic-specific eligibility and scope conditions.",
+      "work_programme": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-6-civil-security-for-society_horizon-2026-2027_en.pdf",
+      "topic_count": 4,
+      "topics": [
+        {
+          "topic_id": "HORIZON-CL3-2027-02-CS-ECCC-01",
+          "title": "Artificial Intelligence for Cybersecurity applications",
+          "korean_title": "사이버보안을 위한 AI",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-cl3-2027-02-cs-eccc-01.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl3-2027-02-cs-eccc-01",
+          "action_type": "RIA",
+          "funding_rate": "100%",
+          "budget_eur_million": 24.8,
+          "opening_date": "2027-03-02",
+          "deadlines": [
+            "2027-09-15"
+          ],
+          "practical_conditions_ko": "AI 기반 사이버보안 연구입니다. 적격 국가 이외의 국가·법인이 직접·간접 지배하는 법인은 참여할 수 없습니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 4000000,
+              "maximum": 5000000,
+              "expected_grants": 5
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-CL3-2027-02-CS-ECCC-02",
+          "title": "Secure Computing Continuum (IoT, Edge, Cloud, Data spaces)",
+          "korean_title": "사물인터넷·엣지·클라우드·데이터 공간을 연결하는 안전한 컴퓨팅 연속체",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-cl3-2027-02-cs-eccc-02.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl3-2027-02-cs-eccc-02",
+          "action_type": "IA",
+          "funding_rate": "영리 70% · 비영리 100%",
+          "budget_eur_million": 24.0,
+          "opening_date": "2027-03-02",
+          "deadlines": [
+            "2027-09-15"
+          ],
+          "practical_conditions_ko": "사물인터넷부터 데이터 공간까지의 보안 실증입니다. 적격 국가 이외의 국가·법인이 직접·간접 지배하는 법인은 참여할 수 없습니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 3000000,
+              "maximum": 4000000,
+              "expected_grants": 5
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-CL3-2027-02-CS-ECCC-03",
+          "title": "Secure PQC implementations, Cryptanalysis and Post-quantum Digital Trust",
+          "korean_title": "안전한 양자내성 암호 구현·암호분석과 디지털 신뢰",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-cl3-2027-02-cs-eccc-03.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl3-2027-02-cs-eccc-03",
+          "action_type": "RIA",
+          "funding_rate": "100%",
+          "budget_eur_million": 19.0,
+          "opening_date": "2027-03-02",
+          "deadlines": [
+            "2027-09-15"
+          ],
+          "practical_conditions_ko": "양자내성 암호(PQC)의 안전한 구현·분석을 연구합니다. 적격 국가 이외의 국가·법인이 직접·간접 지배하는 법인은 참여할 수 없습니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 3000000,
+              "maximum": 4000000,
+              "expected_grants": 3
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-CL3-2027-02-CS-ECCC-04",
+          "title": "New primitives and protocols for functionalities of future hybrid classical-hybrid and quantum networks",
+          "korean_title": "미래 고전·양자 혼합 네트워크용 암호 기본요소와 프로토콜",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-cl3-2027-02-cs-eccc-04.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl3-2027-02-cs-eccc-04",
+          "action_type": "RIA",
+          "funding_rate": "100%",
+          "budget_eur_million": 4.0,
+          "opening_date": "2027-03-02",
+          "deadlines": [
+            "2027-09-15"
+          ],
+          "practical_conditions_ko": "고전·양자 네트워크용 새 암호 요소·프로토콜을 연구합니다. 양자·PQC 전문성을 결합하고 적격 국가 이외의 국가·법인이 직접·간접 지배하는 법인은 참여할 수 없습니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 4000000,
+              "maximum": 4000000,
+              "expected_grants": 1
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        }
+      ]
+    },
+    {
+      "call_id": "HORIZON-JU-EUROHPC-2026-NAPT-11",
+      "decision": "excluded",
+      "reason": "Work Programme 2026 Amendment 5 limits participation to EU Member States / EuroHPC Participating States. Korea is absent. A Horizon-associated country joining EuroHPC before grant signature can become eligible; that future condition is not current Korean eligibility. Non-eligible-country control additionally requires approved guarantees.",
+      "work_programme": "https://www.eurohpc-ju.europa.eu/document/download/22339ff1-3ec0-4c8c-9c97-8577b26700e9_en?filename=Decision%2035.2026_Amend.%205%20%20to%20Work%20Programme%202026%20%28002%29.pdf",
+      "topic_count": 1,
+      "topics": [
+        {
+          "topic_id": "HORIZON-JU-EUROHPC-2026-NAPT-11-01",
+          "title": "Neutral-Atom Platform Technologies",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-ju-eurohpc-2026-napt-11-01.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-ju-eurohpc-2026-napt-11-01",
+          "opening_date": "2026-08-13",
+          "deadlines": [
+            "2026-11-17"
+          ],
+          "api_budgets": [
+            {
+              "action": "HORIZON-JU-EUROHPC-2026-NAPT-11-01 - HORIZON-JU-RIA HORIZON JU Research and Innovation Actions",
+              "budgetYearMap": {
+                "2026": "20000000"
+              },
+              "minContribution": 19000000,
+              "maxContribution": 20000000,
+              "expectedGrants": 1
+            }
+          ],
+          "decision": "excluded",
+          "reason": "Work Programme 2026 Amendment 5 limits participation to EU Member States / EuroHPC Participating States. Korea is absent. A Horizon-associated country joining EuroHPC before grant signature can become eligible; that future condition is not current Korean eligibility. Non-eligible-country control additionally requires approved guarantees.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 19000000,
+              "maximum": 20000000,
+              "expected_grants": 1
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        }
+      ]
+    },
+    {
+      "call_id": "HORIZON-JU-EUROHPC-2026-NQKD-12",
+      "decision": "excluded",
+      "reason": "Work Programme 2026 Amendment 5 limits participation to EU Member States / EuroHPC Participating States. Korea is absent. A Horizon-associated country joining EuroHPC before grant signature can become eligible; that future condition is not current Korean eligibility. Non-eligible-country control additionally requires approved guarantees.",
+      "work_programme": "https://www.eurohpc-ju.europa.eu/document/download/22339ff1-3ec0-4c8c-9c97-8577b26700e9_en?filename=Decision%2035.2026_Amend.%205%20%20to%20Work%20Programme%202026%20%28002%29.pdf",
+      "topic_count": 1,
+      "topics": [
+        {
+          "topic_id": "HORIZON-JU-EUROHPC-2026-NQKD-12-01",
+          "title": "Next-Generation QKD Systems",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-ju-eurohpc-2026-nqkd-12-01.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-ju-eurohpc-2026-nqkd-12-01",
+          "opening_date": "2026-08-13",
+          "deadlines": [
+            "2026-11-17"
+          ],
+          "api_budgets": [
+            {
+              "action": "HORIZON-JU-EUROHPC-2026-NQKD-12-01 - HORIZON-JU-RIA HORIZON JU Research and Innovation Actions",
+              "budgetYearMap": {
+                "2026": "24000000"
+              },
+              "minContribution": 21000000,
+              "maxContribution": 24000000,
+              "expectedGrants": 1
+            }
+          ],
+          "decision": "excluded",
+          "reason": "Work Programme 2026 Amendment 5 limits participation to EU Member States / EuroHPC Participating States. Korea is absent. A Horizon-associated country joining EuroHPC before grant signature can become eligible; that future condition is not current Korean eligibility. Non-eligible-country control additionally requires approved guarantees.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 21000000,
+              "maximum": 24000000,
+              "expected_grants": 1
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        }
+      ]
+    },
+    {
+      "call_id": "HORIZON-JU-EUROHPC-2026-QEXP-14",
+      "decision": "excluded",
+      "reason": "Work Programme 2026 Amendment 5 limits participation to EU Member States / EuroHPC Participating States. Korea is absent. A Horizon-associated country joining EuroHPC before grant signature can become eligible; that future condition is not current Korean eligibility. Non-eligible-country control additionally requires approved guarantees.",
+      "work_programme": "https://www.eurohpc-ju.europa.eu/document/download/22339ff1-3ec0-4c8c-9c97-8577b26700e9_en?filename=Decision%2035.2026_Amend.%205%20%20to%20Work%20Programme%202026%20%28002%29.pdf",
+      "topic_count": 1,
+      "topics": [
+        {
+          "topic_id": "HORIZON-JU-EUROHPC-2026-QEXP-14-01",
+          "title": "Quantum Experimental Pilot Lines for Quantum Technologies",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-ju-eurohpc-2026-qexp-14-01.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-ju-eurohpc-2026-qexp-14-01",
+          "opening_date": "2026-08-13",
+          "deadlines": [
+            "2026-11-17"
+          ],
+          "api_budgets": [
+            {
+              "action": "HORIZON-JU-EUROHPC-2026-QEXP-14-01 - HORIZON-JU-RIA HORIZON JU Research and Innovation Actions",
+              "budgetYearMap": {
+                "2026": "15000000"
+              },
+              "minContribution": 14000000,
+              "maxContribution": 15000000,
+              "expectedGrants": 1
+            }
+          ],
+          "decision": "excluded",
+          "reason": "Work Programme 2026 Amendment 5 limits participation to EU Member States / EuroHPC Participating States. Korea is absent. A Horizon-associated country joining EuroHPC before grant signature can become eligible; that future condition is not current Korean eligibility. Non-eligible-country control additionally requires approved guarantees.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 14000000,
+              "maximum": 15000000,
+              "expected_grants": 1
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        }
+      ]
+    },
+    {
+      "call_id": "HORIZON-JU-EUROHPC-2026-QML-07",
+      "decision": "reviewed_unresolved",
+      "reason": "Full review completed: QML eligibility text admits Horizon-associated countries, but footnote 30 lists countries without Korea and cites the older V3.5 country list. Korea may fall within the wording on automatically funded countries, so neither approval nor categorical exclusion is safe. EU funding is explicitly capped at 50%, budget EUR 6M, expected EUR 2M–3M/project, duration 48 months, TRL 3/4 to 5/6. Written call-owner confirmation of Korean eligibility is required before publication.",
+      "work_programme": "https://www.eurohpc-ju.europa.eu/document/download/22339ff1-3ec0-4c8c-9c97-8577b26700e9_en?filename=Decision%2035.2026_Amend.%205%20%20to%20Work%20Programme%202026%20%28002%29.pdf",
+      "topic_count": 1,
+      "topics": [
+        {
+          "topic_id": "HORIZON-JU-EUROHPC-2026-QML-07-01",
+          "title": "Quantum Machine Learning",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-ju-eurohpc-2026-qml-07-01.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-ju-eurohpc-2026-qml-07-01",
+          "opening_date": "2026-06-02",
+          "deadlines": [
+            "2027-01-28"
+          ],
+          "api_budgets": [
+            {
+              "action": "HORIZON-JU-EUROHPC-2026-QML-07-01 - HORIZON-JU-RIA HORIZON JU Research and Innovation Actions",
+              "budgetYearMap": {
+                "2026": "6000000"
+              },
+              "minContribution": 2000000,
+              "maxContribution": 3000000,
+              "expectedGrants": 2
+            }
+          ],
+          "decision": "reviewed_unresolved",
+          "reason": "Full review completed: QML eligibility text admits Horizon-associated countries, but footnote 30 lists countries without Korea and cites the older V3.5 country list. Korea may fall within the wording on automatically funded countries, so neither approval nor categorical exclusion is safe. EU funding is explicitly capped at 50%, budget EUR 6M, expected EUR 2M–3M/project, duration 48 months, TRL 3/4 to 5/6. Written call-owner confirmation of Korean eligibility is required before publication.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 2000000,
+              "maximum": 3000000,
+              "expected_grants": 2
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        }
+      ]
+    },
+    {
+      "call_id": "HORIZON-JU-EUROHPC-2026-QTI-13",
+      "decision": "excluded",
+      "reason": "Work Programme 2026 Amendment 5 limits participation to EU Member States / EuroHPC Participating States. Korea is absent. A Horizon-associated country joining EuroHPC before grant signature can become eligible; that future condition is not current Korean eligibility. Non-eligible-country control additionally requires approved guarantees.",
+      "work_programme": "https://www.eurohpc-ju.europa.eu/document/download/22339ff1-3ec0-4c8c-9c97-8577b26700e9_en?filename=Decision%2035.2026_Amend.%205%20%20to%20Work%20Programme%202026%20%28002%29.pdf",
+      "topic_count": 1,
+      "topics": [
+        {
+          "topic_id": "HORIZON-JU-EUROHPC-2026-QTI-13-01",
+          "title": "Quantum-Testing Infrastructure for Quantum Technologies",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-ju-eurohpc-2026-qti-13-01.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-ju-eurohpc-2026-qti-13-01",
+          "opening_date": "2026-08-13",
+          "deadlines": [
+            "2026-11-17"
+          ],
+          "api_budgets": [
+            {
+              "action": "HORIZON-JU-EUROHPC-2026-QTI-13-01 - HORIZON-JU-RIA HORIZON JU Research and Innovation Actions",
+              "budgetYearMap": {
+                "2026": "20000000"
+              },
+              "minContribution": 19000000,
+              "maxContribution": 20000000,
+              "expectedGrants": 1
+            }
+          ],
+          "decision": "excluded",
+          "reason": "Work Programme 2026 Amendment 5 limits participation to EU Member States / EuroHPC Participating States. Korea is absent. A Horizon-associated country joining EuroHPC before grant signature can become eligible; that future condition is not current Korean eligibility. Non-eligible-country control additionally requires approved guarantees.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 19000000,
+              "maximum": 20000000,
+              "expected_grants": 1
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        }
+      ]
+    },
+    {
+      "call_id": "HORIZON-JU-EUROHPC-2026-SPT-10",
+      "decision": "excluded",
+      "reason": "Work Programme 2026 Amendment 5 limits participation to EU Member States / EuroHPC Participating States. Korea is absent. A Horizon-associated country joining EuroHPC before grant signature can become eligible; that future condition is not current Korean eligibility. Non-eligible-country control additionally requires approved guarantees.",
+      "work_programme": "https://www.eurohpc-ju.europa.eu/document/download/22339ff1-3ec0-4c8c-9c97-8577b26700e9_en?filename=Decision%2035.2026_Amend.%205%20%20to%20Work%20Programme%202026%20%28002%29.pdf",
+      "topic_count": 1,
+      "topics": [
+        {
+          "topic_id": "HORIZON-JU-EUROHPC-2026-SPT-10-01",
+          "title": "Superconducting Platform Technologies",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-ju-eurohpc-2026-spt-10-01.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-ju-eurohpc-2026-spt-10-01",
+          "opening_date": "2026-08-13",
+          "deadlines": [
+            "2026-11-17"
+          ],
+          "api_budgets": [
+            {
+              "action": "HORIZON-JU-EUROHPC-2026-SPT-10-01 - HORIZON-JU-RIA HORIZON JU Research and Innovation Actions",
+              "budgetYearMap": {
+                "2026": "20000000"
+              },
+              "minContribution": 19000000,
+              "maxContribution": 20000000,
+              "expectedGrants": 1
+            }
+          ],
+          "decision": "excluded",
+          "reason": "Work Programme 2026 Amendment 5 limits participation to EU Member States / EuroHPC Participating States. Korea is absent. A Horizon-associated country joining EuroHPC before grant signature can become eligible; that future condition is not current Korean eligibility. Non-eligible-country control additionally requires approved guarantees.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 19000000,
+              "maximum": 20000000,
+              "expected_grants": 1
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        }
+      ]
+    },
+    {
+      "call_id": "HORIZON-JU-EUROHPC-2026-TIPT-09",
+      "decision": "excluded",
+      "reason": "Work Programme 2026 Amendment 5 limits participation to EU Member States / EuroHPC Participating States. Korea is absent. A Horizon-associated country joining EuroHPC before grant signature can become eligible; that future condition is not current Korean eligibility. Non-eligible-country control additionally requires approved guarantees.",
+      "work_programme": "https://www.eurohpc-ju.europa.eu/document/download/22339ff1-3ec0-4c8c-9c97-8577b26700e9_en?filename=Decision%2035.2026_Amend.%205%20%20to%20Work%20Programme%202026%20%28002%29.pdf",
+      "topic_count": 1,
+      "topics": [
+        {
+          "topic_id": "HORIZON-JU-EUROHPC-2026-TIPT-09-01",
+          "title": "Trapped-Ion Platform Technologies",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-ju-eurohpc-2026-tipt-09-01.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-ju-eurohpc-2026-tipt-09-01",
+          "opening_date": "2026-08-13",
+          "deadlines": [
+            "2026-11-17"
+          ],
+          "api_budgets": [
+            {
+              "action": "HORIZON-JU-EUROHPC-2026-TIPT-09-01 - HORIZON-JU-RIA HORIZON JU Research and Innovation Actions",
+              "budgetYearMap": {
+                "2026": "20000000"
+              },
+              "minContribution": 19000000,
+              "maxContribution": 20000000,
+              "expectedGrants": 1
+            }
+          ],
+          "decision": "excluded",
+          "reason": "Work Programme 2026 Amendment 5 limits participation to EU Member States / EuroHPC Participating States. Korea is absent. A Horizon-associated country joining EuroHPC before grant signature can become eligible; that future condition is not current Korean eligibility. Non-eligible-country control additionally requires approved guarantees.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 19000000,
+              "maximum": 20000000,
+              "expected_grants": 1
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        }
+      ]
+    },
+    {
+      "call_id": "HORIZON-JU-IHI-2026-13-two-stage",
+      "decision": "verified",
+      "reason": "Published with topic-specific eligibility and scope conditions.",
+      "work_programme": "https://www.ihi.europa.eu/sites/default/files/uploads/Documents/Calls/IHI%20Call%2013_TOPIC%20TEXT%20final%20for%20publication.pdf",
+      "topic_count": 3,
+      "topics": [
+        {
+          "topic_id": "HORIZON-JU-IHI-2026-13-two-stage-01",
+          "title": "IHI European HealthCare Incubator Network",
+          "korean_title": "유럽 헬스케어 차세대 혁신을 촉진하는 네트워크",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-ju-ihi-2026-13-two-stage-01.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-ju-ihi-2026-13-two-stage-01",
+          "action_type": "RIA",
+          "funding_rate": "100%",
+          "budget_eur_million": 35,
+          "opening_date": "2026-07-02",
+          "deadlines": [
+            "2026-10-08",
+            "2027-04-21"
+          ],
+          "practical_conditions_ko": "초기 헬스케어 기업을 지원할 네트워크 운영자를 선정합니다. IHI 지원액의 최소 75%와 산업계 재정 기여를 제3자 지원에 사용하며, 후속 선정 스타트업은 최초 최대 €1M·추가 최대 €1M으로 합계 최대 €2M을 받을 수 있습니다. 현재 신청 대상은 운영 컨소시엄입니다. 이 토픽의 민간 기여 기준은 전체 자원의 최소 30%로 완화됩니다.",
+          "budget_note": "Call-wide EUR 53.2M repeated by API; topic allocation taken from official call text p.4.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 35000000,
+              "maximum": 35000000,
+              "expected_grants": 1
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-JU-IHI-2026-13-two-stage-02",
+          "title": "An AI Foundation Toxicology Model and Framework to Support Waiving a Second Species in Drug Safety Studies",
+          "korean_title": "약물 안전성 시험에서 두 번째 동물종 사용 면제를 지원하는 AI 독성학 기반모델·체계",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-ju-ihi-2026-13-two-stage-02.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-ju-ihi-2026-13-two-stage-02",
+          "action_type": "RIA",
+          "funding_rate": "100%",
+          "budget_eur_million": 9,
+          "opening_date": "2026-07-02",
+          "deadlines": [
+            "2026-10-08",
+            "2027-04-21"
+          ],
+          "practical_conditions_ko": "독성학 기반모델과 검증·규제 수용 체계를 개발합니다. 민간 기여는 적격비용과 관련 추가 활동 비용의 최소 45%를 충족해야 합니다.",
+          "budget_note": "Call-wide EUR 53.2M repeated by API; topic allocation taken from official call text p.4.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 9000000,
+              "maximum": 9000000,
+              "expected_grants": 1
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-JU-IHI-2026-13-two-stage-03",
+          "title": "Decode the Immunoscience of age-related diseases",
+          "korean_title": "노화 관련 면역매개 질환의 면역과학 규명",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-ju-ihi-2026-13-two-stage-03.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-ju-ihi-2026-13-two-stage-03",
+          "action_type": "RIA",
+          "funding_rate": "100%",
+          "budget_eur_million": 9.2,
+          "opening_date": "2026-07-02",
+          "deadlines": [
+            "2026-10-08",
+            "2027-04-21"
+          ],
+          "practical_conditions_ko": "노화와 면역질환의 기전·치료·생체지표를 연구합니다. 민간 기여는 적격비용과 관련 추가 활동 비용의 최소 45%를 충족해야 합니다.",
+          "budget_note": "Call-wide EUR 53.2M repeated by API; topic allocation taken from official call text p.4.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 9200000,
+              "maximum": 9200000,
+              "expected_grants": 1
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        }
+      ]
+    },
+    {
+      "call_id": "HORIZON-MISS-2026-07",
+      "decision": "verified",
+      "reason": "Published with topic-specific eligibility and scope conditions.",
+      "work_programme": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-12-missions_horizon-2026-2027_en.pdf",
+      "topic_count": 1,
+      "topics": [
+        {
+          "topic_id": "HORIZON-MISS-2026-07-CROSS-04",
+          "title": "Demonstrating place-based experimentation and innovation spaces as enabling environments for scaling EU Missions",
+          "korean_title": "EU 미션 확산을 위한 지역 기반 실험·혁신 공간 실증",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-miss-2026-07-cross-04.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2026-07-cross-04",
+          "action_type": "IA",
+          "funding_rate": "영리 70% · 비영리 100%",
+          "budget_eur_million": 3.62,
+          "opening_date": "2026-10-06",
+          "deadlines": [
+            "2027-01-13"
+          ],
+          "practical_conditions_ko": "지방정부 주도 컨소시엄을 지향합니다. 회원국·준회원국의 지역에서 거버넌스·규제 실험·공공 및 민간 재원·조달을 결합해 미션의 확산을 실증합니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 1000000,
+              "maximum": 1500000,
+              "expected_grants": 3
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        }
+      ]
+    },
+    {
+      "call_id": "HORIZON-MISS-2027-01",
+      "decision": "verified",
+      "reason": "Published with topic-specific eligibility and scope conditions.",
+      "work_programme": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-12-missions_horizon-2026-2027_en.pdf",
+      "topic_count": 2,
+      "topics": [
+        {
+          "topic_id": "HORIZON-MISS-2027-01-CLIMA-01",
+          "title": "Demonstrating transformative solutions to increase cross-border climate resilience",
+          "korean_title": "국경 간 기후 회복력 전환 솔루션 실증",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-miss-2027-01-clima-01.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2027-01-clima-01",
+          "action_type": "IA",
+          "funding_rate": "영리 70% · 비영리 100%",
+          "budget_eur_million": 72.32381237,
+          "opening_date": "2027-02-09",
+          "deadlines": [
+            "2027-09-21"
+          ],
+          "practical_conditions_ko": "회원국·준회원국 내에서 국경 양쪽 인접 지역을 잇는 서로 다른 초국경 실증지 최소 2곳이 필수입니다. 별도로 복제 대상 초국경 지역 최소 1곳을 제시하고 지방·지역 당국의 참여를 설계해야 합니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 10000000,
+              "maximum": 15000000,
+              "expected_grants": 5
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-MISS-2027-01-CLIMA-02",
+          "title": "Researching and applying the potential of Artificial Intelligence to foster climate resilience at the regional and local levels",
+          "korean_title": "지역·지방 기후 회복력을 위한 AI 연구·적용",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-miss-2027-01-clima-02.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2027-01-clima-02",
+          "action_type": "RIA",
+          "funding_rate": "100%",
+          "budget_eur_million": 12.0,
+          "opening_date": "2027-02-09",
+          "deadlines": [
+            "2027-09-21"
+          ],
+          "practical_conditions_ko": "기후적응 의사결정과 지역·지방 대응에 AI를 연구·적용합니다. 미션 플랫폼과의 협력 활동·예산을 제안서에 반영해야 합니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 3000000,
+              "maximum": 3000000,
+              "expected_grants": 4
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        }
+      ]
+    },
+    {
+      "call_id": "HORIZON-MISS-2027-02",
+      "decision": "verified",
+      "reason": "Published with topic-specific eligibility and scope conditions.",
+      "work_programme": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-12-missions_horizon-2026-2027_en.pdf",
+      "topic_count": 6,
+      "topics": [
+        {
+          "topic_id": "HORIZON-MISS-2027-02-CANCER-01",
+          "title": "Leveraging functional genomics to reveal novel targets for cancer treatment",
+          "korean_title": "기능 유전체학을 활용한 새로운 암 치료 표적 발굴",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-miss-2027-02-cancer-01.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2027-02-cancer-01",
+          "action_type": "RIA",
+          "funding_rate": "100%",
+          "budget_eur_million": 32.323812,
+          "opening_date": "2027-02-10",
+          "deadlines": [
+            "2027-09-16"
+          ],
+          "practical_conditions_ko": "기능 유전체학과 전임상·임상 자료를 결합합니다. 암 미션 연구 클러스터 공동 활동 예산과 유럽 통신망 보호 관련 제한을 반영합니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 7000000,
+              "maximum": 8000000,
+              "expected_grants": 4
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-MISS-2027-02-CANCER-02",
+          "title": "Clinical research by Comprehensive Cancer Infrastructures for the benefit of patients with common cancers",
+          "korean_title": "흔한 암 환자를 위한 종합 암 인프라 기반 임상연구",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-miss-2027-02-cancer-02.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2027-02-cancer-02",
+          "action_type": "IA",
+          "funding_rate": "영리 70% · 비영리 100%",
+          "budget_eur_million": 20.0,
+          "opening_date": "2027-02-10",
+          "deadlines": [
+            "2027-09-16"
+          ],
+          "practical_conditions_ko": "최소 4개 회원국·준회원국에서 진단·치료 프로그램을 실증·확대하고 그중 1개는 종합 암 인프라가 없거나 덜 발달한 국가여야 합니다. 임상시험 부속서와 환자·돌봄제공자 참여가 필요합니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 7000000,
+              "maximum": 10000000,
+              "expected_grants": 3
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-MISS-2027-02-CANCER-03",
+          "title": "Phase 1 including first-in-human clinical trials to test biomarker-guided medicines or multi-modal treatment interventions for patients with rare or very rare cancers or cancer subtypes",
+          "korean_title": "희귀·초희귀 암의 바이오마커 기반 약물·복합치료를 위한 최초 인체시험 포함 1상 임상시험",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-miss-2027-02-cancer-03.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2027-02-cancer-03",
+          "action_type": "RIA",
+          "funding_rate": "100%",
+          "budget_eur_million": 24.0,
+          "opening_date": "2027-02-10",
+          "deadlines": [
+            "2027-09-16"
+          ],
+          "practical_conditions_ko": "희귀·초희귀 암을 대상으로 하며 임상시험 설계에 관한 규제기관의 자문 증빙과 임상시험 부속서를 제출해야 합니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 7000000,
+              "maximum": 9000000,
+              "expected_grants": 3
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-MISS-2027-02-CANCER-04",
+          "title": "Improving equitable health outcomes and added value for and with cancer patients through health-economics research, health systems research and outcomes research",
+          "korean_title": "암 환자의 형평성 있는 건강성과를 위한 보건경제·보건체계·성과 연구",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-miss-2027-02-cancer-04.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2027-02-cancer-04",
+          "action_type": "RIA",
+          "funding_rate": "100%",
+          "budget_eur_million": 10.0,
+          "opening_date": "2027-02-10",
+          "deadlines": [
+            "2027-09-16"
+          ],
+          "practical_conditions_ko": "암 관리의 비용·건강성과·형평성을 연구합니다. API와 Work Programme 모두 토픽 예산 €10M, 과제당 예상 €5M~7M, 예상 과제 3개를 제시해 수치 간 불일치가 있습니다. 총예산을 예상 과제 수로 나눠 지원액을 추정하지 말고 제출 전 포털에 확인해야 합니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 5000000,
+              "maximum": 7000000,
+              "expected_grants": 3
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-MISS-2027-02-CANCER-05",
+          "title": "Pre-commercial procurement of affordable solutions for healthcare systems in the areas of cancer technologies, cancer medical devices, or cancer medicines",
+          "korean_title": "암 기술·의료기기·의약품의 부담 가능한 솔루션 개발을 위한 상용화 전 공공조달",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-miss-2027-02-cancer-05.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2027-02-cancer-05",
+          "action_type": "PCP",
+          "funding_rate": "100%",
+          "budget_eur_million": 26.0,
+          "opening_date": "2027-02-10",
+          "deadlines": [
+            "2027-09-16"
+          ],
+          "practical_conditions_ko": "구매기관 컨소시엄에 지원하는 PCP입니다. 최소 5개 회원국·준회원국에서 임상 검증·실증·확대가 필요합니다. 개발 기업은 이 토픽의 R&D 보조금을 직접 신청하지 않고, 선정 구매기관이 공고하는 후속 입찰에 참여합니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 8000000,
+              "maximum": 10000000,
+              "expected_grants": 3
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-MISS-2027-02-CANCER-06",
+          "title": "Support a Young Cancer Survivor Quality of Life (QoL) research programme by cancer charities and funding agencies",
+          "korean_title": "암 자선단체·지원기관의 젊은 암 생존자 삶의 질 연구 프로그램 지원",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-miss-2027-02-cancer-06.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2027-02-cancer-06",
+          "action_type": "CSA",
+          "funding_rate": "100%",
+          "budget_eur_million": 3.0,
+          "opening_date": "2027-02-10",
+          "deadlines": [
+            "2027-09-16"
+          ],
+          "practical_conditions_ko": "등록된 암 자선단체·연구비 지원기관이 최소 2개 국제 공동 공모를 조직·지원하는 CSA입니다. EU 지원은 조정·네트워크 활동을 위한 것으로 후속 연구지원금 전체를 뜻하지 않습니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 3000000,
+              "maximum": 3000000,
+              "expected_grants": 1
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        }
+      ]
+    },
+    {
+      "call_id": "HORIZON-MISS-2027-03",
+      "decision": "verified",
+      "reason": "Published with topic-specific eligibility and scope conditions.",
+      "work_programme": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-12-missions_horizon-2026-2027_en.pdf",
+      "topic_count": 5,
+      "topics": [
+        {
+          "topic_id": "HORIZON-MISS-2027-03-OCEAN-01",
+          "title": "Increasing riparian and coastal areas resilience to climate change, including in waterfront cities and islands.",
+          "korean_title": "수변 도시·섬을 포함한 하천변·연안 지역의 기후 회복력 강화",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-miss-2027-03-ocean-01.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2027-03-ocean-01",
+          "action_type": "IA",
+          "funding_rate": "영리 70% · 비영리 100%",
+          "budget_eur_million": 35.7,
+          "opening_date": "2027-02-09",
+          "deadlines": [
+            "2027-09-21"
+          ],
+          "practical_conditions_ko": "유럽의 4개 미션 해역·유역 중 1개만 선택하고 해당 유역의 최소 3개 국가에서 실증합니다. 복제 대상 지역 최소 5곳과 협력하며 종료 TRL 6~8을 목표로 합니다. 제3자 지원은 별도 지방·지역 공공기관당 최대 €100,000, 과제당 1회입니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 8000000,
+              "maximum": 8925000,
+              "expected_grants": 4
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-MISS-2027-03-OCEAN-02",
+          "title": "Circularity of seafood supply chain",
+          "korean_title": "수산식품 공급망의 순환성",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-miss-2027-03-ocean-02.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2027-03-ocean-02",
+          "action_type": "IA",
+          "funding_rate": "영리 70% · 비영리 100%",
+          "budget_eur_million": 30.9,
+          "opening_date": "2027-02-09",
+          "deadlines": [
+            "2027-09-21"
+          ],
+          "practical_conditions_ko": "유럽의 4개 미션 해역·유역 중 1개만 선택하고 생산·가공·기술공급·연구 주체를 결합합니다. 종료 TRL 6~8을 목표로 합니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 7200000,
+              "maximum": 7725000,
+              "expected_grants": 4
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-MISS-2027-03-OCEAN-03",
+          "title": "Green, circular and resilient harbours",
+          "korean_title": "친환경·순환형·회복력 있는 항만",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-miss-2027-03-ocean-03.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2027-03-ocean-03",
+          "action_type": "IA",
+          "funding_rate": "영리 70% · 비영리 100%",
+          "budget_eur_million": 11.9,
+          "opening_date": "2027-02-09",
+          "deadlines": [
+            "2027-09-21"
+          ],
+          "practical_conditions_ko": "항만·지역사회·당국·산업계와 함께 실증하고 복제 대상 지역 최소 4곳과 협력합니다. 종료 TRL 6~8을 목표로 하며 제3자 지원은 별도 지방·지역 공공기관당 최대 €100,000, 과제당 1회입니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 5500000,
+              "maximum": 5950000,
+              "expected_grants": 2
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-MISS-2027-03-OCEAN-04",
+          "title": "Towards community-driven business models: coastal and freshwaters sustainable tourism",
+          "korean_title": "지역사회 주도 연안·담수 지속가능 관광 사업모델",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-miss-2027-03-ocean-04.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2027-03-ocean-04",
+          "action_type": "IA",
+          "funding_rate": "영리 70% · 비영리 100%",
+          "budget_eur_million": 6.0,
+          "opening_date": "2027-02-09",
+          "deadlines": [
+            "2027-09-21"
+          ],
+          "practical_conditions_ko": "미션 해역·유역 1개를 선택하고 서로 다른 회원국·준회원국에 위치한 유럽 연안·담수 지역 최소 3곳에서 지역사회 주도 사업모델을 실증합니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 1000000,
+              "maximum": 1500000,
+              "expected_grants": 4
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-MISS-2027-03-OCEAN-05",
+          "title": "Large-scale demonstration of protection, restoration and management of blue forest ecosystems in European sea basins",
+          "korean_title": "유럽 해역의 블루 포리스트 생태계 보호·복원·관리 대규모 실증",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-miss-2027-03-ocean-05.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2027-03-ocean-05",
+          "action_type": "IA",
+          "funding_rate": "영리 70% · 비영리 100%",
+          "budget_eur_million": 15.9,
+          "opening_date": "2027-02-09",
+          "deadlines": [
+            "2027-09-21"
+          ],
+          "practical_conditions_ko": "미션 해역 1개를 선택하고 국가·지역 당국과의 협력, 지역사회·연구자·NGO 참여 및 과제 종료 후 생태 모니터링 지속을 설계합니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 3500000,
+              "maximum": 3975000,
+              "expected_grants": 4
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        }
+      ]
+    },
+    {
+      "call_id": "HORIZON-MISS-2027-04",
+      "decision": "verified",
+      "reason": "Published with topic-specific eligibility and scope conditions.",
+      "work_programme": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-12-missions_horizon-2026-2027_en.pdf",
+      "topic_count": 5,
+      "topics": [
+        {
+          "topic_id": "HORIZON-MISS-2027-04-CIT-01",
+          "title": "Innovative microgrids for improved energy system integration and efficiency in urban contexts",
+          "korean_title": "도시 에너지 통합·효율 향상을 위한 혁신적 마이크로그리드",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-miss-2027-04-cit-01.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2027-04-cit-01",
+          "action_type": "IA",
+          "funding_rate": "영리 70% · 비영리 100%",
+          "budget_eur_million": 20.0,
+          "opening_date": "2027-02-09",
+          "deadlines": [
+            "2027-10-07"
+          ],
+          "practical_conditions_ko": "서로 다른 회원국·준회원국 도시 최소 3곳이 수혜기관으로 참여하고 최소 1곳은 112개 Cities Mission 선정 도시여야 합니다. 지방정부 또는 명시적 동의를 받은 법인이 대표하며 실제·가상 실증 합계 최소 3개, 종료 TRL 7~8입니다. 중국 지배 법인은 제외됩니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 7000000,
+              "maximum": 7000000,
+              "expected_grants": 3
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-MISS-2027-04-CIT-02",
+          "title": "Hydrogen cities",
+          "korean_title": "수소 도시",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-miss-2027-04-cit-02.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2027-04-cit-02",
+          "action_type": "CSA",
+          "funding_rate": "100%",
+          "budget_eur_million": 5.0,
+          "opening_date": "2027-02-09",
+          "deadlines": [
+            "2027-10-07"
+          ],
+          "practical_conditions_ko": "재생 수소 활용을 위한 도시 간 멘토·멘티 협력과 로드맵을 지원하는 CSA입니다. Cities Mission 플랫폼과의 협약·협력 예산이 필요합니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 5000000,
+              "maximum": 5000000,
+              "expected_grants": 1
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-MISS-2027-04-CIT-03",
+          "title": "Inclusive and climate resilient multimodal passenger hubs enhancing modal shift towards sustainable transport and shared mobility",
+          "korean_title": "지속가능 교통·공유 모빌리티 전환을 위한 포용적·기후 회복력 있는 복합 여객 거점",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-miss-2027-04-cit-03.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2027-04-cit-03",
+          "action_type": "IA",
+          "funding_rate": "영리 70% · 비영리 100%",
+          "budget_eur_million": 18.0,
+          "opening_date": "2027-02-09",
+          "deadlines": [
+            "2027-10-07"
+          ],
+          "practical_conditions_ko": "서로 다른 회원국·준회원국 도시 최소 3곳이 수혜기관으로 참여하고, 최소 1곳은 Cities Mission 선정 도시이며 최소 1곳은 TEN-T 도시 거점이어야 합니다. 과제당 실증 최소 3개, 종료 TRL 최소 8이며 중국 지배 법인은 제외됩니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 9000000,
+              "maximum": 9000000,
+              "expected_grants": 2
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-MISS-2027-04-CIT-05",
+          "title": "Boosting the transformation towards climate-neutral cities, the net-zero economy and open strategic autonomy through Pre-Commercial Procurement (PCP)",
+          "korean_title": "상용화 전 공공조달을 통한 기후중립 도시·넷제로 경제·개방형 전략자율성 전환",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-miss-2027-04-cit-05.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2027-04-cit-05",
+          "action_type": "PCP",
+          "funding_rate": "100%",
+          "budget_eur_million": 26.823812,
+          "opening_date": "2027-02-09",
+          "deadlines": [
+            "2027-10-07"
+          ],
+          "practical_conditions_ko": "PCP 구매기관 컨소시엄 지원입니다. 개발 기업의 직접 R&D 보조금 신청 대신 후속 입찰 참여가 가능합니다. General Annex H의 구매기관 구성·수행지·상용화 조건을 적용합니다. 최종 사용자의 솔루션 도입을 위한 제3자 지원은 대상당 최대 €200,000입니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 7000000,
+              "maximum": 12000000,
+              "expected_grants": 3
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-MISS-2027-04-CIT-CCRI-04",
+          "title": "Advancing circular logistics solutions in cities",
+          "korean_title": "도시 순환 물류 솔루션 확산",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-miss-2027-04-cit-ccri-04.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2027-04-cit-ccri-04",
+          "action_type": "IA",
+          "funding_rate": "영리 70% · 비영리 100%",
+          "budget_eur_million": 22.5,
+          "opening_date": "2027-02-09",
+          "deadlines": [
+            "2027-10-07"
+          ],
+          "practical_conditions_ko": "서로 다른 회원국·준회원국 도시 최소 3곳이 수혜기관으로 참여하며 최소 1곳은 Cities Mission 선정 도시여야 합니다. 중국 지배 법인은 제외됩니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 7500000,
+              "maximum": 7500000,
+              "expected_grants": 3
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        }
+      ]
+    },
+    {
+      "call_id": "HORIZON-MISS-2027-05-two-stage",
+      "decision": "verified",
+      "reason": "Published with topic-specific eligibility and scope conditions.",
+      "work_programme": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-12-missions_horizon-2026-2027_en.pdf",
+      "topic_count": 6,
+      "topics": [
+        {
+          "topic_id": "HORIZON-MISS-2027-05-SOIL-01-two-stage",
+          "title": "Living labs to enhance soil health in Continental, Black Sea, Pannonian and Steppic biogeographical regions",
+          "korean_title": "대륙·흑해·판노니아·스텝 생물지리 지역의 토양 건강 리빙랩",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-miss-2027-05-soil-01-two-stage.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2027-05-soil-01-two-stage",
+          "action_type": "RIA",
+          "funding_rate": "100%",
+          "budget_eur_million": 24.0,
+          "opening_date": "2027-02-04",
+          "deadlines": [
+            "2027-04-08",
+            "2027-09-14"
+          ],
+          "practical_conditions_ko": "4~5개 리빙랩을 구성하고 최소 3개 회원국·준회원국에 배치합니다. 대부분의 리빙랩은 선택한 생물지리 지역에 있어야 하며 다중 이해관계자 접근이 필수입니다. 소규모 참여자의 제3자 지원은 대상당 최대 €60,000입니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 12000000,
+              "maximum": 12000000,
+              "expected_grants": 2
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-MISS-2027-05-SOIL-02-two-stage",
+          "title": "Living Labs for co-creating solutions to reduce eutrophication from agriculture",
+          "korean_title": "농업 유래 부영양화 저감 솔루션을 공동 개발하는 리빙랩",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-miss-2027-05-soil-02-two-stage.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2027-05-soil-02-two-stage",
+          "action_type": "RIA",
+          "funding_rate": "100%",
+          "budget_eur_million": 24.0,
+          "opening_date": "2027-02-04",
+          "deadlines": [
+            "2027-04-08",
+            "2027-09-14"
+          ],
+          "practical_conditions_ko": "최소 3개 회원국·준회원국에서 4~5개 리빙랩을 운영하며 각 리빙랩은 작은 하천 유역을 대상으로 합니다. 질산염 취약 지역 또는 자료로 입증한 부영양화 지역을 선택하고 다중 이해관계자 접근을 적용합니다. 제3자 지원은 대상당 최대 €60,000입니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 12000000,
+              "maximum": 12000000,
+              "expected_grants": 2
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-MISS-2027-05-SOIL-03-two-stage",
+          "title": "Agroforestry for soil health at landscape level",
+          "korean_title": "경관 수준의 토양 건강을 위한 혼농임업",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-miss-2027-05-soil-03-two-stage.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2027-05-soil-03-two-stage",
+          "action_type": "IA",
+          "funding_rate": "영리 70% · 비영리 100%",
+          "budget_eur_million": 16.0,
+          "opening_date": "2027-02-04",
+          "deadlines": [
+            "2027-04-08",
+            "2027-09-14"
+          ],
+          "practical_conditions_ko": "농업·임업 주체, 연구·기업·행정·시민사회를 포함하는 다중 이해관계자 접근과 Agroecology 파트너십 과제 협력이 필수입니다. 제3자 지원은 대상당 최대 €60,000입니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 8000000,
+              "maximum": 8000000,
+              "expected_grants": 2
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-MISS-2027-05-SOIL-04-two-stage",
+          "title": "Participatory research on the health of communities in contact with polluted soils",
+          "korean_title": "오염 토양에 접촉하는 지역사회의 건강에 관한 참여형 연구",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-miss-2027-05-soil-04-two-stage.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2027-05-soil-04-two-stage",
+          "action_type": "RIA",
+          "funding_rate": "100%",
+          "budget_eur_million": 11.0,
+          "opening_date": "2027-02-04",
+          "deadlines": [
+            "2027-04-08",
+            "2027-09-14"
+          ],
+          "practical_conditions_ko": "오염지에서 생활·근무하는 주민의 참여형 연구와 건강영향·정화·규제 대응을 다룹니다. 오염 활동 기업을 이해관계자로 참여시키고 지역사회 기반의 연구 설계를 제시합니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 5500000,
+              "maximum": 5500000,
+              "expected_grants": 2
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-MISS-2027-05-SOIL-05-two-stage",
+          "title": "Innovative biotechnologies to restore soil health and improve agricultural competitiveness and resilience",
+          "korean_title": "토양 건강 복원·농업 경쟁력·회복력을 위한 혁신적 생명공학",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-miss-2027-05-soil-05-two-stage.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2027-05-soil-05-two-stage",
+          "action_type": "IA",
+          "funding_rate": "영리 70% · 비영리 100%",
+          "budget_eur_million": 12.8,
+          "opening_date": "2027-02-04",
+          "deadlines": [
+            "2027-04-08",
+            "2027-09-14"
+          ],
+          "practical_conditions_ko": "다중 이해관계자 접근을 적용하고 연구·중소기업·투자자·제조·유통·최종 사용자 등을 포함합니다. 종료 TRL 5~6을 목표로 합니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 6400000,
+              "maximum": 6400000,
+              "expected_grants": 2
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-MISS-2027-05-SOIL-06-two-stage",
+          "title": "Long-term drivers and consequences of soil degradation: learning from the past to improve future soil health",
+          "korean_title": "토양 퇴화의 장기 원인과 결과: 과거에서 배우는 미래 토양 건강",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-miss-2027-05-soil-06-two-stage.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2027-05-soil-06-two-stage",
+          "action_type": "RIA",
+          "funding_rate": "100%",
+          "budget_eur_million": 7.0,
+          "opening_date": "2027-02-04",
+          "deadlines": [
+            "2027-04-08",
+            "2027-09-14"
+          ],
+          "practical_conditions_ko": "토양·환경 과학과 역사·고고학 등 인문사회 분야를 결합합니다. TRL 4를 초과하는 특정 기술 개발은 범위에서 제외됩니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 7000000,
+              "maximum": 7000000,
+              "expected_grants": 1
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        }
+      ]
+    },
+    {
+      "call_id": "HORIZON-MISS-2027-06",
+      "decision": "verified",
+      "reason": "Published with topic-specific eligibility and scope conditions.",
+      "work_programme": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-12-missions_horizon-2026-2027_en.pdf",
+      "topic_count": 1,
+      "topics": [
+        {
+          "topic_id": "HORIZON-MISS-2027-06-SOIL-CANCER",
+          "title": "Living labs to monitor and mitigate carcinogenic substances in and originating from soils: Evaluating their effects on human cancer risks",
+          "korean_title": "토양 유래 발암물질 감시·저감과 인체 암 위험 평가 리빙랩",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-miss-2027-06-soil-cancer.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2027-06-soil-cancer",
+          "action_type": "RIA",
+          "funding_rate": "100%",
+          "budget_eur_million": 24.0,
+          "opening_date": "2027-02-04",
+          "deadlines": [
+            "2027-09-21"
+          ],
+          "practical_conditions_ko": "4~5개 리빙랩을 최소 3개 회원국·준회원국에 구성하고 다중 이해관계자 접근을 적용합니다. 인체 연구의 동의·윤리 요건과 토양·암 전문성의 결합이 필요합니다. 제3자 지원은 대상당 최대 €60,000입니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 12000000,
+              "maximum": 12000000,
+              "expected_grants": 2
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        }
+      ]
+    },
+    {
+      "call_id": "HORIZON-MISS-2027-07",
+      "decision": "verified",
+      "reason": "Published with topic-specific eligibility and scope conditions.",
+      "work_programme": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-12-missions_horizon-2026-2027_en.pdf",
+      "topic_count": 2,
+      "topics": [
+        {
+          "topic_id": "HORIZON-MISS-2027-07-CLIMA-CIT-CCRI-02",
+          "title": "Deploying innovative wastewater management, treatment and valorisation solutions in European cities and regions in the context of climate change",
+          "korean_title": "유럽 도시·지역의 혁신적 폐수 관리·처리·자원화 실증",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-miss-2027-07-clima-cit-ccri-02.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2027-07-clima-cit-ccri-02",
+          "action_type": "IA",
+          "funding_rate": "영리 70% · 비영리 100%",
+          "budget_eur_million": 28.5,
+          "opening_date": "2027-02-09",
+          "deadlines": [
+            "2027-09-22"
+          ],
+          "practical_conditions_ko": "서로 다른 회원국·준회원국 도시·지역 최소 4곳의 법인이 수혜기관으로 참여합니다. 최소 1곳은 Cities Mission 선정 도시, 최소 1곳은 Adaptation Mission Charter 서명 지역이어야 합니다. 실증 도시·지역 최소 2곳과 복제 대상 최소 2곳, 지역 물 관리기관 참여, 종료 TRL 7~8이 요구됩니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 9500000,
+              "maximum": 9500000,
+              "expected_grants": 3
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-MISS-2027-07-CLIMA-CIT-NEB-01",
+          "title": "Urban nature: supporting restoration of urban ecosystems, along urban transport networks and in the built environment  ",
+          "korean_title": "도시 자연: 교통망·건조 환경의 도시 생태계 복원",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-miss-2027-07-clima-cit-neb-01.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-miss-2027-07-clima-cit-neb-01",
+          "action_type": "IA",
+          "funding_rate": "영리 70% · 비영리 100%",
+          "budget_eur_million": 40.0,
+          "opening_date": "2027-02-09",
+          "deadlines": [
+            "2027-09-22"
+          ],
+          "practical_conditions_ko": "서로 다른 회원국·준회원국 도시 최소 4곳의 법인이 수혜기관으로 참여합니다. 최소 1곳은 Cities Mission 선정 도시, 최소 1곳은 Adaptation Mission Charter 서명 도시여야 합니다. 선도 도시 2곳의 실증지 최소 2곳과 교통망·건조 환경 내 사례를 포함하며 종료 TRL 7~8을 목표로 합니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 10000000,
+              "maximum": 10000000,
+              "expected_grants": 4
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        }
+      ]
+    },
+    {
+      "call_id": "HORIZON-NATURE-2027-01",
+      "decision": "verified",
+      "reason": "Published with topic-specific eligibility and scope conditions.",
+      "work_programme": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-14-horizontal-activities_horizon-2026-2027_en.pdf",
+      "topic_count": 3,
+      "topics": [
+        {
+          "topic_id": "HORIZON-NATURE-2027-01-01",
+          "title": "Understanding the nature and the extent of the effects of PFAS on biodiversity and ecosystem services",
+          "korean_title": "PFAS가 생물다양성·생태계 서비스에 미치는 영향의 성격과 범위",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-nature-2027-01-01.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-nature-2027-01-01",
+          "action_type": "RIA",
+          "funding_rate": "100%",
+          "budget_eur_million": 11.44948474,
+          "opening_date": "2026-10-13",
+          "deadlines": [
+            "2027-01-14"
+          ],
+          "practical_conditions_ko": "과불화·폴리플루오로알킬 물질(PFAS)의 생태 영향을 연구합니다. 토픽 예산은 포털의 최신 €11.44948474M을 사용하며 과제당 예상액 €5.7M과 구분합니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 5700000,
+              "maximum": 5700000,
+              "expected_grants": 2
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-NATURE-2027-01-02",
+          "title": "Better understanding, anticipating and addressing the biodiversity benefits and impacts of the clean and digital industries",
+          "korean_title": "청정·디지털 산업의 생물다양성 편익·영향 이해와 대응",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-nature-2027-01-02.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-nature-2027-01-02",
+          "action_type": "RIA",
+          "funding_rate": "100%",
+          "budget_eur_million": 18.0,
+          "opening_date": "2026-10-13",
+          "deadlines": [
+            "2027-01-14"
+          ],
+          "practical_conditions_ko": "최소 3개 EU·준회원국 생물지리 지역과 최소 5개 산업 활동을 다룹니다. 산업 파트너·지방정부·시민사회가 실증·검증에 기여하는 학제 간 연구가 요구됩니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 6000000,
+              "maximum": 6000000,
+              "expected_grants": 3
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-NATURE-2027-01-03",
+          "title": "Systemic approaches to accelerate transformative change for biodiversity",
+          "korean_title": "생물다양성을 위한 전환을 가속하는 시스템 접근",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-nature-2027-01-03.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-nature-2027-01-03",
+          "action_type": "RIA",
+          "funding_rate": "100%",
+          "budget_eur_million": 12.0,
+          "opening_date": "2026-10-13",
+          "deadlines": [
+            "2027-01-14"
+          ],
+          "practical_conditions_ko": "다중 이해관계자 접근을 적용합니다. 제3자 지원은 대상당 최대 €60,000이며 제안 EU 예산의 최대 15%를 배정할 수 있습니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 4000000,
+              "maximum": 4000000,
+              "expected_grants": 3
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        }
+      ]
+    },
+    {
+      "call_id": "HORIZON-NATURE-2027-02",
+      "decision": "verified",
+      "reason": "Published with topic-specific eligibility and scope conditions.",
+      "work_programme": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-14-horizontal-activities_horizon-2026-2027_en.pdf",
+      "topic_count": 5,
+      "topics": [
+        {
+          "topic_id": "HORIZON-NATURE-2027-02-01",
+          "title": "Assessing direct and indirect drivers of biodiversity decline of invertebrates",
+          "korean_title": "무척추동물 생물다양성 감소의 직접·간접 원인 평가",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-nature-2027-02-01.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-nature-2027-02-01",
+          "action_type": "RIA",
+          "funding_rate": "100%",
+          "budget_eur_million": 15.0,
+          "opening_date": "2026-10-13",
+          "deadlines": [
+            "2027-01-14"
+          ],
+          "practical_conditions_ko": "무척추동물 감소의 원인·경로와 생태계 영향을 연구합니다. 관련 과제와의 협력을 위한 작업·예산을 반영해야 합니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 7500000,
+              "maximum": 7500000,
+              "expected_grants": 2
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-NATURE-2027-02-02",
+          "title": "Living labs co-creating solutions for the restoration of ecosystems addressing implementation bottlenecks and improving resilience to risks",
+          "korean_title": "생태계 복원 장애요인 해소·위험 회복력 향상을 위한 솔루션 공동 개발 리빙랩",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-nature-2027-02-02.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-nature-2027-02-02",
+          "action_type": "RIA",
+          "funding_rate": "100%",
+          "budget_eur_million": 60.0,
+          "opening_date": "2026-10-13",
+          "deadlines": [
+            "2027-01-14"
+          ],
+          "practical_conditions_ko": "다중 이해관계자 접근을 적용하고 최소 3개 회원국·준회원국을 포함하는 여러 지역·기후대의 실생활 리빙랩을 설계합니다. 제3자 지원은 대상당 최대 €60,000, 제안 예산의 최대 30%입니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 10000000,
+              "maximum": 10000000,
+              "expected_grants": 6
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-NATURE-2027-02-03",
+          "title": "Networking to scale up living labs for nature restoration solutions and to address bottlenecks to implementation",
+          "korean_title": "자연 복원 리빙랩의 확산과 실행 장애요인 해소 네트워크",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-nature-2027-02-03.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-nature-2027-02-03",
+          "action_type": "CSA",
+          "funding_rate": "100%",
+          "budget_eur_million": 4.0,
+          "opening_date": "2026-10-13",
+          "deadlines": [
+            "2027-01-14"
+          ],
+          "practical_conditions_ko": "다중 이해관계자 접근을 적용하는 CSA로, 리빙랩·등대 사례를 연결하고 회원국·준회원국에 걸친 확산·정책 피드백을 지원합니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 4000000,
+              "maximum": 4000000,
+              "expected_grants": 1
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-NATURE-2027-02-04",
+          "title": "Innovative solutions to fight wildlife trafficking and to reduce invasion of invasive alien species",
+          "korean_title": "야생동물 밀거래 대응·침입외래종 유입 저감을 위한 혁신 솔루션",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-nature-2027-02-04.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-nature-2027-02-04",
+          "action_type": "IA",
+          "funding_rate": "영리 70% · 비영리 100%",
+          "budget_eur_million": 13.0,
+          "opening_date": "2026-10-13",
+          "deadlines": [
+            "2027-01-14"
+          ],
+          "practical_conditions_ko": "최소 3개 회원국·준회원국에서 법 집행·자연보전·환경보호 관련 당국 최소 3개가 수혜기관으로 참여하는 구성을 요구합니다. 종료 TRL 6~7, 보안정보 취급 및 Annex H 조달 조건을 확인해야 하며 중국 지배 법인은 제외됩니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 13000000,
+              "maximum": 13000000,
+              "expected_grants": 1
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-NATURE-2027-02-05",
+          "title": "Cost-effective biodiversity monitoring for EU policies",
+          "korean_title": "EU 정책을 위한 비용효율적 생물다양성 모니터링",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-nature-2027-02-05.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-nature-2027-02-05",
+          "action_type": "RIA",
+          "funding_rate": "100%",
+          "budget_eur_million": 16.0,
+          "opening_date": "2026-10-13",
+          "deadlines": [
+            "2027-01-14"
+          ],
+          "practical_conditions_ko": "생물다양성 모니터링의 비용·표준·기술을 개선합니다. 관련 과제와의 협력 작업·예산을 포함하고 위성 자료 사용 시 Copernicus·Galileo 조건을 적용합니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 5000000,
+              "maximum": 6000000,
+              "expected_grants": 3
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        }
+      ]
+    },
+    {
+      "call_id": "HORIZON-NATURE-2027-03",
+      "decision": "verified",
+      "reason": "Published with topic-specific eligibility and scope conditions.",
+      "work_programme": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-14-horizontal-activities_horizon-2026-2027_en.pdf",
+      "topic_count": 1,
+      "topics": [
+        {
+          "topic_id": "HORIZON-NATURE-2027-03-01",
+          "title": "Advancing interdisciplinary, data-driven research at the biodiversity- health interface under a One Health approach",
+          "korean_title": "One Health에 따른 생물다양성·건강 연계의 학제 간 데이터 기반 연구",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-nature-2027-03-01.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-nature-2027-03-01",
+          "action_type": "RIA",
+          "funding_rate": "100%",
+          "budget_eur_million": 20.0,
+          "opening_date": "2027-06-03",
+          "deadlines": [
+            "2027-09-16"
+          ],
+          "practical_conditions_ko": "서로 독립적인 법인 최소 7개가 서로 다른 국가에 설립되어 있어야 하며 그중 최소 1개는 EU 회원국, 나머지 최소 6개는 회원국·준회원국 법인입니다. 최소 6개 활용 사례를 개발하고 인체 건강과의 연계가 필수입니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 20000000,
+              "maximum": 20000000,
+              "expected_grants": 1
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        }
+      ]
+    },
+    {
+      "call_id": "HORIZON-NATURE-2027-04",
+      "decision": "verified",
+      "reason": "Published with topic-specific eligibility and scope conditions.",
+      "work_programme": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-14-horizontal-activities_horizon-2026-2027_en.pdf",
+      "topic_count": 1,
+      "topics": [
+        {
+          "topic_id": "HORIZON-NATURE-2027-04-01",
+          "title": "A stronger Global Ocean Observing System to enhance Europe’s strategic autonomy, climate resilience and biodiversity conservation",
+          "korean_title": "유럽 전략자율성·기후 회복력·생물다양성을 위한 글로벌 해양 관측 강화",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-nature-2027-04-01.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-nature-2027-04-01",
+          "action_type": "IA",
+          "funding_rate": "영리 70% · 비영리 100%",
+          "budget_eur_million": 50.0,
+          "opening_date": "2026-10-06",
+          "deadlines": [
+            "2027-02-16"
+          ],
+          "practical_conditions_ko": "중국의 직접·간접 지배를 받는 법인은 참여할 수 없습니다. 현장 해양 관측자료는 FAIR 원칙에 따라 EMODnet에 공개해야 합니다. 관측 기술 실증·조달 준비·지속적 운영을 결합하며 국제기구의 지원 자격에 별도 예외가 있습니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 50000000,
+              "maximum": 50000000,
+              "expected_grants": 1
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        }
+      ]
+    },
+    {
+      "call_id": "HORIZON-NEB-2027-01",
+      "decision": "verified",
+      "reason": "Published with topic-specific eligibility and scope conditions.",
+      "work_programme": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-13-new-european-bauhaus-facility_horizon-2026-2027_en.pdf",
+      "topic_count": 10,
+      "topics": [
+        {
+          "topic_id": "HORIZON-NEB-2027-01-BUSINESS-01",
+          "title": "Mass customisation of offsite manufactured modular construction components to transform the existing built environment",
+          "korean_title": "기존 건조 환경 전환을 위한 공장 제작 모듈형 건축 부품의 대량 맞춤화",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-neb-2027-01-business-01.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-neb-2027-01-business-01",
+          "action_type": "IA",
+          "funding_rate": "영리 70% · 비영리 100%",
+          "budget_eur_million": 10.0,
+          "opening_date": "2027-05-05",
+          "deadlines": [
+            "2027-12-01"
+          ],
+          "practical_conditions_ko": "최소 3개 회원국·준회원국의 운영 환경에서 실증해야 하며 중국 지배 법인은 제외됩니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 5000000,
+              "maximum": 5000000,
+              "expected_grants": 2
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-NEB-2027-01-BUSINESS-02",
+          "title": "Innovative models for collective community investment and ownership",
+          "korean_title": "지역사회 공동 투자·소유권의 혁신 모델",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-neb-2027-01-business-02.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-neb-2027-01-business-02",
+          "action_type": "RIA",
+          "funding_rate": "100%",
+          "budget_eur_million": 10.5,
+          "opening_date": "2027-05-05",
+          "deadlines": [
+            "2027-12-01"
+          ],
+          "practical_conditions_ko": "서로 다른 회원국·준회원국의 지역사회 최소 3곳에서 모델을 개발·검증합니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 3500000,
+              "maximum": 3500000,
+              "expected_grants": 3
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-NEB-2027-01-BUSINESS-03",
+          "title": "Anticipating the long-term future of neighbourhoods in line with the New European Bauhaus",
+          "korean_title": "뉴 유러피언 바우하우스에 맞춘 지역사회의 장기 미래 예측",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-neb-2027-01-business-03.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-neb-2027-01-business-03",
+          "action_type": "RIA",
+          "funding_rate": "100%",
+          "budget_eur_million": 7.0,
+          "opening_date": "2027-05-05",
+          "deadlines": [
+            "2027-12-01"
+          ],
+          "practical_conditions_ko": "서로 다른 회원국·준회원국의 지역사회 최소 3곳에서 참여형 미래예측 접근을 개발·검증합니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 3500000,
+              "maximum": 3500000,
+              "expected_grants": 2
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-NEB-2027-01-PARTICIPATION-01",
+          "title": "The transformative potential of co-governance in the green transition of neighbourhoods",
+          "korean_title": "지역사회 녹색전환에서 공동 거버넌스의 전환 잠재력",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-neb-2027-01-participation-01.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-neb-2027-01-participation-01",
+          "action_type": "IA",
+          "funding_rate": "영리 70% · 비영리 100%",
+          "budget_eur_million": 10.76,
+          "opening_date": "2027-05-05",
+          "deadlines": [
+            "2027-12-01"
+          ],
+          "practical_conditions_ko": "최소 3개 회원국·준회원국의 다양한 지역사회에서 공동 거버넌스를 실증하며 제3자 지원은 대상당 최대 €150,000입니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 5380000,
+              "maximum": 5380000,
+              "expected_grants": 2
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-NEB-2027-01-PARTICIPATION-02",
+          "title": "Intergenerational neighbourhoods and communities aligned with the New European Bauhaus",
+          "korean_title": "뉴 유러피언 바우하우스에 맞춘 세대 통합 지역사회",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-neb-2027-01-participation-02.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-neb-2027-01-participation-02",
+          "action_type": "IA",
+          "funding_rate": "영리 70% · 비영리 100%",
+          "budget_eur_million": 10.5,
+          "opening_date": "2027-05-05",
+          "deadlines": [
+            "2027-12-01"
+          ],
+          "practical_conditions_ko": "서로 다른 회원국·준회원국의 도시·도시 주변·농촌 지역사회 최소 3곳에서 최소 3개 세대 통합 솔루션을 실증합니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 5250000,
+              "maximum": 5250000,
+              "expected_grants": 2
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-NEB-2027-01-PARTICIPATION-03",
+          "title": "Novel combinations of knowledge and research methods to address social issues and advance a fair green transition of neighbourhoods",
+          "korean_title": "지역사회의 공정한 녹색전환·사회문제 해결을 위한 지식·연구방법 결합",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-neb-2027-01-participation-03.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-neb-2027-01-participation-03",
+          "action_type": "RIA",
+          "funding_rate": "100%",
+          "budget_eur_million": 14.0,
+          "opening_date": "2027-05-05",
+          "deadlines": [
+            "2027-12-01"
+          ],
+          "practical_conditions_ko": "서로 다른 회원국·준회원국의 도시·도시 주변·농촌 지역사회 최소 3곳에서 새 연구 접근을 검증합니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 3500000,
+              "maximum": 3500000,
+              "expected_grants": 4
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-NEB-2027-01-REGEN-01",
+          "title": "Combining conventional and innovative construction materials, products and techniques for sustainable and beautiful buildings",
+          "korean_title": "지속가능하고 아름다운 건물을 위한 기존·혁신 건축 재료·제품·기법 결합",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-neb-2027-01-regen-01.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-neb-2027-01-regen-01",
+          "action_type": "RIA",
+          "funding_rate": "100%",
+          "budget_eur_million": 12.0,
+          "opening_date": "2027-05-05",
+          "deadlines": [
+            "2027-12-01"
+          ],
+          "practical_conditions_ko": "건축재·제품·기법의 결합을 연구하며 종료 TRL 4~5를 목표로 합니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 4000000,
+              "maximum": 4000000,
+              "expected_grants": 3
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-NEB-2027-01-REGEN-02",
+          "title": "Sustainable, beautiful and healthy construction and renovation sites",
+          "korean_title": "지속가능하고 아름답고 건강한 건설·개보수 현장",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-neb-2027-01-regen-02.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-neb-2027-01-regen-02",
+          "action_type": "RIA",
+          "funding_rate": "100%",
+          "budget_eur_million": 8.0,
+          "opening_date": "2027-05-05",
+          "deadlines": [
+            "2027-12-01"
+          ],
+          "practical_conditions_ko": "건설·개보수 현장의 지속가능성·미관·건강을 개선하며 종료 TRL 4~5를 목표로 합니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 4000000,
+              "maximum": 4000000,
+              "expected_grants": 2
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-NEB-2027-01-REGEN-03",
+          "title": "Revitalising neighbourhoods around existing railway and motorway corridors",
+          "korean_title": "기존 철도·고속도로 주변 지역사회 재생",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-neb-2027-01-regen-03.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-neb-2027-01-regen-03",
+          "action_type": "IA",
+          "funding_rate": "영리 70% · 비영리 100%",
+          "budget_eur_million": 11.0,
+          "opening_date": "2027-05-05",
+          "deadlines": [
+            "2027-12-01"
+          ],
+          "practical_conditions_ko": "서로 다른 회원국·준회원국에서 도시·도시 주변·농촌 지역사회 각 1곳에 대응하는 3곳에서 실증합니다. 종료 TRL 6~8, 제3자 지원 대상당 최대 €100,000입니다. 식별자 끝에 -CANCELLED가 붙은 별도 기록은 취소된 기록으로 이 토픽과 구분됩니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 5500000,
+              "maximum": 5500000,
+              "expected_grants": 2
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-NEB-2027-01-REGEN-04",
+          "title": "Enabling environments for a sustainable and circular construction sector",
+          "korean_title": "지속가능한 순환 건설산업을 위한 실행 환경 조성",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-neb-2027-01-regen-04.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-neb-2027-01-regen-04",
+          "action_type": "IA",
+          "funding_rate": "영리 70% · 비영리 100%",
+          "budget_eur_million": 9.0,
+          "opening_date": "2027-05-05",
+          "deadlines": [
+            "2027-12-01"
+          ],
+          "practical_conditions_ko": "종료 TRL 6~8을 목표로 하며 NEB Academy·성과 및 영향 허브와의 협력에 최소 0.8% 예산을 배정합니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 4500000,
+              "maximum": 4500000,
+              "expected_grants": 2
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        }
+      ]
+    },
+    {
+      "call_id": "HORIZON-NEB-2027-02",
+      "decision": "verified",
+      "reason": "Published with topic-specific eligibility and scope conditions.",
+      "work_programme": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-13-new-european-bauhaus-facility_horizon-2026-2027_en.pdf",
+      "topic_count": 1,
+      "topics": [
+        {
+          "topic_id": "HORIZON-NEB-2027-02-NEB-SOIL-01",
+          "title": "Reducing soil sealing through sustainable urban and territorial design in the New European Bauhaus",
+          "korean_title": "바우하우스의 지속가능 도시·국토 설계로 토양 밀폐 저감",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-neb-2027-02-neb-soil-01.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-neb-2027-02-neb-soil-01",
+          "action_type": "IA",
+          "funding_rate": "영리 70% · 비영리 100%",
+          "budget_eur_million": 15.0,
+          "opening_date": "2027-05-05",
+          "deadlines": [
+            "2027-09-15"
+          ],
+          "practical_conditions_ko": "개발한 각 솔루션을 서로 다른 회원국·준회원국의 지역사회 최소 3곳(도시·도시 주변·농촌 각 1곳 이상)에서 실증하고 시민·예술·건축·기술·지방정부의 공동 설계를 적용합니다. 종료 TRL 6~8을 목표로 합니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 7500000,
+              "maximum": 7500000,
+              "expected_grants": 2
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        }
+      ]
+    },
+    {
+      "call_id": "HORIZON-RAISE-2026-01-MSCA",
+      "decision": "excluded",
+      "reason": "MSCA Doctoral Networks 2026 rules apply; Korea is associated only to Pillar II. Korean organisations may participate as self-funded associated partners, but no automatic Korean beneficiary funding was verified.",
+      "work_programme": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-2-marie-sklodowska-curie-actions_horizon-2026-2027_en.pdf",
+      "topic_count": 1,
+      "topics": [
+        {
+          "topic_id": "HORIZON-RAISE-2026-01-03",
+          "title": "RAISE Doctoral Networks for AI in Science (RAISE pilot)",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-raise-2026-01-03.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-raise-2026-01-03",
+          "opening_date": "2026-05-28",
+          "deadlines": [
+            "2026-11-24"
+          ],
+          "api_budgets": [
+            {
+              "action": "HORIZON-RAISE-2026-01-03 - HORIZON-TMA-MSCA-DN HORIZON TMA MSCA Doctoral Networks",
+              "budgetYearMap": {
+                "2026": "30000000"
+              },
+              "minContribution": 0,
+              "maxContribution": 0,
+              "expectedGrants": 0
+            },
+            {
+              "action": "HORIZON-RAISE-2026-01-03 - HORIZON-TMA-MSCA-DN-JD HORIZON TMA MSCA Doctoral Networks - Joint Doctorates",
+              "budgetYearMap": {
+                "2026": "30000000"
+              },
+              "minContribution": 0,
+              "maxContribution": 0,
+              "expectedGrants": 0
+            },
+            {
+              "action": "HORIZON-RAISE-2026-01-03 - HORIZON-TMA-MSCA-DN-ID HORIZON TMA MSCA Doctoral Networks - Industrial Doctorates",
+              "budgetYearMap": {
+                "2026": "30000000"
+              },
+              "minContribution": 0,
+              "maxContribution": 0,
+              "expectedGrants": 0
+            }
+          ],
+          "decision": "excluded",
+          "reason": "MSCA Doctoral Networks 2026 rules apply; Korea is associated only to Pillar II. Korean organisations may participate as self-funded associated partners, but no automatic Korean beneficiary funding was verified.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 0,
+              "maximum": 0,
+              "expected_grants": 0
+            },
+            {
+              "minimum": 0,
+              "maximum": 0,
+              "expected_grants": 0
+            },
+            {
+              "minimum": 0,
+              "maximum": 0,
+              "expected_grants": 0
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        }
+      ]
+    },
+    {
+      "call_id": "HORIZON-RAISE-2027-01",
+      "decision": "verified",
+      "reason": "Published with topic-specific eligibility and scope conditions.",
+      "work_programme": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-14-horizontal-activities_horizon-2026-2027_en.pdf",
+      "topic_count": 3,
+      "topics": [
+        {
+          "topic_id": "HORIZON-RAISE-2027-01-01",
+          "title": "Automated Scientific Discovery - Materials Science (RAISE pilot) (RIA)",
+          "korean_title": "자동화된 과학 발견: 재료과학",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-raise-2027-01-01.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-raise-2027-01-01",
+          "action_type": "RIA",
+          "funding_rate": "100%",
+          "budget_eur_million": 26.5,
+          "opening_date": "2026-10-13",
+          "deadlines": [
+            "2027-02-02"
+          ],
+          "practical_conditions_ko": "AI 기반 재료과학의 자동화된 발견·실험·검증을 연구하고 기존 Horizon·RAISE 과제와의 시너지를 설계합니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 9000000,
+              "maximum": 9000000,
+              "expected_grants": 3
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-RAISE-2027-01-02",
+          "title": "Automated Scientific Discovery – Food (RAISE pilot)",
+          "korean_title": "자동화된 과학 발견: 식품",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-raise-2027-01-02.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-raise-2027-01-02",
+          "action_type": "RIA",
+          "funding_rate": "100%",
+          "budget_eur_million": 3.0,
+          "opening_date": "2026-10-13",
+          "deadlines": [
+            "2027-02-02"
+          ],
+          "practical_conditions_ko": "이미 자동화·디지털화된 실험실에 AI 의사결정·데이터 인프라를 결합하는 폐루프 실험을 개발·검증합니다. 식품 분야의 바이오매스·정밀발효, 대체 단백질·지방·식품 원료 등이 적용 대상이며, 기존 설비를 전면 교체하기보다 소프트웨어 중심으로 연결합니다.",
+          "budget_note": "Current Portal topic allocation.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 3000000,
+              "maximum": 3000000,
+              "expected_grants": 1
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        },
+        {
+          "topic_id": "HORIZON-RAISE-2027-01-04",
+          "title": "Developing a model for a Data Lab for Science linking with EOSC and RAISE (RAISE pilot) (CSA)",
+          "korean_title": "EOSC·RAISE와 연결되는 과학 데이터 랩 모델 개발",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-raise-2027-01-04.json",
+          "portal_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-raise-2027-01-04",
+          "action_type": "CSA",
+          "funding_rate": "100%",
+          "budget_eur_million": 1,
+          "opening_date": "2026-10-13",
+          "deadlines": [
+            "2027-02-02"
+          ],
+          "practical_conditions_ko": "유럽오픈사이언스클라우드(EOSC)·RAISE와 연결되는 데이터 랩 모델을 개발하는 CSA입니다. API 예산 칸은 비어 있으나 Work Programme 공고 예산표의 €1M 배분을 확인했습니다.",
+          "budget_note": "Missing API budgetYearMap recovered from Horizontal Activities call overview, Part 14 p.8.",
+          "expected_contributions_eur": [
+            {
+              "minimum": 1000000,
+              "maximum": 1000000,
+              "expected_grants": 1
+            }
+          ],
+          "checks_completed": [
+            "official identity and active/cancelled status",
+            "opening and all deadlines",
+            "exact official title and scope",
+            "action type and funding rate",
+            "topic/call budget distinction",
+            "Korean participation and funding scope",
+            "country and ownership/control restrictions",
+            "beneficiary and consortium requirements",
+            "geographic and predecessor-project requirements",
+            "procurement and cascade-support route"
+          ]
+        }
+      ]
+    }
+  ]
+}

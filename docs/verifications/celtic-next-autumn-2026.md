@@ -9,6 +9,16 @@ One dated section per verification pass, newest first. Every claim on the progra
 page is mapped to the source that supports it, so the page can be re-checked
 claim by claim.
 
+## 2026-10-06 — targeted recheck
+
+Open item: CELTIC official HTML says 26 October 23:59 CEST; Eureka programme API says CET. Do not resolve conflicting official sources by assuming an offset. Page now flags the discrepancy. Operator launch page says 10 July while its overview table says 12 July; launch date also flagged below.
+
+Removed the unqualified launch-event date: dedicated launch webpage says Friday 10 July, overview table says 12 July.
+
+Scope: targeted corrections only; historical full-verification dates are unchanged. See [_crosscheck-2026-10-06.md](_crosscheck-2026-10-06.md) for scope and limitations.
+
+Source: [Eureka official programme record](https://www.eurekanetwork.org/wp-json/wp/v2/programmes/2784) and operator webpages listed in this log.
+
 ## Sources
 
 | # | Source | Access note |
