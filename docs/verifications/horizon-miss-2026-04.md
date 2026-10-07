@@ -5,6 +5,19 @@ last_verified: "2026-09-28"
 
 # Verification log — Horizon Europe 2026 · Climate-Neutral and Smart Cities Mission
 
+## 2026-10-06 — targeted recheck
+
+Refreshed official English title references; historical translation tables are preserved. Whitespace normalized only.
+
+| Topic ID | Official portal title | Korean translation |
+| :--- | :--- | :--- |
+| CIT-NEB-B4P-CCRI-03 | Introducing circular economy models in the construction sector, from buildings to city scale | 건축물부터 도시 규모까지 건설 부문의 순환경제 모델 도입 |
+| CIT-01 | Energy efficient urban and sub-urban public transport, complemented by shared mobility | 공유 모빌리티를 결합한 에너지 효율적 도시·교외 대중교통 |
+| CIT-02 | Transition to low-temperature heating solutions in multi-apartment buildings | 공동주택의 저온 난방 솔루션 전환 |
+
+
+Scope: targeted corrections only; historical full-verification dates are unchanged. See [_crosscheck-2026-10-06.md](_crosscheck-2026-10-06.md) for scope and limitations.
+
 ## Sources
 
 | # | Source | Access note |

@@ -9,6 +9,12 @@ One dated section per verification pass, newest first. Key claims on the program
 page (front matter, bold statements, and table rows) are mapped to the sources
 that support them, so the page can be re-checked claim by claim.
 
+## 2026-10-06 — targeted recheck
+
+Fresh K-PASS HTML contains notice 2026-545 and application period 2026-08-11 to 2026-11-04, marked open. The German ministry announcement also states 4 November. Domestic funding attachment conditions were not fully reverified. Source: [K-PASS P3095](https://www.k-pass.kr/notice/ancView.do?ancId=P3095&gubun=NEW).
+
+Historical full-verification date unchanged. See [_crosscheck-2026-10-06.md](_crosscheck-2026-10-06.md) for scope and open items.
+
 ## Sources
 
 | # | Source | Access note |

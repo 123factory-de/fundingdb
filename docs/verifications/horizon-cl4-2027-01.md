@@ -9,6 +9,14 @@ One dated section per verification pass, newest first. Key claims on the program
 page (front matter, bold statements, and table rows) are mapped to the sources
 that support them, so the page can be re-checked claim by claim.
 
+## 2026-10-06 — targeted recheck
+
+Opening corrected from 22 September to 13 October 2026; cross-references use the current €224.7M INDUSTRY total. Confirmed in the official Part 7 PDF, call tables on printed pages 17–22, and portal topic data.
+
+Scope: targeted corrections only; historical full-verification dates are unchanged. See [_crosscheck-2026-10-06.md](_crosscheck-2026-10-06.md) for scope and limitations.
+
+Source: [official Work Programme Part 7](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf), fetched anew on 2026-10-06.
+
 ## Sources
 
 | # | Source | Access note |

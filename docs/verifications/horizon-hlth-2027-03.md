@@ -9,6 +9,29 @@ One dated section per verification pass, newest first. Key claims on the program
 page (front matter, bold statements, and table rows) are mapped to the sources
 that support them, so the page can be re-checked claim by claim.
 
+## 2026-10-06 — targeted recheck
+
+TOOL-08 title now reads “Towards the next generation of frontier Artificial Intelligence models for healthcare”; translated title updated. The portal public page is a JavaScript shell in this client; title confirmed against its official topic-data endpoint, not claimed as a browser rendering check.
+
+Refreshed official English title references; historical translation tables are preserved. Whitespace normalized only.
+
+| Topic ID | Official portal title | Korean translation |
+| :--- | :--- | :--- |
+| TOOL-02 | Advancing bio-printing of living cells for regenerative medicine | 재생의학용 생세포 바이오프린팅 고도화 |
+| TOOL-04 | Virtual Human Twins (VHTs) for integrated clinical decision support in prevention and diagnosis | 예방·진단 통합 임상의사결정 지원용 가상 인간 트윈 |
+| TOOL-08 | Towards the next generation of frontier Artificial Intelligence models for healthcare | 헬스케어를 위한 차세대 프런티어 인공지능 모델 |
+
+
+Scope: targeted corrections only; historical full-verification dates are unchanged. See [_crosscheck-2026-10-06.md](_crosscheck-2026-10-06.md) for scope and limitations.
+
+## 2026-10-06 — schedule refresh
+
+Checked the official [Portal bulk dataset](https://ec.europa.eu/info/funding-tenders/opportunities/data/referenceData/grantsTenders.json), current topic JSON actions, and [Health Work Programme](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-4-health_horizon-2026-2027_en.pdf) call overview. Updated opening/deadline dates in front matter and body together.
+
+Opening remains 2027-06-03; deadline: 2027-09-16, 17:00 Brussels local time.
+
+This is a targeted date/wording check; prior full-verification dates are retained. Other claims were not re-certified by this update.
+
 ## Sources
 
 | # | Source | Access note |

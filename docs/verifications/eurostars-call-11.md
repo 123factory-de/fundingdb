@@ -9,6 +9,12 @@ One dated section per verification pass, newest first. Key claims on the program
 page (front matter, bold statements, and table rows) are mapped to the sources
 that support them, so the page can be re-checked claim by claim.
 
+## 2026-10-06 — targeted recheck
+
+Official Eureka webpage confirms the closed 10 September 2026 round but its event header says 14:00 CEST and body says 14:00 CET. Flagged the historical timezone inconsistency on the page without choosing one offset. Source: [official Call 11 webpage](https://www.eurekanetwork.org/programmes-and-calls/eurostars/eurostars-call-for-projects-september-2026/).
+
+Historical full-verification date unchanged. See [_crosscheck-2026-10-06.md](_crosscheck-2026-10-06.md) for scope and open items.
+
 ## Sources
 
 | # | Source | Access note |

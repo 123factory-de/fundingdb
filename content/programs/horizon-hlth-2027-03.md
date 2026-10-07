@@ -5,7 +5,7 @@ weight: 105
 tags: ["horizon"]
 status: "planned"
 open_date: "2027-06-03"
-deadline: "2027-09-22"
+deadline: "2027-09-16"
 amount: "콜 총 €81.5M · 과제당 통상 100만~1,000만 유로"
 amount_short: "과제당 수십억 원"
 target: "기업·대학·연구소"
@@ -28,9 +28,9 @@ verified: "2026-08-18"
 
 ## 개요
 
-Horizon Europe Pillar 2 **Cluster 1(보건)**\ 의 2027년 하반기 단일단계 공고(총 €81.5M)입니다. **2027년 6월 3일 개시, 마감은 2027년 9월 22일 17:00(브뤼셀)** 예정입니다. 한국 소재 법인(기업·대학·연구소)은 Horizon Europe Pillar 2 준회원국 자격으로 원칙적으로 EU 회원국 기관과 거의 동등한 조건에서 참여하고 EU 예산을 직접 지원받을 수 있습니다. 토픽별 참여국·지배구조 제한과 추가 자격요건은 아래 **지원자격** 항목에 정리했습니다.
+Horizon Europe Pillar 2 **Cluster 1(보건)**\ 의 2027년 하반기 단일단계 공고(총 €81.5M)입니다. **2027년 6월 3일 개시, 마감은 2027년 9월 16일 17:00(브뤼셀)** 예정입니다. 한국 소재 법인(기업·대학·연구소)은 Horizon Europe Pillar 2 준회원국 자격으로 원칙적으로 EU 회원국 기관과 거의 동등한 조건에서 참여하고 EU 예산을 직접 지원받을 수 있습니다. 토픽별 참여국·지배구조 제한과 추가 자격요건은 아래 **지원자격** 항목에 정리했습니다.
 
-상반기에 개시되는 본 공고는 [HORIZON-HLTH-2027-01](/programs/horizon-hlth-2027-01/)(€341.6M)입니다. 개시 전에도 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-4-health_horizon-2026-2027_en.pdf)에서 토픽을 미리 확인하고 컨소시엄을 준비할 수 있습니다. 개시일은 ±1개월, 마감일은 최대 2개월 조정될 수 있습니다.
+2026년 10월에 개시되는 본 공고는 [HORIZON-HLTH-2027-01](/programs/horizon-hlth-2027-01/)(€341.6M)입니다. 개시 전에도 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-4-health_horizon-2026-2027_en.pdf)에서 토픽을 미리 확인하고 컨소시엄을 준비할 수 있습니다. 개시일은 ±1개월, 마감일은 최대 2개월 조정될 수 있습니다.
 
 ## 토픽
 
@@ -38,7 +38,7 @@ Horizon Europe Pillar 2 **Cluster 1(보건)**\ 의 2027년 하반기 단일단�
 | :--- | :--- | :---: | :--- | ---: |
 | TOOL-02 | 재생의학용 생세포 바이오프린팅 고도화 | RIA | 100% | 39.3 |
 | TOOL-04 | 예방·진단 통합 임상의사결정 지원용 가상 인간 트윈 | RIA | 100% | 39.3 |
-| TOOL-08 | 의료용 범용인공지능(AGI)을 향하여 | CSA | 100% | 2.9 |
+| TOOL-08 | 헬스케어를 위한 차세대 프런티어 인공지능 모델 | CSA | 100% | 2.9 |
 
 토픽의 공식 조건은 [Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=HORIZON-HLTH-2027-03&isExactMatch=true), 상세 내용은 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-4-health_horizon-2026-2027_en.pdf)에서 확인할 수 있습니다.
 

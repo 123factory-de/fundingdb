@@ -9,6 +9,14 @@ One dated section per verification pass, newest first. Key claims on the program
 page (front matter, bold statements, and table rows) are mapped to the sources
 that support them, so the page can be re-checked claim by claim.
 
+## 2026-10-06 — targeted recheck
+
+Eureka Call 6 lists South Korea but states “The funding modalities will be added soon.” The previous general KIAT amounts/rates/duration are not fresh Call-6-specific evidence. Replaced unqualified financial terms with a domestic-notice confirmation requirement; participation remains confirmed.
+
+Scope: targeted corrections only; historical full-verification dates are unchanged. See [_crosscheck-2026-10-06.md](_crosscheck-2026-10-06.md) for scope and limitations.
+
+Source: [Eureka official programme record](https://www.eurekanetwork.org/wp-json/wp/v2/programmes/2725) and operator webpages listed in this log.
+
 ## Sources
 
 | # | Source | Access note |

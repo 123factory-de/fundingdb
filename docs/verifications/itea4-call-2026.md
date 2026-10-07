@@ -9,6 +9,20 @@ One dated section per verification pass, newest first. Key claims on the program
 page (front matter, bold statements, and table rows) are mapped to the sources
 that support them, so the page can be re-checked claim by claim.
 
+## 2026-10-06 — targeted recheck
+
+Stored status corrected to open; official current-call webpage confirms opening 15 September 2026, PO 2 November 2026, FPP 11 February 2027.
+
+Scope: targeted corrections only; historical full-verification dates are unchanged. See [_crosscheck-2026-10-06.md](_crosscheck-2026-10-06.md) for scope and limitations.
+
+Source: [ITEA current call](https://itea4.org/current-call.html).
+
+## 2026-10-06 — opening wording refresh
+
+The [official current-call schedule](https://itea4.org/current-call.html) confirms opening on 2026-09-15 and PO/FPP deadlines of 2026-11-02 / 2027-02-11. Updated the overview to say applications are now open.
+
+This is a targeted date/wording check; prior full-verification dates are retained. Other claims were not re-certified by this update.
+
 ## Sources
 
 | # | Source | Access note |

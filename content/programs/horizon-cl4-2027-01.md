@@ -4,9 +4,9 @@ subtitle: "HORIZON-CL4-2027-01 · Cluster 4 Industry"
 weight: 61
 tags: ["horizon"]
 status: "planned"
-open_date: "2026-09-22"
+open_date: "2026-10-13"
 deadline: "2027-02-02"
-amount: "콜 총 €224M · 과제당 통상 100만~1,000만 유로"
+amount: "콜 총 €224.7M · 과제당 통상 100만~1,000만 유로"
 amount_short: "과제당 수십억 원"
 target: "기업·대학·연구소"
 target_short: "기업·대학·연구소"
@@ -28,7 +28,7 @@ verified: "2026-08-18"
 
 ## 개요
 
-Horizon Europe Pillar 2 **Cluster 4(디지털·산업·우주)**\ 의 2027년 산업 본 공고로, 제조·소재·원자재를 다룹니다(총 €224M). **2026년 9월 22일 개시, 마감은 2027년 2월 2일 17:00(브뤼셀)** 예정입니다. 같은 날 2단계(two-stage) 공고 [HORIZON-CL4-2027-02-two-stage](/programs/horizon-cl4-2027-02-two-stage/)(소재·생산)도 함께 개시될 예정입니다.
+Horizon Europe Pillar 2 **Cluster 4(디지털·산업·우주)**\ 의 2027년 산업 본 공고로, 제조·소재·원자재를 다룹니다(총 €224.7M). **2026년 10월 13일 개시, 마감은 2027년 2월 2일 17:00(브뤼셀)** 예정입니다. 같은 날 2단계(two-stage) 공고 [HORIZON-CL4-2027-02-two-stage](/programs/horizon-cl4-2027-02-two-stage/)(소재·생산)도 함께 개시될 예정입니다.
 
 한국 소재 법인(기업·대학·연구소)은 Horizon Europe Pillar 2 준회원국 자격으로 원칙적으로 EU 회원국 기관과 거의 동등한 조건에서 참여하고 EU 예산을 직접 지원받을 수 있습니다. 토픽별 참여국·지배구조 제한과 추가 자격요건은 아래 **지원자격** 항목에 정리했습니다. 개시일은 ±1개월, 마감일은 최대 2개월 조정될 수 있습니다. 개시 전에도 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf)에서 토픽을 미리 확인하고 컨소시엄을 준비할 수 있습니다.
 
@@ -47,7 +47,7 @@ Horizon Europe Pillar 2 **Cluster 4(디지털·산업·우주)**\ 의 2027년 �
 | MAT-PROD-22 | 혁신 첨단소재와 신규 생산공정: 핵심·전략 원자재 의존도 감축 | IA | 영리 70% · 비영리 100% | 36.0 |
 | MAT-PROD-42 | 산업·중소기업·스타트업을 위한 학술 지식자산의 잠재력 활용 | CSA | 100% | 2.0 |
 | MAT-PROD-47 | 유럽 스타트업·스케일업·혁신 중소기업의 기술 인프라 시범 이용제도 | CSA | 100% | 5.0 |
-| MAT-PROD-49 | Horizon R&I 성과의 가치화·사업화를 높이는 시장성 검증 | IA | 영리 70% · 비영리 100% | 5.0 |
+| MAT-PROD-49 | Horizon R&I 성과의 가치화·사업화를 높이는 시장성 검증 | IA | 영리 70% · 비영리 100% | 4.7 |
 
 토픽의 공식 조건은 [Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=HORIZON-CL4-2027-01&isExactMatch=true), 상세 내용은 [Work Programme PDF](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf)에서 확인할 수 있습니다.
 

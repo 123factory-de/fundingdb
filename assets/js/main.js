@@ -63,4 +63,8 @@
     });
   });
   if (toggle) toggle.addEventListener("change", apply);
+  // Browsers may restore a checked toggle on reload or history navigation
+  // without emitting a change event.
+  apply();
+  window.addEventListener("pageshow", apply);
 })();
