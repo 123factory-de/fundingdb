@@ -1,6 +1,6 @@
 ---
 program: "horizon-miss-2027-02"
-last_verified: "2026-10-06"
+last_verified: "2026-10-12"
 ---
 
 # Verification log — HORIZON-MISS-2027-02
@@ -13,6 +13,10 @@ last_verified: "2026-10-06"
 | [S2](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-12-missions_horizon-2026-2027_en.pdf) | Official Work Programme / call text | Detailed scope, special eligibility, budget tables and grant conditions |
 | [S3](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf) | General Annexes 2026–2027 | Consortium defaults and action funding rates |
 | [S4](https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/europe-world/international-cooperation/association-horizon-europe/korea_en) | Commission: Korea association | Pillar II association and beneficiary/coordinator funding |
+
+## 2026-10-12 — Horizon Portal schedule cross-check
+
+Rechecked the official Portal bulk dataset with `check_horizon.py`. The call remains planned; its portal topic deadline is 2027-09-21 at 17:00 Brussels local time. Updated the page front matter and overview; other claims were not re-certified.
 
 ## 2026-10-06 — claim-by-claim check
 
