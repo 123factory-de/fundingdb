@@ -2,6 +2,7 @@
 title: "Horizon Europe 2027 · 디지털 소규모"
 subtitle: "HORIZON-CL4-2027-05 · Cluster 4 Digital"
 weight: 64
+date: "2026-08-12"
 tags: ["horizon"]
 status: "planned"
 open_date: "2026-11-17"

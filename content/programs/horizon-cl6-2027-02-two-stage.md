@@ -2,6 +2,7 @@
 title: "Horizon Europe 2027 · 식품·기후"
 subtitle: "HORIZON-CL6-2027-02-two-stage · Cluster 6"
 weight: 127
+date: "2026-08-12"
 tags: ["horizon"]
 status: "planned"
 open_date: "2027-02-04"

@@ -2,6 +2,7 @@
 title: "Horizon Europe 2026 · 모빌리티"
 subtitle: "HORIZON-CL5-2026-06-Two-Stage · Cluster 5"
 weight: 90
+date: "2026-08-12"
 tags: ["horizon"]
 status: "closed"
 deadline: "2026-04-14"

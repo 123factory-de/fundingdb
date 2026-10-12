@@ -2,6 +2,7 @@
 title: "EUREKA 오픈콜 2026"
 subtitle: "EUREKA Network Projects · 자유주제 국제공동 R&D"
 weight: 21
+date: "2026-08-11"
 tags: ["eureka"]
 status: "closed"
 deadline: "2026-10-01"

@@ -2,6 +2,7 @@
 title: "EUREKA 경량화 콜 2026"
 subtitle: "EUREKA Network Projects · 경량화 기술 주제별 콜"
 weight: 23
+date: "2026-08-11"
 tags: ["eureka"]
 status: "open"
 deadline: "2026-10-12"

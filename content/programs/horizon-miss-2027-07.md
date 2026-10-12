@@ -2,6 +2,7 @@
 title: "Horizon Europe 2027 · 도시·기후·순환경제 공동 미션"
 subtitle: "HORIZON-MISS-2027-07 · Horizon Europe"
 weight: 100
+date: "2026-10-07"
 tags: ["horizon"]
 status: "planned"
 open_date: "2027-02-09"

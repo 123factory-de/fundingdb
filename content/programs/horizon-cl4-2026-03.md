@@ -2,6 +2,7 @@
 title: "Horizon Europe 2026 · 우주"
 subtitle: "HORIZON-CL4-2026-03 · Cluster 4 Space"
 weight: 13
+date: "2026-08-12"
 tags: ["horizon"]
 aliases: ["/programs/horizon-cl4-2027-03/"]
 status: "closed"

@@ -9,6 +9,7 @@ Follow the schema already used in `content/programs/`. At minimum, keep these fr
 title: "Reader-facing Korean title"
 subtitle: "OFFICIAL-CALL-ID · Program family"
 weight: 100
+date: "YYYY-MM-DD"
 tags: ["horizon"]
 status: "open"
 deadline: "YYYY-MM-DD"
@@ -28,6 +29,8 @@ verified: "YYYY-MM-DD"
 ```
 
 Use the organization field names already established for the program family. Never publish personal contact data.
+
+Set `date` to the date the program is first added to the database (the creation date), in `YYYY-MM-DD` form. It powers the machine-readable feed at `/programs/index.json`, which agents filter by `date` to find newly added programs. Do not change `date` on later edits — `.Lastmod` (git-derived) already tracks updates. `date` is distinct from `verified` (the fact-check date).
 
 Recommended body order:
 

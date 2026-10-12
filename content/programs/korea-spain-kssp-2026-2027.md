@@ -2,6 +2,7 @@
 title: "한-스페인 전략 R&D 공동공고 4차"
 subtitle: "KSSP 2026–2027 · KIAT × CDTI · 첨단소재"
 weight: 18
+date: "2026-09-28"
 tags: ["bilateral"]
 status: "open"
 deadline: "2027-01-28"

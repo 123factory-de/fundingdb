@@ -2,6 +2,7 @@
 title: "한-스페인 공동 R&D 2025"
 subtitle: "KIAT × CDTI · 반도체·AI 중점"
 weight: 60
+date: "2026-08-11"
 tags: ["bilateral"]
 status: "closed"
 deadline_note: "2026. 1. 28. 마감"

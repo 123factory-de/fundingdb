@@ -2,6 +2,7 @@
 title: "Horizon Europe 2027 · 순환 바이오경제"
 subtitle: "HORIZON-CL6-2027-01-two-stage · Cluster 6"
 weight: 130
+date: "2026-08-12"
 tags: ["horizon"]
 status: "planned"
 open_date: "2027-02-04"

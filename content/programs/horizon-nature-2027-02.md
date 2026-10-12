@@ -2,6 +2,7 @@
 title: "Horizon Europe 2027 · 생태계 복원·모니터링"
 subtitle: "HORIZON-NATURE-2027-02 · Horizon Europe"
 weight: 100
+date: "2026-10-07"
 tags: ["horizon"]
 status: "planned"
 open_date: "2026-10-13"

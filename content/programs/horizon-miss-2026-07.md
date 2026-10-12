@@ -2,6 +2,7 @@
 title: "Horizon Europe 2026 · EU 미션 지역 혁신 실험"
 subtitle: "HORIZON-MISS-2026-07 · Horizon Europe"
 weight: 100
+date: "2026-10-07"
 tags: ["horizon"]
 status: "open"
 open_date: "2026-10-06"

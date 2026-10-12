@@ -3,6 +3,7 @@ title: "Eurostars 3 Call 11"
 subtitle: "EUREKA · 중소기업 국제공동 R&D"
 aliases: ["/programs/eurostars/"]
 weight: 20
+date: "2026-08-11"
 tags: ["eureka"]
 status: "closed"
 deadline: "2026-09-10"

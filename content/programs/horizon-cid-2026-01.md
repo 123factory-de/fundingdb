@@ -2,6 +2,7 @@
 title: "Horizon Europe 2026 · 청정산업"
 subtitle: "HORIZON-CID-2026-01 · Clean Industrial Deal"
 weight: 16
+date: "2026-08-12"
 tags: ["horizon"]
 status: "closed"
 deadline: "2026-09-15"

@@ -2,6 +2,7 @@
 title: "Horizon Europe 2027 · 청정산업"
 subtitle: "HORIZON-CID-2027-01 · Clean Industrial Deal"
 weight: 17
+date: "2026-10-07"
 tags: ["horizon"]
 status: "planned"
 open_date: "2027-01-12"

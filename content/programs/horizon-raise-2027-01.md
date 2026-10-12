@@ -2,6 +2,7 @@
 title: "Horizon Europe 2027 · AI 과학 연구·데이터 랩"
 subtitle: "HORIZON-RAISE-2027-01 · Horizon Europe"
 weight: 100
+date: "2026-10-07"
 tags: ["horizon"]
 status: "planned"
 open_date: "2026-10-13"

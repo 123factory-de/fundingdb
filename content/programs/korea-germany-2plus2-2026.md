@@ -2,6 +2,7 @@
 title: "한-독 2+2 공동기술개발 2026"
 subtitle: "KIAT × BMFTR(DLR) · 반도체 · AI 보조로봇"
 weight: 31
+date: "2026-08-18"
 tags: ["bilateral"]
 status: "open"
 deadline: "2026-11-04"

@@ -2,6 +2,7 @@
 title: "한-독 공동기술개발 12차"
 subtitle: "KIAT × ZIM(AiF) · 국제공동 R&D"
 weight: 30
+date: "2026-08-11"
 tags: ["bilateral"]
 status: "closed"
 deadline_note: "2026. 6. 18. 마감 · 평가 중"

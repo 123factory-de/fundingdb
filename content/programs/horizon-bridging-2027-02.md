@@ -2,6 +2,7 @@
 title: "Horizon Europe 2027 · 선행 Horizon 성과의 시장 실증"
 subtitle: "HORIZON-BRIDGING-2027-02 · Horizon Europe"
 weight: 100
+date: "2026-10-07"
 tags: ["horizon"]
 status: "planned"
 open_date: "2026-10-20"

@@ -2,6 +2,7 @@
 title: "Horizon Europe 2027 · 문화·창의·포용사회"
 subtitle: "HORIZON-CL2-2027-01 · Cluster 2"
 weight: 108
+date: "2026-08-12"
 tags: ["horizon"]
 status: "planned"
 open_date: "2027-05-13"

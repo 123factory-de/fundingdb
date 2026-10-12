@@ -2,6 +2,7 @@
 title: "Horizon Europe 2026 · 기후중립·스마트도시 미션"
 subtitle: "HORIZON-MISS-2026-04 · Climate-Neutral and Smart Cities Mission"
 weight: 17
+date: "2026-09-28"
 tags: ["horizon"]
 status: "open"
 deadline: "2026-10-08"

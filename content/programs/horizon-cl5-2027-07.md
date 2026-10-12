@@ -2,6 +2,7 @@
 title: "Horizon Europe 2027 · 에너지"
 subtitle: "HORIZON-CL5-2027-07 · Cluster 5"
 weight: 125
+date: "2026-08-12"
 tags: ["horizon"]
 status: "planned"
 open_date: "2027-08-04"

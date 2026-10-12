@@ -2,6 +2,7 @@
 title: "Horizon Europe 2026 · 기후과학"
 subtitle: "HORIZON-CL5-2026-08-Two-Stage · Cluster 5"
 weight: 92
+date: "2026-08-12"
 tags: ["horizon"]
 status: "closed"
 deadline: "2026-04-15"

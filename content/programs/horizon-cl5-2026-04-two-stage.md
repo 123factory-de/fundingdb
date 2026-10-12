@@ -2,6 +2,7 @@
 title: "Horizon Europe 2026 · 차세대 재생에너지"
 subtitle: "HORIZON-CL5-2026-04-Two-Stage · Cluster 5"
 weight: 88
+date: "2026-08-12"
 tags: ["horizon"]
 status: "closed"
 deadline: "2026-03-31"

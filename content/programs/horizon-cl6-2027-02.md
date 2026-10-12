@@ -2,6 +2,7 @@
 title: "Horizon Europe 2027 · 식품 시스템"
 subtitle: "HORIZON-CL6-2027-02 · Cluster 6"
 weight: 115
+date: "2026-08-12"
 tags: ["horizon"]
 status: "planned"
 open_date: "2027-04-20"

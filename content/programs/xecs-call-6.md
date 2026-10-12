@@ -2,6 +2,7 @@
 title: "Xecs Call 6 · 전자부품·시스템"
 subtitle: "EUREKA 클러스터 · 전자부품·시스템 국제공동 R&D"
 weight: 28
+date: "2026-08-11"
 tags: ["eureka"]
 status: "open"
 deadline: "2027-01-21"

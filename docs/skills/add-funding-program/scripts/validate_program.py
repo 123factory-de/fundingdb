@@ -19,6 +19,7 @@ REQUIRED_KEYS = {
     "title",
     "subtitle",
     "weight",
+    "date",
     "tags",
     "status",
     "amount",

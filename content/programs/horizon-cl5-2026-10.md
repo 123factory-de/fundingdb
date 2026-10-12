@@ -2,6 +2,7 @@
 title: "Horizon Europe 2026 · 배터리·모빌리티"
 subtitle: "HORIZON-CL5-2026-10 · Cluster 5"
 weight: 117
+date: "2026-08-12"
 tags: ["horizon"]
 status: "open"
 deadline: "2026-10-08"

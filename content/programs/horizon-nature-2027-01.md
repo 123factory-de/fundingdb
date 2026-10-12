@@ -2,6 +2,7 @@
 title: "Horizon Europe 2027 · 생물다양성 · 오염·산업·사회전환"
 subtitle: "HORIZON-NATURE-2027-01 · Horizon Europe"
 weight: 100
+date: "2026-10-07"
 tags: ["horizon"]
 status: "planned"
 open_date: "2026-10-13"

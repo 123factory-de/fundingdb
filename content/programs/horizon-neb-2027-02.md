@@ -2,6 +2,7 @@
 title: "Horizon Europe 2027 · 바우하우스·토양 공동 실증"
 subtitle: "HORIZON-NEB-2027-02 · Horizon Europe"
 weight: 100
+date: "2026-10-07"
 tags: ["horizon"]
 status: "planned"
 open_date: "2027-05-05"

@@ -2,6 +2,7 @@
 title: "Horizon Europe 2027 · 배터리·모빌리티"
 subtitle: "HORIZON-CL5-2027-04-Two-Stage · Cluster 5"
 weight: 122
+date: "2026-08-12"
 tags: ["horizon"]
 status: "planned"
 open_date: "2026-12-15"

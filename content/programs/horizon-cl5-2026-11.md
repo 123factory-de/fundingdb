@@ -2,6 +2,7 @@
 title: "Horizon Europe 2026 · 에너지"
 subtitle: "HORIZON-CL5-2026-11 · Cluster 5"
 weight: 118
+date: "2026-08-12"
 tags: ["horizon"]
 status: "open"
 deadline: "2026-12-01"

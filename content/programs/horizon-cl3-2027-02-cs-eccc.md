@@ -2,6 +2,7 @@
 title: "Horizon Europe 2027 · 사이버보안·양자내성 암호"
 subtitle: "HORIZON-CL3-2027-02-CS-ECCC · Horizon Europe"
 weight: 100
+date: "2026-10-07"
 tags: ["horizon"]
 status: "planned"
 open_date: "2027-03-02"

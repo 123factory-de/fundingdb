@@ -2,6 +2,7 @@
 title: "Horizon Europe 2027 · 연구 인프라·데이터·인재"
 subtitle: "HORIZON-BRIDGING-2027-03 · Horizon Europe"
 weight: 100
+date: "2026-10-07"
 tags: ["horizon"]
 status: "planned"
 open_date: "2027-03-09"

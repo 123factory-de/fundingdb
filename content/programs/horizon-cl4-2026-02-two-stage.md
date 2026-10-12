@@ -2,6 +2,7 @@
 title: "Horizon Europe 2026 · AI 제조·소재"
 subtitle: "HORIZON-CL4-2026-02-two-stage · Cluster 4"
 weight: 93
+date: "2026-08-12"
 tags: ["horizon"]
 status: "closed"
 deadline: "2026-03-17"

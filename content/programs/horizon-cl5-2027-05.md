@@ -2,6 +2,7 @@
 title: "Horizon Europe 2027 · 에너지저장·효율"
 subtitle: "HORIZON-CL5-2027-05 · Cluster 5"
 weight: 123
+date: "2026-08-12"
 tags: ["horizon"]
 status: "planned"
 open_date: "2027-05-05"

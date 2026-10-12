@@ -2,6 +2,7 @@
 title: "Horizon Europe 2027 · 글로벌 해양 관측"
 subtitle: "HORIZON-NATURE-2027-04 · Horizon Europe"
 weight: 100
+date: "2026-10-07"
 tags: ["horizon"]
 status: "planned"
 open_date: "2026-10-06"

@@ -2,6 +2,7 @@
 title: "Horizon Europe 2027 · 생물다양성·순환경제·환경"
 subtitle: "HORIZON-CL6-2027-01 · Cluster 6"
 weight: 114
+date: "2026-08-12"
 tags: ["horizon"]
 status: "planned"
 open_date: "2027-04-20"
