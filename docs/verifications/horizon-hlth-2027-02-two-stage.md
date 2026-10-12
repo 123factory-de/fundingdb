@@ -1,6 +1,6 @@
 ---
 program: "horizon-hlth-2027-02-two-stage"
-last_verified: "2026-08-18"
+last_verified: "2026-10-12"
 ---
 
 # Verification log — Horizon Europe 2027 · 보건
@@ -8,6 +8,10 @@ last_verified: "2026-08-18"
 One dated section per verification pass, newest first. Key claims on the program
 page (front matter, bold statements, and table rows) are mapped to the sources
 that support them, so the page can be re-checked claim by claim.
+
+## 2026-10-12 — Horizon Portal schedule cross-check
+
+Rechecked the official Portal bulk dataset with `check_horizon.py`. The call remains planned; the portal reports 2027-04-13 for stage one and 2027-09-22 for stage two, at 17:00 Brussels local time. Updated the page front matter and overview; other claims were not re-certified.
 
 ## 2026-10-06 — schedule refresh
 
