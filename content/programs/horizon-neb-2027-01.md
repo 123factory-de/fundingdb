@@ -2,6 +2,7 @@
 title: "Horizon Europe 2027 · 뉴 유러피언 바우하우스 · 지역·건축"
 subtitle: "HORIZON-NEB-2027-01 · Horizon Europe"
 weight: 100
+date: "2026-10-07"
 tags: ["horizon"]
 status: "planned"
 open_date: "2027-05-05"

@@ -2,6 +2,7 @@
 title: "Horizon Europe 2027 · 시민안전"
 subtitle: "HORIZON-CL3-2027-01 · Cluster 3 Civil Security"
 weight: 111
+date: "2026-08-12"
 tags: ["horizon"]
 status: "planned"
 open_date: "2027-05-05"

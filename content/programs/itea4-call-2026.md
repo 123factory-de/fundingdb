@@ -2,6 +2,7 @@
 title: "ITEA 4 Call 2026 · 소프트웨어"
 subtitle: "EUREKA 클러스터 · 소프트웨어 혁신 국제공동 R&D"
 weight: 24
+date: "2026-08-11"
 tags: ["eureka"]
 status: "open"
 open_date: "2026-09-15"

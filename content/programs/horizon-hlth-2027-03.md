@@ -2,6 +2,7 @@
 title: "Horizon Europe 2027 · 보건 소규모"
 subtitle: "HORIZON-HLTH-2027-03 · Cluster 1 Health"
 weight: 105
+date: "2026-08-12"
 tags: ["horizon"]
 status: "planned"
 open_date: "2027-06-03"

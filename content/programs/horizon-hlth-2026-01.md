@@ -2,6 +2,7 @@
 title: "Horizon Europe 2026 · 보건"
 subtitle: "HORIZON-HLTH-2026-01 · Cluster 1 Health"
 weight: 85
+date: "2026-08-12"
 tags: ["horizon"]
 status: "closed"
 deadline: "2026-04-16"

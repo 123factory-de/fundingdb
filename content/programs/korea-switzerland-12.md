@@ -2,6 +2,7 @@
 title: "한-스위스 공동 R&D 12차"
 subtitle: "KIAT × Innosuisse · 공동혁신 프로젝트"
 weight: 40
+date: "2026-08-11"
 tags: ["bilateral"]
 status: "closed"
 deadline_note: "2026. 6. 30. 마감 · 평가 중"

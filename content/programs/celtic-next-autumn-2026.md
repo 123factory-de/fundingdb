@@ -2,6 +2,7 @@
 title: "CELTIC-NEXT 2026 가을 콜 · 통신·ICT"
 subtitle: "EUREKA 클러스터 · 차세대 통신 국제공동 R&D"
 weight: 25
+date: "2026-08-11"
 tags: ["eureka"]
 status: "open"
 deadline: "2026-10-26"

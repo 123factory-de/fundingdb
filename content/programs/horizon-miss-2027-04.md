@@ -2,6 +2,7 @@
 title: "Horizon Europe 2027 · 기후중립 도시 미션"
 subtitle: "HORIZON-MISS-2027-04 · Horizon Europe"
 weight: 100
+date: "2026-10-07"
 tags: ["horizon"]
 status: "planned"
 open_date: "2027-02-09"

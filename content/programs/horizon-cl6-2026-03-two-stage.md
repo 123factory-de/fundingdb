@@ -2,6 +2,7 @@
 title: "Horizon Europe 2026 · 거버넌스·환경관측"
 subtitle: "HORIZON-CL6-2026-03-two-stage · Cluster 6"
 weight: 84
+date: "2026-08-12"
 tags: ["horizon"]
 status: "closed"
 deadline: "2026-04-15"

@@ -2,6 +2,7 @@
 title: "EUREKA 첨단바이오 콜 2026"
 subtitle: "EUREKA Network Projects · 바이오 분야 주제별 콜"
 weight: 22
+date: "2026-08-11"
 tags: ["eureka"]
 status: "closed"
 deadline: "2026-09-28"

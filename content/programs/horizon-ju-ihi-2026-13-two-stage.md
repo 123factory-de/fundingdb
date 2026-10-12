@@ -2,6 +2,7 @@
 title: "Horizon Europe 2026 · IHI 13차 · 헬스케어 혁신"
 subtitle: "HORIZON-JU-IHI-2026-13-two-stage · Horizon Europe"
 weight: 100
+date: "2026-10-07"
 tags: ["horizon"]
 status: "open"
 open_date: "2026-07-02"

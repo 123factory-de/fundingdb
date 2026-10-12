@@ -2,6 +2,7 @@
 title: "Horizon Europe 2027 · 토양 미션 · 2단계"
 subtitle: "HORIZON-MISS-2027-05-two-stage · Horizon Europe"
 weight: 100
+date: "2026-10-07"
 tags: ["horizon"]
 status: "planned"
 open_date: "2027-02-04"

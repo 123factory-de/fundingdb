@@ -2,6 +2,7 @@
 title: "Horizon Europe 2026 · 생물다양성·순환경제"
 subtitle: "HORIZON-CL6-2026-01-two-stage · Cluster 6"
 weight: 82
+date: "2026-08-12"
 tags: ["horizon"]
 status: "closed"
 deadline: "2026-04-16"

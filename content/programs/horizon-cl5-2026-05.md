@@ -2,6 +2,7 @@
 title: "Horizon Europe 2026 · 청정 모빌리티 (상반기)"
 subtitle: "HORIZON-CL5-2026-05 · Cluster 5"
 weight: 89
+date: "2026-08-12"
 tags: ["horizon"]
 status: "closed"
 deadline: "2026-04-16"

@@ -2,6 +2,7 @@
 title: "EUROGIA 2026 콜 · 저탄소 에너지"
 subtitle: "EUREKA 클러스터 · 저탄소 에너지 국제공동 R&D"
 weight: 27
+date: "2026-08-11"
 tags: ["eureka"]
 status: "open"
 deadline: "2026-10-29"

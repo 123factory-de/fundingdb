@@ -2,6 +2,7 @@
 title: "Horizon Europe 2026 · 데이터 농업 파트너십"
 subtitle: "HORIZON-CL6-2026-04 · Agriculture of Data COFUND"
 weight: 113
+date: "2026-08-12"
 tags: ["horizon"]
 status: "open"
 open_date: "2026-08-25"

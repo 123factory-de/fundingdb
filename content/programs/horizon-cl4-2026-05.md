@@ -2,6 +2,7 @@
 title: "Horizon Europe 2026 · 디지털 전략자율성"
 subtitle: "HORIZON-CL4-2026-05 · Cluster 4 Digital"
 weight: 96
+date: "2026-08-12"
 tags: ["horizon"]
 status: "closed"
 deadline: "2026-04-15"

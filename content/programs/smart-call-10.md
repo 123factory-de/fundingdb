@@ -2,6 +2,7 @@
 title: "SMART Call 10 · 첨단제조"
 subtitle: "EUREKA 클러스터 · 첨단제조 국제공동 R&D"
 weight: 26
+date: "2026-08-11"
 tags: ["eureka"]
 status: "open"
 deadline: "2027-01-26"

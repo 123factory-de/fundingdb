@@ -2,6 +2,7 @@
 title: "Horizon Europe 2027 · 보건"
 subtitle: "HORIZON-HLTH-2027-02-two-stage · Cluster 1 Health"
 weight: 104
+date: "2026-08-12"
 tags: ["horizon"]
 status: "planned"
 open_date: "2026-10-29"

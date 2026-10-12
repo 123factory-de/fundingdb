@@ -2,6 +2,7 @@
 title: "Eurostars 3 Call 12"
 subtitle: "EUREKA · 중소기업 국제공동 R&D"
 weight: 19
+date: "2026-09-28"
 tags: ["eureka"]
 status: "planned"
 open_date: "2026-12-17"

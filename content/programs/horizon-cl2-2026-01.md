@@ -2,6 +2,7 @@
 title: "Horizon Europe 2026 · 문화·창의·포용사회"
 subtitle: "HORIZON-CL2-2026-01 · Cluster 2"
 weight: 106
+date: "2026-08-11"
 tags: ["horizon"]
 status: "closed"
 deadline: "2026-09-24"

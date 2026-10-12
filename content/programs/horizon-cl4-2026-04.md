@@ -2,6 +2,7 @@
 title: "Horizon Europe 2026 · 디지털"
 subtitle: "HORIZON-CL4-2026-04 · Cluster 4 Digital"
 weight: 95
+date: "2026-08-12"
 tags: ["horizon"]
 status: "closed"
 deadline: "2026-04-15"

@@ -2,6 +2,7 @@
 title: "Horizon Europe 2026 · 식품 시스템"
 subtitle: "HORIZON-CL6-2026-02 · Cluster 6"
 weight: 80
+date: "2026-08-12"
 tags: ["horizon"]
 status: "closed"
 deadline: "2026-04-14"

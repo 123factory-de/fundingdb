@@ -2,6 +2,7 @@
 title: "Horizon Europe 2027 · AI 산업 실증·전략기술"
 subtitle: "HORIZON-BRIDGING-2027-01 · Horizon Europe"
 weight: 100
+date: "2026-10-07"
 tags: ["horizon"]
 status: "planned"
 open_date: "2026-10-20"

@@ -2,6 +2,7 @@
 title: "Horizon Europe 2026 · New European Bauhaus"
 subtitle: "HORIZON-NEB-2026-01 · Beautiful, inclusive and sustainable neighbourhoods"
 weight: 17
+date: "2026-09-28"
 tags: ["horizon"]
 status: "open"
 deadline: "2026-12-01"

@@ -5,6 +5,10 @@ defaultContentLanguage = "ko"
 timeZone = "Europe/Berlin"
 enableRobotsTXT = true
 disableKinds = ["taxonomy", "term"]
+# Populate .Lastmod from git so the machine-readable program feed can expose a
+# reliable "last updated" date without manual front-matter upkeep. CI checks out
+# full history (fetch-depth: 0), so this resolves correctly on deploy.
+enableGitInfo = true
 
 [params]
 description = "Horizon Europe, Eurostars, 한-독 공동기술개발 등 한국 기업이 지원할 수 있는 유럽·독일 R&D 지원사업을 한국어로 정리한 데이터베이스입니다."
@@ -23,4 +27,6 @@ escapedSpace = true
 
 [outputs]
 home = ["HTML"]
-section = ["HTML"]
+# The programs section also emits index.json — a machine-readable feed at
+# /programs/index.json for other agents to discover programs by added/updated date.
+section = ["HTML", "JSON"]

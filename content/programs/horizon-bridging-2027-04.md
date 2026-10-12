@@ -2,6 +2,7 @@
 title: "Horizon Europe 2027 · 기후 회복력·관측·안전 연구"
 subtitle: "HORIZON-BRIDGING-2027-04 · Horizon Europe"
 weight: 100
+date: "2026-10-07"
 tags: ["horizon"]
 status: "open"
 open_date: "2026-10-06"
