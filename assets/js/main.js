@@ -40,19 +40,60 @@
     }
   });
 
-  // Tag filter chips + "모집중만 보기" toggle.
+  // Tag filter chips + "모집중만 보기" toggle + full-text search.
   var chips = document.querySelectorAll(".chip[data-filter]");
   var cards = document.querySelectorAll(".card[data-tags]");
   var toggle = document.getElementById("open-only");
+  var input = document.getElementById("q");
+  var noResults = document.querySelector(".no-results");
   var tag = "all";
   var OPEN = ["open", "soon", "always"];
+  var query = "";          // current search string, lowercased
+  // Search index (slug -> body+metadata text), fetched once from /index.json
+  // the first time the visitor touches the search box. Until it arrives we
+  // match against each card's own visible text, so title/subtitle search works
+  // immediately and body search lights up as soon as the index loads.
+  var index = null;
+  var indexState = "idle"; // idle | loading | ready | error
+
+  function loadIndex() {
+    if (indexState !== "idle") return;
+    indexState = "loading";
+    fetch("/index.json")
+      .then(function (r) { return r.json(); })
+      .then(function (data) {
+        index = {};
+        data.forEach(function (it) { index[it.slug] = it.text; });
+        indexState = "ready";
+        apply();
+      })
+      .catch(function () { indexState = "error"; });
+  }
+
+  function haystack(card) {
+    var slug = card.getAttribute("data-slug");
+    if (index && slug && index[slug] != null) return index[slug];
+    return card.textContent.toLowerCase();
+  }
 
   function apply() {
+    var terms = query ? query.split(/\s+/) : [];
+    var shown = 0;
     cards.forEach(function (c) {
       var tagOk = tag === "all" || c.getAttribute("data-tags").split(" ").indexOf(tag) !== -1;
       var statusOk = !toggle || !toggle.checked || OPEN.indexOf(c.getAttribute("data-status")) !== -1;
-      c.style.display = tagOk && statusOk ? "" : "none";
+      var searchOk = true;
+      if (terms.length) {
+        var hay = haystack(c);
+        for (var i = 0; i < terms.length; i++) {
+          if (hay.indexOf(terms[i]) === -1) { searchOk = false; break; }
+        }
+      }
+      var ok = tagOk && statusOk && searchOk;
+      c.style.display = ok ? "" : "none";
+      if (ok) shown++;
     });
+    if (noResults) noResults.hidden = shown !== 0;
   }
 
   chips.forEach(function (chip) {
@@ -63,8 +104,29 @@
     });
   });
   if (toggle) toggle.addEventListener("change", apply);
-  // Browsers may restore a checked toggle on reload or history navigation
-  // without emitting a change event.
-  apply();
-  window.addEventListener("pageshow", apply);
+
+  if (input) {
+    var debounce;
+    input.addEventListener("focus", loadIndex);
+    input.addEventListener("input", function () {
+      loadIndex();
+      clearTimeout(debounce);
+      debounce = setTimeout(function () {
+        query = input.value.trim().toLowerCase();
+        apply();
+      }, 120);
+    });
+  }
+
+  function syncFromControls() {
+    // Browsers may restore a typed query or checked toggle on reload or history
+    // navigation without emitting events.
+    if (input) {
+      query = input.value.trim().toLowerCase();
+      if (query) loadIndex();
+    }
+    apply();
+  }
+  syncFromControls();
+  window.addEventListener("pageshow", syncFromControls);
 })();

@@ -1,0 +1,38 @@
+{{- /*
+  Client-side search index, served at /index.json.
+
+  One entry per funding program. `text` concatenates every searchable field —
+  card metadata (title, subtitle, tag labels, amount, target, organisations,
+  apply route) plus the full rendered body (.Plain) — so visitors can find a
+  program by the field/area it funds, which often appears only in the body and
+  not on the card. Fetched once by assets/js/main.js when the visitor starts
+  typing; the `slug` matches each card's data-slug for show/hide filtering.
+*/ -}}
+{{- $tagLabel := dict "bilateral" "양자협력" "horizon" "Horizon Europe" "eureka" "Eureka" -}}
+{{- $statusLabel := dict "open" "모집중" "soon" "마감임박" "always" "연중 공고" "planned" "공고 예정" "closed" "마감" -}}
+{{- $items := slice -}}
+{{- range (where site.RegularPages "Section" "programs") -}}
+  {{- $parts := slice .Title (.Params.subtitle | default "") -}}
+  {{- range .Params.tags -}}
+    {{- $parts = $parts | append . (index $tagLabel . | default "") -}}
+  {{- end -}}
+  {{- with index $statusLabel (.Params.status | default "") -}}{{- $parts = $parts | append . -}}{{- end -}}
+  {{- /*
+    Body text, minus the anchor text of links that point to OTHER program
+    pages. Cross-reference sections (e.g. "관련 유레카 경로") link to sibling
+    programs by name; indexing those names made a search for one program
+    surface every page that merely links to it. Each program's own name still
+    lives in its title/body, so it is still found on its own page.
+  */ -}}
+  {{- $body := replaceRE `(?s)<a[^>]+href="/programs/[^"]*"[^>]*>.*?</a>` " " .Content | plainify -}}
+  {{- $parts = $parts | append
+    (.Params.amount | default "") (.Params.target | default "")
+    (.Params.org_eu | default "") (.Params.org_kr | default "")
+    (.Params.apply_via | default "") (.Params.duration | default "")
+    $body -}}
+  {{- $items = $items | append (dict
+    "slug" .File.ContentBaseName
+    "text" (lower (delimit $parts " " | chomp))
+  ) -}}
+{{- end -}}
+{{- $items | jsonify -}}

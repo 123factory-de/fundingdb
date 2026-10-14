@@ -26,7 +26,10 @@ enable = true
 escapedSpace = true
 
 [outputs]
-home = ["HTML"]
+# The home page also emits index.json — a client-side search index at /index.json
+# carrying each program's card fields plus its full body text, fetched once when
+# the visitor starts searching.
+home = ["HTML", "JSON"]
 # The programs section also emits index.json — a machine-readable feed at
 # /programs/index.json for other agents to discover programs by added/updated date.
 section = ["HTML", "JSON"]
