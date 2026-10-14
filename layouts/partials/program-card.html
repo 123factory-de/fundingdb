@@ -1,6 +1,6 @@
 {{- $statusLabel := dict "open" "모집중" "soon" "마감임박" "always" "연중 공고" "planned" "공고 예정" "closed" "마감" -}}
 {{- $tagLabel := dict "bilateral" "양자협력" "horizon" "Horizon Europe" "eureka" "Eureka" -}}
-<article class="card" data-tags="{{ delimit .Params.tags " " }}" data-status="{{ .Params.status }}"{{ with .Params.open_date }} data-open-date="{{ . }}"{{ end }}>
+<article class="card" data-slug="{{ .File.ContentBaseName }}" data-tags="{{ delimit .Params.tags " " }}" data-status="{{ .Params.status }}"{{ with .Params.open_date }} data-open-date="{{ . }}"{{ end }}>
   <div class="card-top">
     <span class="badge b-{{ .Params.status }}">{{ index $statusLabel .Params.status }}</span>
     {{ if .Params.deadline }}
