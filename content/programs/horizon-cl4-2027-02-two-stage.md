@@ -4,7 +4,7 @@ subtitle: "HORIZON-CL4-2027-02-two-stage · Cluster 4"
 weight: 126
 date: "2026-08-12"
 tags: ["horizon"]
-status: "planned"
+status: "open"
 open_date: "2026-10-13"
 deadline: "2027-02-02"
 amount: "콜 총 €82.5M · 과제당 통상 100만~1,000만 유로"
@@ -24,7 +24,7 @@ links:
     url: "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf"
   - name: "한-EU 연구협력센터 (KERC)"
     url: "https://k-erc.eu"
-verified: "2026-08-18"
+verified: "2026-10-26"
 ---
 
 ## 개요

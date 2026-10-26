@@ -4,7 +4,7 @@ subtitle: "HORIZON-MISS-2026-04 · Climate-Neutral and Smart Cities Mission"
 weight: 17
 date: "2026-09-28"
 tags: ["horizon"]
-status: "open"
+status: "closed"
 deadline: "2026-10-08"
 amount: "콜 총 €85.5M"
 amount_short: "EU 공동지원"
@@ -19,12 +19,12 @@ links:
     url: "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=HORIZON-MISS-2026-04&isExactMatch=true"
   - name: "Work Programme 2026–2027"
     url: "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-12-missions_horizon-2026-2027_en.pdf"
-verified: "2026-09-28"
+verified: "2026-10-26"
 ---
 
 ## 개요
 
-Horizon Europe 2026 · 기후중립·스마트도시 미션 공고입니다. **마감은 2026-10-08 17:00(브뤼셀)**이며, 한국 소재 기업·대학·연구기관은 Horizon Europe Pillar 2 준회원국 자격으로 원칙적으로 참여하고 EU 예산을 직접 지원받을 수 있습니다. 다만 토픽별 지역·공공기관·보안 및 추가 자격조건은 포털에서 반드시 확인해야 합니다.
+Horizon Europe 2026 · 기후중립·스마트도시 미션 공고입니다. **접수는 2026-10-08 17:00(브뤼셀)에 마감되었으며, 한국 소재 기업·대학·연구기관은 Horizon Europe Pillar 2 준회원국 자격으로 원칙적으로 참여하고 EU 예산을 직접 지원받을 수 있습니다. 다만 토픽별 지역·공공기관·보안 및 추가 자격조건은 포털에서 반드시 확인해야 합니다.
 
 ## 토픽
 

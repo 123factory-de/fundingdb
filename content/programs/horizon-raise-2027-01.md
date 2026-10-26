@@ -4,7 +4,7 @@ subtitle: "HORIZON-RAISE-2027-01 · Horizon Europe"
 weight: 100
 date: "2026-10-07"
 tags: ["horizon"]
-status: "planned"
+status: "open"
 open_date: "2026-10-13"
 deadline: "2027-02-02"
 amount: "콜 EU 예산 €30.5M · 토픽별 지원율 적용"
@@ -22,7 +22,7 @@ links:
     url: "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-14-horizontal-activities_horizon-2026-2027_en.pdf"
   - name: "한국 참여 자격 (EU 집행위원회)"
     url: "https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/europe-world/international-cooperation/association-horizon-europe/korea_en"
-verified: "2026-10-06"
+verified: "2026-10-26"
 ---
 
 ## 개요

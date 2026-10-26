@@ -1,6 +1,6 @@
 ---
 program: "horizon-hlth-2027-02-two-stage"
-last_verified: "2026-10-12"
+last_verified: "2026-10-26"
 ---
 
 # Verification log — Horizon Europe 2027 · 보건
@@ -20,6 +20,10 @@ Checked the official [Portal bulk dataset](https://ec.europa.eu/info/funding-ten
 Opening: 2026-10-29; first stage: 2027-02-17; second stage: 2027-09-16, 17:00 Brussels local time.
 
 This is a targeted date/wording check; prior full-verification dates are retained. Other claims were not re-certified by this update.
+
+## 2026-10-26 — Horizon Portal schedule cross-check
+
+Checked the official Portal bulk dataset with `check_horizon.py`. Portal deadline changed from `2027-04-13` to `2027-02-17`; second-stage deadline is `2027-09-16`. Updated the page front matter and reader-facing schedule wording where needed; other claims were not re-certified.
 
 ## Sources
 

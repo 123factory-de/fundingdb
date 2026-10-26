@@ -4,7 +4,7 @@ subtitle: "HORIZON-CL5-2026-10 · Cluster 5"
 weight: 117
 date: "2026-08-12"
 tags: ["horizon"]
-status: "open"
+status: "closed"
 deadline: "2026-10-08"
 amount: "콜 총 €263M · 과제당 통상 100만~1,000만 유로"
 amount_short: "과제당 수십억 원"
@@ -23,12 +23,12 @@ links:
     url: "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf"
   - name: "한-EU 연구협력센터 (KERC)"
     url: "https://k-erc.eu"
-verified: "2026-08-18"
+verified: "2026-10-26"
 ---
 
 ## 개요
 
-Horizon Europe Pillar 2 **Cluster 5(기후·에너지·모빌리티)**\ 의 2026년 단일단계 공고로, 배터리·모빌리티(자동차·항공·해운·철도)를 다룹니다(총 €263M). **마감은 2026년 10월 8일 17:00(브뤼셀)**\ 입니다. 한국 소재 법인(기업·대학·연구소)은 Horizon Europe Pillar 2 준회원국 자격으로 원칙적으로 EU 회원국 기관과 거의 동등한 조건에서 참여하고 EU 예산을 직접 지원받을 수 있습니다. 토픽별 참여국·지배구조 제한과 추가 자격요건은 아래 **지원자격** 항목에 정리했습니다.
+Horizon Europe Pillar 2 **Cluster 5(기후·에너지·모빌리티)**\ 의 2026년 단일단계 공고로, 배터리·모빌리티(자동차·항공·해운·철도)를 다룹니다(총 €263M). **접수는 2026년 10월 8일 17:00(브뤼셀)에 마감되었습니다.** 한국 소재 법인(기업·대학·연구소)은 Horizon Europe Pillar 2 준회원국 자격으로 원칙적으로 EU 회원국 기관과 거의 동등한 조건에서 참여하고 EU 예산을 직접 지원받을 수 있습니다. 토픽별 참여국·지배구조 제한과 추가 자격요건은 아래 **지원자격** 항목에 정리했습니다.
 
 함께 접수 중인 Cluster 5 공고: [HORIZON-CL5-2026-09](/programs/horizon-cl5-2026-09/)(배터리·에너지, 마감 2026. 9. 15.), [HORIZON-CL5-2026-11](/programs/horizon-cl5-2026-11/)(에너지, 마감 2026. 12. 1.). 모빌리티 분야 차기 공고는 [HORIZON-CL5-2027-03](/programs/horizon-cl5-2027-03/)(2026. 12. 15. 개시)입니다.
 

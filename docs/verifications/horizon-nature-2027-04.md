@@ -1,9 +1,13 @@
 ---
 program: "horizon-nature-2027-04"
-last_verified: "2026-10-06"
+last_verified: "2026-10-26"
 ---
 
 # Verification log — HORIZON-NATURE-2027-04
+
+## 2026-10-26 — Horizon Portal schedule cross-check
+
+Checked the official Portal bulk dataset with `check_horizon.py`. Portal status changed to `open`. Updated the page front matter and reader-facing schedule wording where needed; other claims were not re-certified.
 
 ## Sources
 

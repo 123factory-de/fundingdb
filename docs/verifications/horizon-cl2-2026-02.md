@@ -1,6 +1,6 @@
 ---
 program: "horizon-cl2-2026-02"
-last_verified: "2026-08-18"
+last_verified: "2026-10-26"
 ---
 
 # Verification log — Horizon Europe 2026 · 사회전환 파트너십
@@ -8,6 +8,10 @@ last_verified: "2026-08-18"
 One dated section per verification pass, newest first. Key claims on the program
 page (front matter, bold statements, and table rows) are mapped to the sources
 that support them, so the page can be re-checked claim by claim.
+
+## 2026-10-26 — Horizon Portal schedule cross-check
+
+Checked the official Portal bulk dataset with `check_horizon.py`. Portal status changed to `closed`. Updated the page front matter and reader-facing schedule wording where needed; other claims were not re-certified.
 
 ## Sources
 
