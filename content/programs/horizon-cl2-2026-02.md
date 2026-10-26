@@ -4,7 +4,7 @@ subtitle: "HORIZON-CL2-2026-02 · COFUND"
 weight: 107
 date: "2026-08-12"
 tags: ["horizon"]
-status: "open"
+status: "closed"
 deadline: "2026-10-13"
 amount: "콜 총 €60M (COFUND)"
 amount_short: "COFUND"
@@ -23,12 +23,12 @@ links:
     url: "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-5-culture-creativity-and-inclusive-society_horizon-2026-2027_en.pdf"
   - name: "한-EU 연구협력센터 (KERC)"
     url: "https://k-erc.eu"
-verified: "2026-08-18"
+verified: "2026-10-26"
 ---
 
 ## 개요
 
-Horizon Europe Pillar 2 **Cluster 2(문화·창의·포용사회)**\ 의 사회전환·회복력 파트너십 COFUND 공고(총 €60M)입니다. **마감은 2026년 10월 13일 17:00(브뤼셀)**\ 입니다.
+Horizon Europe Pillar 2 **Cluster 2(문화·창의·포용사회)**\ 의 사회전환·회복력 파트너십 COFUND 공고(총 €60M)입니다. **접수는 2026년 10월 13일 17:00(브뤼셀)에 마감되었습니다.**
 
 **주의: 이 공고는 연구비 지원기관(펀딩 에이전시) 컨소시엄이 대상인 COFUND 형태**로, 일반 기업·대학이 직접 지원하는 공고가 아닌 경우가 대부분입니다. 기업이 참여할 수 있는 Cluster 2 본 공고는 [HORIZON-CL2-2026-01](/programs/horizon-cl2-2026-01/)(접수 중, 마감 2026. 9. 23.)입니다.
 

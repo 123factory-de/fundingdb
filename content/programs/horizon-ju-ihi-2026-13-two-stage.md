@@ -4,7 +4,7 @@ subtitle: "HORIZON-JU-IHI-2026-13-two-stage · Horizon Europe"
 weight: 100
 date: "2026-10-07"
 tags: ["horizon"]
-status: "open"
+status: "closed"
 open_date: "2026-07-02"
 deadline: "2026-10-08"
 deadline_note: "1차 2026-10-08 · 2차 2027-04-21"
@@ -23,12 +23,12 @@ links:
     url: "https://www.ihi.europa.eu/sites/default/files/uploads/Documents/Calls/IHI%20Call%2013_TOPIC%20TEXT%20final%20for%20publication.pdf"
   - name: "한국 참여 자격 (EU 집행위원회)"
     url: "https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/europe-world/international-cooperation/association-horizon-europe/korea_en"
-verified: "2026-10-06"
+verified: "2026-10-26"
 ---
 
 ## 개요
 
-**한국 기관과 지원 자격을 갖춘 한국 기업은 IHI 수혜기관으로 참여할 수 있습니다.** IHI 13차 · 헬스케어 혁신 분야를 지원하는 공고입니다. 접수 개시는 **2026-07-02**, 1차 마감은 **2026-10-08**, 2차 마감은 **2027-04-21**입니다. 모든 마감은 **17:00(브뤼셀 현지시간)** 기준입니다.
+**한국 기관과 지원 자격을 갖춘 한국 기업은 IHI 수혜기관으로 참여할 수 있습니다.** IHI 13차 · 헬스케어 혁신 분야를 지원하는 공고입니다. 접수 개시는 **2026-07-02**, 1차 접수는 **2026-10-08**에 마감되었고, 2차 마감은 **2027-04-21**입니다. 모든 마감은 **17:00(브뤼셀 현지시간)** 기준입니다.
 
 ## 토픽
 

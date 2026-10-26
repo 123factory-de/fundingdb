@@ -1,6 +1,6 @@
 ---
 program: "horizon-cl4-2027-02-two-stage"
-last_verified: "2026-08-18"
+last_verified: "2026-10-26"
 ---
 
 # Verification log — Horizon Europe 2027 · 소재·생산
@@ -18,6 +18,10 @@ MAT-PROD-32 is IA, not RIA: maximum EU rate 70% for profit-making entities and 1
 Scope: targeted corrections only; historical full-verification dates are unchanged. See [_crosscheck-2026-10-06.md](_crosscheck-2026-10-06.md) for scope and limitations.
 
 Source: [official Work Programme Part 7](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf), fetched anew on 2026-10-06.
+
+## 2026-10-26 — Horizon Portal schedule cross-check
+
+Checked the official Portal bulk dataset with `check_horizon.py`. Portal status changed to `open`. Updated the page front matter and reader-facing schedule wording where needed; other claims were not re-certified.
 
 ## Sources
 

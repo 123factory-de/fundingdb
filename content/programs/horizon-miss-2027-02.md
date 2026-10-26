@@ -6,7 +6,7 @@ date: "2026-10-07"
 tags: ["horizon"]
 status: "planned"
 open_date: "2027-02-10"
-deadline: "2027-09-21"
+deadline: "2027-09-16"
 amount: "콜 EU 예산 €115.323812M · 토픽별 지원율 적용"
 amount_short: "콜 €115.323812M"
 target: "토픽별 조건을 갖춘 국제 컨소시엄"
@@ -22,12 +22,12 @@ links:
     url: "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-12-missions_horizon-2026-2027_en.pdf"
   - name: "한국 참여 자격 (EU 집행위원회)"
     url: "https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/europe-world/international-cooperation/association-horizon-europe/korea_en"
-verified: "2026-10-12"
+verified: "2026-10-26"
 ---
 
 ## 개요
 
-**한국 소재 법인은 아래 토픽의 조건을 충족하는 국제 컨소시엄에서 EU 지원을 직접 받을 수 있습니다.** 암 미션 · 연구·임상·조달 분야를 지원하는 공고입니다. 접수 개시는 **2027-02-10**, 마감은 **2027-09-21**입니다. 모든 마감은 **17:00(브뤼셀 현지시간)** 기준입니다.
+**한국 소재 법인은 아래 토픽의 조건을 충족하는 국제 컨소시엄에서 EU 지원을 직접 받을 수 있습니다.** 암 미션 · 연구·임상·조달 분야를 지원하는 공고입니다. 접수 개시는 **2027-02-10**, 마감은 **2027-09-16**입니다. 모든 마감은 **17:00(브뤼셀 현지시간)** 기준입니다.
 
 ## 토픽
 

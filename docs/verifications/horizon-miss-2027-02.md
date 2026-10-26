@@ -1,9 +1,13 @@
 ---
 program: "horizon-miss-2027-02"
-last_verified: "2026-10-12"
+last_verified: "2026-10-26"
 ---
 
 # Verification log — HORIZON-MISS-2027-02
+
+## 2026-10-26 — Horizon Portal schedule cross-check
+
+Checked the official Portal bulk dataset with `check_horizon.py`. Portal deadline changed from `2027-09-21` to `2027-09-16`. Updated the page front matter and reader-facing schedule wording where needed; other claims were not re-certified.
 
 ## Sources
 
