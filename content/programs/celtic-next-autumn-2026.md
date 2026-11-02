@@ -4,7 +4,7 @@ subtitle: "EUREKA 클러스터 · 차세대 통신 국제공동 R&D"
 weight: 25
 date: "2026-08-11"
 tags: ["eureka"]
-status: "open"
+status: "closed"
 deadline: "2026-10-26"
 amount: "한국측 연 5억 원 이내 (KIAT)"
 amount_short: "연 5억 원 이내"
@@ -23,14 +23,14 @@ links:
     url: "https://www.kiat.or.kr/front/board/boardContentsListPage.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e"
   - name: "K-PASS 접수"
     url: "https://www.k-pass.kr/notice/ancList.do"
-verified: "2026-08-12"
+verified: "2026-11-02"
 ---
 
 ## 개요
 
 CELTIC-NEXT는 **차세대 통신·ICT**(5G/6G, 네트워크, 사이버보안, ICT 융합 서비스) 분야의 유레카 클러스터입니다. 한국은 KIAT가 공식 펀딩기관으로 등재된 참여국으로, 선정(label) 과제의 한국 참여기관은 KIAT 국내 공고를 통해 연구비를 지원받습니다.
 
-**2026년 가을 콜이 접수 중입니다 — 제안서 마감 2026년 10월 26일 23:59(현지시간, 시간대 표기 확인 필요)**, 선정(labelling) 결과는 2027년 1월 발표 예정입니다.
+**2026년 가을 콜은 마감되었습니다 — 제안서 마감은 2026년 10월 26일 23:59(현지시간, 시간대 표기 확인 필요)이었습니다.** 선정(labelling) 결과는 2027년 1월 발표 예정입니다.
 
 공식 [CELTIC 공고](https://www.celticnext.eu/celtic-next-autumn-call-2026/)는 CEST, [Eureka 공고](https://www.eurekanetwork.org/programmes/celtic-next-autumn-call-2026/)는 CET로 시간대를 다르게 표기합니다. 마감일은 동일하지만 정확한 마감 시각은 제출 플랫폼에서 확인하고 여유 있게 제출하세요.
 

@@ -1,6 +1,6 @@
 ---
 program: "celtic-next-autumn-2026"
-last_verified: "2026-08-12"
+last_verified: "2026-11-02"
 ---
 
 # Verification log — CELTIC-NEXT 2026 가을 콜 · 통신·ICT
@@ -8,6 +8,10 @@ last_verified: "2026-08-12"
 One dated section per verification pass, newest first. Every claim on the program
 page is mapped to the source that supports it, so the page can be re-checked
 claim by claim.
+
+## 2026-11-02 — status refresh
+
+The official call page gives a 26 October 2026 deadline at 23:59 CEST. The deadline has passed; changed the page status from `open` to `closed` and changed the overview wording. The page still presents its historical “Open” label, so the closure conclusion is based on the official deadline rather than that stale label. No Korean funding terms were changed.
 
 ## 2026-10-06 — targeted recheck
 
