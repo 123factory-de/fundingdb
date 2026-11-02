@@ -1,6 +1,6 @@
 ---
 program: "eurogia-call-2026"
-last_verified: "2026-08-12"
+last_verified: "2026-11-02"
 ---
 
 # Verification log — EUROGIA 2026 콜 · 저탄소 에너지
@@ -8,6 +8,10 @@ last_verified: "2026-08-12"
 One dated section per verification pass, newest first. Key claims on the program
 page (front matter, bold statements, and table rows) are mapped to the sources
 that support them, so the page can be re-checked claim by claim.
+
+## 2026-11-02 — status refresh
+
+The official EUROGIA call page gives a 29 October 2026 deadline at 17:00 CET. The deadline has passed; changed the page status from `open` to `closed` and changed the overview wording. No Korean funding terms were changed.
 
 ## Sources
 

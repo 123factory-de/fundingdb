@@ -4,7 +4,7 @@ subtitle: "EUREKA Network Projects · 경량화 기술 주제별 콜"
 weight: 23
 date: "2026-08-11"
 tags: ["eureka"]
-status: "open"
+status: "closed"
 deadline: "2026-10-12"
 amount: "한국측 연 5억 원 이내 (KIAT)"
 amount_short: "연 5억 원 이내"
@@ -21,14 +21,14 @@ links:
     url: "https://www.kiat.or.kr/front/board/boardContentsListPage.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e"
   - name: "K-PASS 접수"
     url: "https://www.k-pass.kr/notice/ancList.do"
-verified: "2026-08-12"
+verified: "2026-11-02"
 ---
 
 ## 개요
 
 유레카 네트워크 프로젝트의 **경량화(Lightweighting) 주제별 콜**입니다. 수송기기·소재 등의 경량화 기술 국제공동 R&D를 대상으로 하며, 참여국은 한국을 포함해 오스트리아, 벨기에(플랑드르·왈로니아), 에스토니아, 독일, 리투아니아, 폴란드, 슬로바키아, 스페인, 남아공, 튀르키예 등 12개입니다.
 
-**현재 접수 중입니다(2026년 5월 6일 개시)** — 유레카 중앙 접수 2026년 10월 8일 17:00(CEST), 국내(K-PASS) 접수 **2026년 10월 12일 16:00(KST)** 마감입니다.
+**접수가 마감되었습니다.** 유레카 중앙 접수는 2026년 10월 8일 17:00(CEST), 국내(K-PASS) 접수는 **2026년 10월 12일 16:00(KST)**에 마감되었습니다.
 
 ## 지원자격
 

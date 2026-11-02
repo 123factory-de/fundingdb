@@ -4,7 +4,7 @@ subtitle: "EUREKA 클러스터 · 저탄소 에너지 국제공동 R&D"
 weight: 27
 date: "2026-08-11"
 tags: ["eureka"]
-status: "open"
+status: "closed"
 deadline: "2026-10-29"
 amount: "한국측 연 5억 원 이내 (KIAT)"
 amount_short: "연 5억 원 이내"
@@ -23,14 +23,14 @@ links:
     url: "https://www.kiat.or.kr/front/board/boardContentsListPage.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e"
   - name: "K-PASS 접수"
     url: "https://www.k-pass.kr/notice/ancList.do"
-verified: "2026-08-12"
+verified: "2026-11-02"
 ---
 
 ## 개요
 
 EUROGIA(유로지아2030)는 **저탄소 에너지**(재생에너지, 수소, 에너지 효율, CCUS 등) 분야의 유레카 클러스터입니다. 한국은 KIAT가 공식 펀딩기관으로 등재된 참여국으로, 선정(label) 과제의 한국 참여기관은 KIAT 국내 공고를 통해 연구비를 지원받습니다.
 
-**현재 콜이 접수 중입니다(2026년 7월 1일 개시) — 제안서 마감 2026년 10월 29일 17:00(CET).**
+**2026 콜은 마감되었습니다 — 제안서 마감은 2026년 10월 29일 17:00(CET)이었습니다.**
 
 ## 일정
 

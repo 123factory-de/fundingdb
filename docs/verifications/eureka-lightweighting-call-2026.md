@@ -1,6 +1,6 @@
 ---
 program: "eureka-lightweighting-call-2026"
-last_verified: "2026-08-12"
+last_verified: "2026-11-02"
 ---
 
 # Verification log — EUREKA 경량화 콜 2026
@@ -8,6 +8,10 @@ last_verified: "2026-08-12"
 One dated section per verification pass, newest first. Key claims on the program
 page (front matter, bold statements, and table rows) are mapped to the sources
 that support them, so the page can be re-checked claim by claim.
+
+## 2026-11-02 — status refresh
+
+The official Eureka call page gives a central deadline of 8 October 2026 at 17:00 CEST, and the established Korean domestic deadline is 12 October 2026 at 16:00 KST. Both have passed; changed the page status from `open` to `closed` and revised the overview wording. No Korean funding terms were changed.
 
 ## Sources
 
