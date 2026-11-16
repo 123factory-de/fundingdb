@@ -1,6 +1,6 @@
 ---
 program: "itea4-call-2026"
-last_verified: "2026-08-12"
+last_verified: "2026-11-16"
 ---
 
 # Verification log — ITEA 4 Call 2026 · 소프트웨어
@@ -8,6 +8,10 @@ last_verified: "2026-08-12"
 One dated section per verification pass, newest first. Key claims on the program
 page (front matter, bold statements, and table rows) are mapped to the sources
 that support them, so the page can be re-checked claim by claim.
+
+## 2026-11-16 — status refresh
+
+The official ITEA schedule confirms that the public Project Outline (PO) deadline was 2 November 2026 at 17:00 CET. It schedules announcement of invited PO consortia on 15 December, followed by the Full Project Proposal (FPP) deadline on 11 February 2027. The page is therefore closed to new applicants and retains the FPP date as a later, invitation-only stage. Source: [ITEA current call](https://itea4.org/current-call.html).
 
 ## 2026-10-06 — targeted recheck
 

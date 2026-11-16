@@ -4,7 +4,7 @@ subtitle: "EUREKA 클러스터 · 소프트웨어 혁신 국제공동 R&D"
 weight: 24
 date: "2026-08-11"
 tags: ["eureka"]
-status: "open"
+status: "closed"
 open_date: "2026-09-15"
 deadline: "2026-11-02"
 amount: "한국측 연 5억 원 이내 (KIAT)"
@@ -24,14 +24,14 @@ links:
     url: "https://www.kiat.or.kr/front/board/boardContentsListPage.do?board_id=90&MenuId=b159c9dac684471b87256f1e25404f5e"
   - name: "K-PASS 접수"
     url: "https://www.k-pass.kr/notice/ancList.do"
-verified: "2026-08-12"
+verified: "2026-11-16"
 ---
 
 ## 개요
 
 ITEA 4는 **소프트웨어 혁신** 분야의 유레카 클러스터로, 기업 주도 국제공동 R&D 과제를 매년 콜 방식으로 선정합니다. 한국은 ITEA 참여국으로 그간 한국 파트너 84개 기관이 48개 과제에 참여해 왔으며, 선정(label) 과제의 한국 참여기관은 KIAT 국내 공고를 통해 연구비를 지원받습니다.
 
-**ITEA Call 2026은 2026년 9월 15일에 개시되어 현재 접수 중입니다.** 2단계 절차로, 과제개요서(PO) 마감 **2026년 11월 2일 17:00(CET)**, 본제안서(FPP) 마감 2027년 2월 11일 17:00(CET)입니다.
+**ITEA Call 2026의 신규 과제개요서(PO) 접수는 2026년 11월 2일 17:00(CET)에 마감되었습니다.** 이후 본제안서(FPP)는 PO 심사를 통과해 초청받은 컨소시엄에 한해 진행되며, FPP 마감은 2027년 2월 11일 17:00(CET)입니다.
 
 ## 일정
 
