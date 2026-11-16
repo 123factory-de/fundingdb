@@ -1,6 +1,6 @@
 ---
 program: "korea-germany-2plus2-2026"
-last_verified: "2026-08-18"
+last_verified: "2026-11-16"
 ---
 
 # Verification log — 한-독 2+2 공동기술개발 2026
@@ -8,6 +8,10 @@ last_verified: "2026-08-18"
 One dated section per verification pass, newest first. Key claims on the program
 page (front matter, bold statements, and table rows) are mapped to the sources
 that support them, so the page can be re-checked claim by claim.
+
+## 2026-11-16 — status refresh
+
+The official Korean notice and German announcement set the joint application deadline at 4 November 2026. The page is now marked closed and its overview no longer says applications are open. No funding conditions were changed. Sources: [K-PASS P3095](https://www.k-pass.kr/notice/ancView.do?ancId=P3095&gubun=NEW) and [BMFTR announcement](https://www.bmftr.bund.de/SharedDocs/Bekanntmachungen/DE/2026/08/2026-08-11-bekanntmachung-halbleiter.html).
 
 ## 2026-10-06 — targeted recheck
 

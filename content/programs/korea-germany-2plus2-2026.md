@@ -4,7 +4,7 @@ subtitle: "KIAT × BMFTR(DLR) · 반도체 · AI 보조로봇"
 weight: 31
 date: "2026-08-18"
 tags: ["bilateral"]
-status: "open"
+status: "closed"
 deadline: "2026-11-04"
 amount: "한국측 연 5억 원 이내 (KIAT)"
 amount_short: "연 5억 원 이내"
@@ -23,14 +23,14 @@ links:
     url: "https://projekttraeger.dlr.de/de/foerderung/foerderangebote-und-programme/2plus2-projekte-korea-halbleiter-assistenz-roboter"
   - name: "K-PASS 접수"
     url: "https://www.k-pass.kr/notice/ancList.do"
-verified: "2026-08-18"
+verified: "2026-11-16"
 ---
 
 ## 개요
 
 한국산업기술진흥원(KIAT)과 독일 연방연구기술우주부(**BMFTR**, 구 BMBF)가 운영하는 산학연 협력형 양자 공동 R&D입니다. 독일측 전담기관은 **DLR Projektträger**입니다. ZIM(AiF)과 하는 [한-독 공동기술개발](/programs/korea-germany-12/)이 기업 간 협력 중심이라면, 2+2는 **양국 각각 기업 + 대학·연구기관**이 함께 참여하는 형태이며 주제도 정해져 있습니다.
 
-**2026년 공고는 2026년 8월 11일 한·독 양국에 동시 게시되어 접수 중**이며, 마감은 **2026년 11월 4일 16:00(KST)**\ 입니다.
+**2026년 공고는 2026년 11월 4일 16:00(KST)에 접수 마감되었습니다.** 한·독 양국에 동시 제출하는 방식이었으며, 후속 평가·협약 일정은 공고에 따라 진행됩니다.
 
 ## 지원분야
 
