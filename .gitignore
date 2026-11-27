@@ -3,3 +3,6 @@ resources/_gen/
 .hugo_build.lock
 .env
 .env.*
+
+# Local scratch notes (not published)
+/temp/
