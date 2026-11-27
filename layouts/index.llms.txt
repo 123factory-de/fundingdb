@@ -1,0 +1,40 @@
+{{- /*
+  /llms.txt — LLM-oriented site guide (https://llmstxt.org/ format).
+  Generated from content, so it updates whenever programs change.
+  Program links point to the per-page Markdown output (index.md).
+*/ -}}
+{{- $programs := partial "sorted-programs.html" . -}}
+{{- $active := where $programs "Params.status" "!=" "closed" -}}
+{{- $closed := where $programs "Params.status" "==" "closed" -}}
+# Funding DB
+
+> 한국 기업이 지원할 수 있는 유럽·독일 R&D 지원사업(Horizon Europe, EUREKA·Eurostars와 클러스터, 한-독·한-스위스·한-프랑스·한-스페인 양자협력)을 한국어로 정리한 데이터베이스입니다. 123 Factory(https://www.123factory.de/)가 운영합니다.
+
+- 모든 항목은 각 사업의 공식 공고·공식 웹사이트를 근거로 작성하며, 각 공고에 출처 링크와 최종 확인일(`verified`, YYYY-MM-DD)을 표기합니다. 공식 공고가 최종 기준입니다.
+- 상태(`status`) 값: `open` 모집중, `planned` 공고 예정(접수 전), `closed` 마감.
+- 날짜는 YYYY-MM-DD입니다. 마감 시각(예: 17:00 브뤼셀)은 각 공고 본문에 있습니다.
+- 언어는 한국어이며 공고명·공고 번호(예: HORIZON-CL5-2026-11)는 원문 표기를 병기합니다.
+- 등록 사업 {{ len $programs }}건 (모집중·공고 예정 {{ len $active }}건, 마감 {{ len $closed }}건), 생성 시각 {{ now.Format "2006-01-02" }}.
+
+## 데이터
+
+- [전체 지원사업 JSON 피드]({{ "programs/index.json" | absURL }}): 모든 공고의 상태, 마감일, 지원규모, 지원대상, 기관, 공식 링크, 추가일(`date`)·수정일(`lastmod`)·최종 확인일(`verified`), 공고별 Markdown 주소
+- [전체 지원사업 본문 (llms-full.txt)]({{ "llms-full.txt" | absURL }}): 모집중·공고 예정 공고의 전체 본문과 마감 공고의 요약을 한 파일로 묶은 Markdown
+
+## 모집중·공고 예정 지원사업 (마감일 순)
+{{ range $active }}
+{{- $seo := partial "program-seo.html" . }}
+- [{{ $seo.title }}]({{ with .OutputFormats.Get "markdown" }}{{ .Permalink }}{{ else }}{{ .Permalink }}{{ end }}): {{ $seo.statusLabel }}{{ with $seo.deadlineText }} · 마감 {{ . }}{{ end }}{{ with .Params.amount }} · {{ . }}{{ end }}
+{{- end }}
+
+## 안내 페이지
+
+- [한눈에 비교]({{ "compare/" | absURL }}): 모든 지원사업의 지원규모·자격·마감을 표 하나로 비교
+- [이용 안내]({{ "about/" | absURL }}): 정보 기준과 지원사업 분류(Horizon Europe, Eureka, 양자협력)
+
+## Optional
+
+{{ range $closed -}}
+{{- $seo := partial "program-seo.html" . -}}
+- [{{ $seo.title }}]({{ with .OutputFormats.Get "markdown" }}{{ .Permalink }}{{ else }}{{ .Permalink }}{{ end }}): 마감{{ with $seo.deadlineText }} · {{ . }}{{ end }}
+{{ end -}}

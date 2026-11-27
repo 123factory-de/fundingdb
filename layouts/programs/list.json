@@ -3,9 +3,19 @@
   Intended for other agents: fetch this one file and filter by `date` (when the
   program was added) or `lastmod` (when it was last changed) to find programs
   added or updated after a given date — no local snapshot required.
+
+  The original fields (slug … lastmod) are kept unchanged for existing
+  consumers; the remaining fields were added for LLMs and agents. Missing
+  values are "" (or [] for lists), never omitted, so every record has the same
+  shape.
 */ -}}
 {{- $programs := slice -}}
 {{- range (where site.RegularPages "Section" "programs").ByDate.Reverse -}}
+  {{- $seo := partial "program-seo.html" . -}}
+  {{- $links := slice -}}
+  {{- range .Params.links }}{{ $links = $links | append (dict "name" .name "url" .url) }}{{ end -}}
+  {{- $markdownURL := "" -}}
+  {{- with .OutputFormats.Get "markdown" }}{{ $markdownURL = .Permalink }}{{ end -}}
   {{- $programs = $programs | append (dict
     "slug" .File.ContentBaseName
     "url" .Permalink
@@ -16,10 +26,25 @@
     "deadline" (.Params.deadline | default "")
     "date" (.Date.Format "2006-01-02")
     "lastmod" (.Lastmod.Format "2006-01-02")
+    "markdown_url" $markdownURL
+    "call_id" $seo.callID
+    "status_label" $seo.statusLabel
+    "description" $seo.description
+    "open_date" (.Params.open_date | default "")
+    "deadline_note" (.Params.deadline_note | default "")
+    "amount" (.Params.amount | default "")
+    "target" (.Params.target | default "")
+    "duration" (.Params.duration | default "")
+    "org_eu" (.Params.org_eu | default "")
+    "org_kr" (.Params.org_kr | default "")
+    "apply_via" (.Params.apply_via | default "")
+    "verified" (.Params.verified | default "")
+    "links" $links
   ) -}}
 {{- end -}}
 {{- dict
   "generated" (now.Format "2006-01-02T15:04:05Z07:00")
   "count" (len $programs)
+  "docs" ("llms.txt" | absURL)
   "programs" $programs
 | jsonify (dict "indent" "  ") -}}

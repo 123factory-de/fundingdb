@@ -1,0 +1,50 @@
+{{- /*
+  Derived, search- and LLM-oriented values for one program page, shared by the
+  HTML <head>, JSON-LD, the Markdown/llms.txt outputs and the JSON feed so they
+  never drift apart. Returns a dict:
+  - callID:       official Horizon Europe call identifier (first " · " segment
+                  of `subtitle`, upper-cased), or "" for non-Horizon programs.
+  - title:        page title, with the call ID appended when there is one (it is
+                  what people search for, and it disambiguates single-stage vs
+                  two-stage calls that share a Korean title).
+  - deadlineText: human-readable deadline ("2026. 12. 1.") or `deadline_note`.
+  - statusLabel:  Korean label for `status`.
+  - description:  explicit front-matter `description`, otherwise generated from
+                  subtitle, deadline, budget and eligibility.
+*/ -}}
+{{- $statusLabels := dict "open" "모집중" "soon" "마감임박" "always" "연중 공고" "planned" "공고 예정" "closed" "마감" -}}
+{{- $callID := "" -}}
+{{- with .Params.subtitle -}}
+  {{- $first := index (split . " · ") 0 -}}
+  {{- if hasPrefix (upper $first) "HORIZON-" }}{{ $callID = upper $first }}{{ end -}}
+{{- end -}}
+{{- $title := .Title -}}
+{{- with $callID }}{{ $title = printf "%s (%s)" $title . }}{{ end -}}
+{{- $deadlineText := "" -}}
+{{- with .Params.deadline -}}
+  {{- $deadlineText = (time .).Format "2006. 1. 2." -}}
+{{- else -}}
+  {{- with .Params.deadline_note }}{{ $deadlineText = . }}{{ end -}}
+{{- end -}}
+{{- $desc := .Description -}}
+{{- if not $desc -}}
+  {{- $head := .Title -}}
+  {{- with .Params.subtitle }}{{ $head = printf "%s (%s)" $head . }}{{ end -}}
+  {{- $facts := slice -}}
+  {{- with .Params.deadline -}}
+    {{- $facts = $facts | append (printf "접수마감 %s" $deadlineText) -}}
+  {{- else -}}
+    {{- /* deadline_note already reads like "2026. 6. 18. 마감 · 평가 중" */ -}}
+    {{- with $deadlineText }}{{ $facts = $facts | append . }}{{ end -}}
+  {{- end -}}
+  {{- with .Params.amount }}{{ $facts = $facts | append (printf "지원규모 %s" .) }}{{ end -}}
+  {{- with .Params.target }}{{ $facts = $facts | append (printf "지원대상 %s" .) }}{{ end -}}
+  {{- $desc = printf "%s — %s | 한국 기업 참여 자격과 신청 방법을 한국어로 정리했습니다." $head (delimit $facts " | ") -}}
+{{- end -}}
+{{- return dict
+  "callID" $callID
+  "title" $title
+  "deadlineText" $deadlineText
+  "statusLabel" (index $statusLabels (.Params.status | default ""))
+  "description" $desc
+-}}
