@@ -19,6 +19,15 @@ description: "Funding DB가 담는 정보와 확인 방법을 안내합니다."
 - **Eureka** — Eurostars, ITEA, CELTIC-NEXT, Xecs, SMART 등 유럽 다국적 연구 공동체 및 클러스터 네트워크 프로그램
 - **양자협력 (Bilateral)** — 한-독(ZIM·2+2), 한-스위스, 한-프랑스, 한-스페인 등 양국 정부 간 1:1 공동 R&D 매칭 프로그램
 
+## AI·개발자용 데이터
+
+ChatGPT·Claude 같은 AI 도구나 다른 프로그램이 이 사이트의 정보를 정확하게 읽을 수 있도록 기계가 읽기 쉬운 형식을 함께 제공합니다.
+
+- [llms.txt](/llms.txt) — AI용 사이트 안내. 사이트 소개와 정보 기준, 모집중·공고 예정 지원사업 목록을 담고 있습니다.
+- [llms-full.txt](/llms-full.txt) — 모든 지원사업을 한 파일로 묶은 Markdown 문서. 모집중·공고 예정 사업은 전체 본문, 마감된 사업은 요약을 담고 있습니다.
+- [JSON 피드](/programs/index.json) — 모든 지원사업의 상태, 마감일, 지원규모, 지원대상, 기관, 공식 링크, 추가·수정·최종 확인일을 담은 데이터입니다.
+- 공고별 Markdown — 각 상세 페이지 주소 뒤에 `index.md`를 붙이면 화면 요소 없이 본문만 볼 수 있습니다. 예: [/programs/eureka-open-call-2026/index.md](/programs/eureka-open-call-2026/index.md)
+
 ## 문의
 
 123 Factory 웹사이트([123factory.de](https://www.123factory.de/))를 통해 연락해 주세요.

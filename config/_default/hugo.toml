@@ -29,7 +29,30 @@ escapedSpace = true
 # The home page also emits index.json — a client-side search index at /index.json
 # carrying each program's card fields plus its full body text, fetched once when
 # the visitor starts searching.
-home = ["HTML", "JSON"]
+# It also emits /llms.txt (LLM site guide) and /llms-full.txt (all programs as
+# one Markdown file) — see the output formats below.
+home = ["HTML", "JSON", "llms", "llmsfull"]
 # The programs section also emits index.json — a machine-readable feed at
 # /programs/index.json for other agents to discover programs by added/updated date.
 section = ["HTML", "JSON"]
+
+# LLM-oriented outputs. Program pages opt into "markdown" via `cascade` in
+# content/programs/_index.md, producing /programs/<slug>/index.md next to the
+# HTML page (advertised with <link rel="alternate" type="text/markdown">).
+[outputFormats.llms]
+mediaType = "text/plain"
+baseName = "llms"
+isPlainText = true
+notAlternative = true
+
+[outputFormats.llmsfull]
+mediaType = "text/plain"
+baseName = "llms-full"
+isPlainText = true
+notAlternative = true
+
+[outputFormats.markdown]
+mediaType = "text/markdown"
+baseName = "index"
+isPlainText = true
+rel = "alternate"

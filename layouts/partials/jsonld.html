@@ -1,0 +1,74 @@
+{{- /*
+  schema.org JSON-LD for search engines and LLM crawlers.
+  - Home: WebSite, the operating Organization, and the program database as a
+    Dataset whose distributions are the JSON feed, llms.txt and llms-full.txt.
+  - Program pages: WebPage (with lastReviewed = front-matter `verified`) about a
+    MonetaryGrant. schema.org has no deadline property for grant calls, so the
+    deadline is carried in the generated description.
+  Expects dict "page" (the Page) and "description" (the resolved meta description).
+*/ -}}
+{{- $p := .page -}}
+{{- $siteID := printf "%s#website" site.BaseURL -}}
+{{- $orgID := printf "%s#organization" site.BaseURL -}}
+{{- $org := dict "@type" "Organization" "@id" $orgID "name" "123 Factory" "url" "https://www.123factory.de/" -}}
+{{- $website := dict
+  "@type" "WebSite"
+  "@id" $siteID
+  "name" "Funding DB"
+  "url" site.BaseURL
+  "inLanguage" "ko"
+  "description" site.Params.description
+  "publisher" (dict "@id" $orgID)
+-}}
+{{- $graph := slice -}}
+{{- if $p.IsHome -}}
+  {{- $programs := where site.RegularPages "Section" "programs" -}}
+  {{- $dataset := dict
+    "@type" "Dataset"
+    "@id" (printf "%s#dataset" site.BaseURL)
+    "name" "Funding DB — 한국 기업을 위한 유럽 R&D 지원사업 데이터베이스"
+    "description" site.Params.description
+    "url" site.BaseURL
+    "inLanguage" "ko"
+    "creator" (dict "@id" $orgID)
+    "isAccessibleForFree" true
+    "dateModified" ((index $programs.ByLastmod.Reverse 0).Lastmod.Format "2006-01-02")
+    "keywords" (slice "Horizon Europe" "Eureka" "Eurostars" "R&D 지원사업" "국제공동 R&D" "한-독 공동기술개발")
+    "distribution" (slice
+      (dict "@type" "DataDownload" "encodingFormat" "application/json" "contentUrl" ("programs/index.json" | absURL) "name" "전체 지원사업 JSON 피드")
+      (dict "@type" "DataDownload" "encodingFormat" "text/plain" "contentUrl" ("llms.txt" | absURL) "name" "llms.txt — LLM용 사이트 안내")
+      (dict "@type" "DataDownload" "encodingFormat" "text/plain" "contentUrl" ("llms-full.txt" | absURL) "name" "llms-full.txt — 전체 지원사업 본문")
+    )
+  -}}
+  {{- $graph = slice $website $org $dataset -}}
+{{- else if and $p.IsPage (eq $p.Section "programs") -}}
+  {{- $seo := partial "program-seo.html" $p -}}
+  {{- $grant := dict "@type" "MonetaryGrant" "name" $p.Title "description" .description -}}
+  {{- with $p.Params.subtitle }}{{ $grant = merge $grant (dict "alternateName" .) }}{{ end -}}
+  {{- with $seo.callID }}{{ $grant = merge $grant (dict "identifier" .) }}{{ end -}}
+  {{- /* First link is the primary official call page. The other links are often
+         generic portals (e.g. a submission system's list page), so they are not
+         emitted as sameAs. */ -}}
+  {{- with $p.Params.links }}{{ $grant = merge $grant (dict "url" (index . 0).url) }}{{ end -}}
+  {{- $funders := slice -}}
+  {{- with $p.Params.org_eu }}{{ $funders = $funders | append (dict "@type" "Organization" "name" .) }}{{ end -}}
+  {{- with $p.Params.org_kr }}{{ $funders = $funders | append (dict "@type" "Organization" "name" .) }}{{ end -}}
+  {{- with $funders }}{{ $grant = merge $grant (dict "funder" .) }}{{ end -}}
+  {{- $page := dict
+    "@type" "WebPage"
+    "@id" $p.Permalink
+    "url" $p.Permalink
+    "name" $seo.title
+    "description" .description
+    "inLanguage" "ko"
+    "isPartOf" (dict "@id" $siteID)
+    "datePublished" ($p.Date.Format "2006-01-02")
+    "dateModified" ($p.Lastmod.Format "2006-01-02")
+    "about" $grant
+  -}}
+  {{- with $p.Params.verified }}{{ $page = merge $page (dict "lastReviewed" .) }}{{ end -}}
+  {{- $graph = slice $page $website $org -}}
+{{- end -}}
+{{- with $graph }}
+<script type="application/ld+json">{{ dict "@context" "https://schema.org" "@graph" . | jsonify | safeJS }}</script>
+{{- end -}}

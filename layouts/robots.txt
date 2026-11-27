@@ -2,3 +2,7 @@ User-agent: *
 Allow: /
 
 Sitemap: {{ "sitemap.xml" | absURL }}
+
+# LLM-readable site guide: {{ "llms.txt" | absURL }}
+# All programs in one Markdown file: {{ "llms-full.txt" | absURL }}
+# Machine-readable program feed (JSON): {{ "programs/index.json" | absURL }}

@@ -1,40 +1,23 @@
 {{- /*
-  Per-page <title>, meta description and canonical URL.
-
-  Program detail pages get search-oriented values derived from front matter,
-  so each of the ~90 pages is distinct to search engines without hand-written
-  copy:
-  - title: Horizon Europe calls append the official call identifier (the first
-    " · " segment of `subtitle`, e.g. HORIZON-CL5-2026-11), which is what people
-    search for and which disambiguates single-stage vs two-stage calls that
-    share a Korean title.
-  - description: subtitle, deadline, budget and eligibility.
-  An explicit front-matter `description` always wins.
+  Per-page <title>, meta description, canonical URL, machine-readable
+  alternates and JSON-LD. Program pages take their title and description from
+  the shared `program-seo.html` partial; an explicit front-matter `description`
+  always wins.
 */ -}}
 {{- $title := .Title -}}
 {{- $desc := .Description -}}
 {{- if and .IsPage (eq .Section "programs") -}}
-  {{- with .Params.subtitle -}}
-    {{- $callID := index (split . " · ") 0 -}}
-    {{- if hasPrefix (upper $callID) "HORIZON-" -}}
-      {{- $title = printf "%s (%s)" $title (upper $callID) -}}
-    {{- end -}}
-  {{- end -}}
-  {{- if not $desc -}}
-    {{- $head := .Title -}}
-    {{- with .Params.subtitle }}{{ $head = printf "%s (%s)" $head . }}{{ end -}}
-    {{- $facts := slice -}}
-    {{- with .Params.deadline -}}
-      {{- $facts = $facts | append (printf "접수마감 %s" ((time .).Format "2006. 1. 2.")) -}}
-    {{- else -}}
-      {{- /* deadline_note already reads like "2026. 6. 18. 마감 · 평가 중" */ -}}
-      {{- with .Params.deadline_note }}{{ $facts = $facts | append . }}{{ end -}}
-    {{- end -}}
-    {{- with .Params.amount }}{{ $facts = $facts | append (printf "지원규모 %s" .) }}{{ end -}}
-    {{- with .Params.target }}{{ $facts = $facts | append (printf "지원대상 %s" .) }}{{ end -}}
-    {{- $desc = printf "%s — %s | 한국 기업 참여 자격과 신청 방법을 한국어로 정리했습니다." $head (delimit $facts " | ") -}}
-  {{- end -}}
+  {{- $seo := partial "program-seo.html" . -}}
+  {{- $title = $seo.title -}}
+  {{- $desc = $seo.description -}}
 {{- end -}}
 <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ $title }} — Funding DB{{ end }}</title>
 <meta name="description" content="{{ $desc | default site.Params.description }}">
 <link rel="canonical" href="{{ .Permalink }}">
+{{- with .OutputFormats.Get "markdown" }}
+<link rel="alternate" type="text/markdown" href="{{ .Permalink }}" title="Markdown">
+{{- end }}
+{{- if .IsHome }}
+<link rel="alternate" type="application/json" href="{{ "programs/index.json" | absURL }}" title="Funding DB 전체 지원사업 JSON 피드">
+{{- end }}
+{{ partial "jsonld.html" (dict "page" . "description" ($desc | default site.Params.description)) }}

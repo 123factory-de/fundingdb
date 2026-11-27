@@ -1,0 +1,20 @@
+{{- /*
+  /llms-full.txt — every program in one Markdown file for LLMs.
+  Active (open/planned) programs carry their full body; closed programs carry
+  only key facts and links, to keep the file focused and small.
+*/ -}}
+{{- $programs := partial "sorted-programs.html" . -}}
+{{- $active := where $programs "Params.status" "!=" "closed" -}}
+{{- $closed := where $programs "Params.status" "==" "closed" -}}
+# Funding DB — 전체 지원사업
+
+> 한국 기업이 지원할 수 있는 유럽·독일 R&D 지원사업을 한국어로 정리한 데이터베이스입니다. 운영: 123 Factory. 사이트: {{ site.BaseURL }} · 사이트 안내: {{ "llms.txt" | absURL }} · JSON 피드: {{ "programs/index.json" | absURL }}
+
+본 문서는 공식 공고를 요약한 참고 자료입니다. 지원 요건과 일정은 반드시 각 사업의 공식 공고에서 최종 확인하세요. 생성 시각 {{ now.Format "2006-01-02" }}, 모집중·공고 예정 {{ len $active }}건(마감일 순, 전체 본문 포함), 마감 {{ len $closed }}건(요약만).
+{{ range $active }}
+{{ partial "program-markdown.md" (dict "page" . "level" 2 "body" true) }}
+{{- end }}
+# 마감된 지원사업 (요약)
+{{ range $closed }}
+{{ partial "program-markdown.md" (dict "page" . "level" 2 "body" false) }}
+{{- end }}
